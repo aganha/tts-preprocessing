@@ -1,0 +1,738 @@
+0	11	9	eps	4
+0	10	8	eps	4
+0	9	7	eps	4
+0	8	6	eps	4
+0	7	5	eps	4
+0	6	4	eps	4
+0	5	3	eps	4
+0	4	2	eps	4
+0	3	1	eps	5
+0	1	1	eps	4
+1	2	°	eps
+2	12	eps	p
+3	24	0	eps
+3	17	eps	c	2
+3	14	eps	m	3
+3	13	1	eps
+3	23	9	eps
+3	22	8	eps
+3	21	7	eps
+3	20	6	eps
+3	19	5	eps
+3	18	4	eps
+3	16	3	eps
+3	15	2	eps
+4	28	0	eps	1
+4	27	eps	v	2
+4	26	eps	d	3
+4	25	°	eps
+5	30	eps	t	2
+5	31	0	eps	1
+5	29	°	eps
+6	34	0	eps	1
+6	33	eps	c	2
+6	32	°	eps
+7	37	eps	q	2
+7	36	eps	c	4
+7	38	0	eps	1
+7	35	°	eps
+8	40	eps	s	2
+8	41	0	eps	1
+8	39	°	eps
+9	43	eps	s	2
+9	44	0	eps	1
+9	42	°	eps
+10	46	eps	o	2
+10	47	0	eps	1
+10	45	°	eps
+11	49	eps	n	2
+11	50	0	eps	1
+11	48	°	eps
+12	51	eps	r
+13	53	eps	o	4
+13	52	°	eps
+14	54	eps	i
+15	56	eps	d	4
+15	55	°	eps
+16	58	eps	t	4
+16	57	°	eps
+17	464	eps	e
+17	59	eps	i	4
+18	61	eps	c	4
+18	60	°	eps
+19	63	eps	q	4
+19	62	°	eps
+20	65	eps	d	4
+20	64	°	eps
+21	67	eps	d	4
+21	66	°	eps
+22	69	eps	d	4
+22	68	°	eps
+23	71	eps	d	4
+23	70	°	eps
+24	73	eps	d	4
+24	72	°	eps
+25	74	eps	s
+26	76	eps	o	1
+26	75	eps	u
+27	77	eps	e	4
+27	473	eps	i
+28	78	°	eps
+29	79	eps	t
+30	80	eps	r
+31	81	°	eps
+32	82	eps	c
+33	83	eps	u
+34	84	°	eps
+35	85	eps	q
+36	86	eps	i
+37	87	eps	u
+38	88	°	eps
+39	89	eps	s
+40	90	eps	e
+41	91	°	eps
+42	92	eps	s
+43	93	eps	i	2
+43	94	eps	e
+44	95	°	eps
+45	96	eps	o
+46	97	eps	c
+47	98	°	eps
+48	99	eps	n
+49	100	eps	u	2
+49	101	eps	o
+50	102	°	eps
+51	103	eps	i
+52	104	eps	u
+53	105	eps	n
+54	106	eps	l
+55	107	eps	d
+56	105	eps	o
+57	108	eps	d
+58	109	eps	r
+59	110	eps	e
+60	111	eps	d
+61	112	eps	a
+62	113	eps	d
+63	114	eps	u
+64	115	eps	d
+65	116	eps	i
+66	117	eps	d
+67	118	eps	i
+68	119	eps	d
+69	120	eps	i
+70	121	eps	d
+71	122	eps	i
+72	123	eps	d
+73	124	eps	i
+74	125	eps	e
+75	457	eps	c
+76	126	eps	s
+77	127	eps	i
+78	128	eps	v
+79	129	eps	e
+80	131	eps	e	2
+80	130	eps	i
+81	132	eps	t
+82	133	eps	u
+83	134	eps	a
+84	135	eps	c
+85	136	eps	u
+86	137	eps	n
+87	138	eps	i
+88	139	eps	q
+89	140	eps	e
+90	141	eps	x
+90	440	eps	s	4
+90	76	eps	i	2
+91	142	eps	s
+92	143	eps	e
+93	144	eps	e
+94	146	eps	t	4
+94	145	eps	p
+95	147	eps	s
+96	148	eps	c
+97	150	eps	h	2
+97	149	eps	t
+98	151	eps	o
+99	152	eps	o
+100	153	eps	e
+101	146	eps	v	4
+101	154	eps	n
+102	155	eps	n
+103	156	eps	m
+104	72	eps	n
+105	157	eps	c
+106	159	eps	l	3
+106	158	eps	e
+107	160	eps	u
+108	161	eps	e
+109	105	eps	e
+110	162	eps	n
+111	163	eps	e
+112	444	eps	t
+113	164	eps	e
+114	53	eps	i
+115	165	eps	e
+116	166	eps	e
+117	167	eps	e
+118	168	eps	e
+119	169	eps	e
+120	170	eps	e
+121	171	eps	e
+122	172	eps	e
+123	173	eps	e
+124	174	eps	e
+125	175	eps	g
+126	176	eps	(espacio)
+126	437	eps	c	3
+127	177	eps	n
+128	178	eps	i
+129	179	eps	r
+130	457	eps	c	1
+130	483	eps	g
+131	445	eps	i	2
+131	126	eps	s
+132	128	eps	r
+133	180	eps	a
+134	440	eps	r	4
+134	181	eps	d
+134	182	eps	t	2
+135	183	eps	u
+136	184	eps	i
+137	185	eps	c
+138	186	eps	n
+139	187	eps	u
+140	188	eps	x
+141	457	eps	c	1
+141	473	eps	a
+142	189	eps	e
+143	190	eps	p
+144	191	eps	t
+145	192	eps	t
+146	193	eps	e
+147	194	eps	e
+148	195	eps	t
+149	196	eps	i	1
+149	473	eps	o
+150	445	eps	e	2
+150	126	eps	o
+151	197	eps	c
+152	198	eps	v
+153	191	eps	v
+154	196	eps	i	1
+154	473	eps	a
+155	199	eps	o
+156	507	eps	e
+157	200	eps	e
+158	201	eps	s
+159	202	eps	o
+160	72	eps	o
+161	203	eps	c
+162	205	eps	(espacio)
+162	204	eps	t
+163	206	eps	c
+164	207	eps	c
+165	208	eps	c
+166	209	eps	c
+167	210	eps	c
+168	211	eps	c
+169	212	eps	c
+170	453	eps	c
+171	213	eps	c
+172	454	eps	c
+173	214	eps	c
+174	200	eps	z
+175	215	eps	u
+176	216	eps	m
+177	217	eps	t
+178	218	eps	g
+179	156	eps	c
+180	188	eps	r
+181	219	eps	r
+182	220	eps	r
+183	221	eps	a
+184	188	eps	n
+185	440	eps	u	2
+185	222	eps	o
+186	457	eps	g	1
+186	443	eps	i	5
+186	494	eps	c
+187	223	eps	i
+188	224	eps	t
+189	225	eps	x
+190	214	eps	t
+191	222	eps	e
+192	196	eps	i	1
+192	226	eps	u
+193	437	eps	c	1
+193	455	eps	n
+194	227	eps	p
+195	228	eps	a
+196	482	eps	n
+197	229	eps	t
+198	230	eps	e
+199	225	eps	n
+200	456	eps	(espacio)
+201	231	eps	i
+202	232	eps	n
+203	233	eps	i
+204	234	eps	o
+205	450	0	eps
+206	235	eps	i
+207	236	eps	i
+208	237	eps	i
+209	238	eps	i
+210	239	eps	i
+211	240	eps	i
+212	241	eps	i
+213	243	eps	i
+214	245	eps	i
+215	246	eps	n
+216	247	eps	i
+217	249	eps	e
+217	248	eps	i
+218	250	eps	e
+219	482	eps	i	1
+219	473	eps	a
+220	126	eps	o
+221	251	eps	d
+222	176	eps	(espacio)
+223	252	eps	n
+224	475	eps	o
+225	178	eps	a
+226	473	eps	a
+227	253	eps	t
+228	224	eps	v
+229	178	eps	o
+230	224	eps	n
+231	254	eps	m
+232	255	eps	e
+233	256	eps	m
+234	257	eps	(espacio)
+235	258	eps	m
+236	259	eps	m
+237	260	eps	m
+238	261	eps	s
+239	505	eps	m
+240	262	eps	s
+241	45	eps	m
+242	263	eps	o
+243	264	eps	m
+244	265	eps	n
+245	224	eps	m
+246	224	eps	d
+247	266	eps	l
+248	468	1	eps
+248	244	9	eps
+248	242	8	eps
+248	240	7	eps
+248	238	6	eps
+248	270	5	eps
+248	269	4	eps
+248	268	3	eps
+248	267	2	eps
+249	450	eps	(espacio)
+250	214	eps	s
+251	225	eps	r
+252	253	eps	c
+253	225	eps	u
+254	488	eps	o
+255	271	eps	s
+256	510	eps	o
+257	279	9	eps	1
+257	278	8	eps	1
+257	277	7	eps	1
+257	276	6	eps	1
+257	413	5	eps	1
+257	275	4	eps	1
+257	274	3	eps	1
+257	273	2	eps	1
+257	248	0	eps	1
+257	272	1	eps
+258	32	eps	o
+259	35	eps	o
+260	39	eps	o
+261	280	eps	e
+262	281	eps	i
+263	282	eps	c
+264	48	eps	o
+265	283	eps	u
+266	284	eps	l	3
+266	489	eps	e
+267	286	eps	d
+268	287	eps	t
+269	288	eps	c
+270	289	eps	c
+271	298	eps	i
+272	308	0	eps
+272	299	1	eps
+272	307	9	eps
+272	306	8	eps
+272	305	7	eps
+272	304	6	eps
+272	303	5	eps
+272	302	4	eps
+272	301	3	eps
+272	300	2	eps
+273	309	eps	v
+274	310	eps	t
+275	311	eps	c
+276	312	eps	s
+277	313	eps	s
+278	314	eps	o
+279	315	eps	n
+280	316	eps	i
+281	317	eps	e
+282	318	eps	h
+283	319	eps	e
+284	320	eps	o
+285	1	1	eps
+285	328	9	eps
+285	327	8	eps
+285	326	7	eps
+285	325	6	eps
+285	324	5	eps
+285	323	4	eps
+285	322	3	eps
+285	321	2	eps
+286	316	eps	o
+287	329	eps	r
+288	330	eps	u
+289	331	eps	i
+290	332	eps	d
+291	333	eps	t
+292	334	eps	c
+293	335	eps	q
+294	336	eps	s
+295	337	eps	o
+296	338	eps	n
+297	346	9	eps	1
+297	345	8	eps	1
+297	344	7	eps	1
+297	343	6	eps	1
+297	459	5	eps	1
+297	342	4	eps	1
+297	341	3	eps	1
+297	340	2	eps	1
+297	511	0	eps
+297	339	1	eps	1
+298	347	eps	m
+299	53	eps	o
+300	56	eps	d
+301	58	eps	t
+302	61	eps	c
+303	63	eps	q
+304	65	eps	d
+305	67	eps	d
+306	69	eps	d
+307	71	eps	d
+308	73	eps	d
+309	77	eps	e
+310	348	eps	r
+311	349	eps	u
+312	350	eps	e
+313	351	eps	e
+314	352	eps	c
+315	353	eps	o
+316	200	eps	s
+317	157	eps	t
+318	200	eps	o
+319	157	eps	v
+320	354	eps	n
+321	25	°	eps
+322	29	°	eps
+323	32	°	eps
+324	35	°	eps
+325	39	°	eps
+326	42	°	eps
+327	45	°	eps
+328	48	°	eps
+329	316	eps	e
+330	355	eps	a
+331	356	eps	n
+332	75	eps	u
+333	357	eps	r
+334	358	eps	u
+335	359	eps	u
+336	360	eps	e
+337	361	eps	c
+338	362	eps	o
+339	372	0	eps
+339	363	1	eps
+339	371	9	eps
+339	370	8	eps
+339	369	7	eps
+339	368	6	eps
+339	367	5	eps
+339	366	4	eps
+339	365	3	eps
+339	364	2	eps
+340	373	eps	v	1
+340	28	0	eps
+341	374	eps	t	1
+341	31	0	eps
+342	375	eps	c	1
+342	34	0	eps
+343	376	eps	s	1
+343	41	0	eps
+344	377	eps	s	1
+344	44	0	eps
+345	378	eps	o	1
+345	47	0	eps
+346	379	eps	n	1
+346	50	0	eps
+347	381	eps	o
+348	382	eps	e
+349	383	eps	a
+350	440	eps	s
+351	440	eps	t
+352	440	eps	h
+353	440	eps	v
+354	384	eps	e
+355	385	eps	t
+356	318	eps	c
+357	75	eps	i
+358	472	eps	a
+359	196	eps	i
+360	75	eps	x
+361	359	eps	t
+362	359	eps	n
+363	52	°	eps
+364	55	°	eps
+365	57	°	eps
+366	60	°	eps
+367	62	°	eps
+368	64	°	eps
+369	66	°	eps
+370	68	°	eps
+371	70	°	eps
+372	72	°	eps
+373	473	eps	i
+374	373	eps	r
+375	386	eps	u
+376	387	eps	e
+377	388	eps	e
+378	389	eps	c
+379	390	eps	o
+380	475	°	eps
+381	399	9	eps	2
+381	398	8	eps	2
+381	397	7	eps	2
+381	396	6	eps	2
+381	395	5	eps	2
+381	394	4	eps	2
+381	393	3	eps	2
+381	392	2	eps	2
+381	391	1	eps	2
+381	400	0	eps
+382	445	eps	i
+383	440	eps	r
+384	401	eps	s
+385	318	eps	r
+386	402	eps	a
+387	226	eps	x
+388	403	eps	p
+389	485	eps	t
+390	226	eps	n
+391	404	eps	c
+392	405	eps	d
+393	406	eps	t
+394	407	eps	c
+395	408	eps	q
+396	409	eps	s
+397	410	eps	s
+398	411	eps	o
+399	412	eps	n
+400	279	9	eps	3
+400	278	8	eps	3
+400	277	7	eps	3
+400	276	6	eps	3
+400	413	5	eps	3
+400	275	4	eps	3
+400	274	3	eps	3
+400	273	2	eps	3
+400	272	1	eps	2
+400	414	0	eps
+401	415	eps	i
+402	416	eps	d
+403	494	eps	t
+404	59	eps	i
+405	417	eps	o
+406	418	eps	r
+407	419	eps	u
+408	420	eps	u
+409	421	eps	e
+410	422	eps	e
+411	423	eps	c
+412	424	eps	o
+413	425	eps	c
+414	244	9	eps	2
+414	242	8	eps	2
+414	240	7	eps	2
+414	238	6	eps	2
+414	270	5	eps	2
+414	269	4	eps	2
+414	268	3	eps	2
+414	267	2	eps	2
+414	426	1	eps	2
+414	427	0	eps
+415	428	eps	m
+416	226	eps	r
+417	429	eps	s
+418	417	eps	e
+419	430	eps	a
+420	431	eps	i
+421	417	eps	i
+422	432	eps	t
+423	433	eps	h
+424	432	eps	v
+425	434	eps	i
+426	435	eps	m
+427	296	9	eps	2
+427	295	8	eps	2
+427	448	7	eps	2
+427	294	6	eps	2
+427	293	5	eps	2
+427	292	4	eps	2
+427	291	3	eps	2
+427	290	2	eps	2
+427	75	1	eps	2
+427	297	0	eps
+428	436	eps	o
+429	437	eps	c
+430	438	eps	t
+431	437	eps	n
+432	429	eps	e
+433	429	eps	o
+434	439	eps	n
+435	441	eps	i
+436	442	eps	m
+437	443	eps	i
+438	433	eps	r
+439	446	eps	c
+440	445	eps	e
+441	447	eps	l
+442	449	eps	i
+443	451	eps	e
+444	452	eps	o
+445	455	eps	n
+446	440	eps	u
+447	158	eps	e
+448	458	eps	s
+449	460	eps	l
+450	456	0	eps
+451	461	eps	n
+452	105	eps	r
+453	242	eps	i
+454	244	eps	i
+455	462	eps	t
+456	463	eps	m
+457	464	eps	e
+458	465	eps	e
+459	466	eps	q	1
+459	38	0	eps
+460	159	eps	l
+461	467	eps	t
+462	469	eps	a
+463	470	eps	i
+464	471	eps	n
+465	361	eps	p
+466	474	eps	u
+467	476	eps	o
+468	477	eps	u
+469	478	eps	(espacio)
+470	479	eps	l
+471	480	eps	t
+472	481	eps	d
+473	483	eps	g
+474	484	eps	i
+475	0	eps	eps
+475
+476	486	eps	s
+477	200	eps	n
+478	487	eps	y
+478	456	0	eps
+479	489	eps	e
+480	490	eps	e
+481	491	eps	r
+482	457	eps	g
+483	492	eps	e
+484	493	eps	n
+485	473	eps	o
+486	495	eps	(espacio)
+487	248	eps	(espacio)
+488	296	9	eps	1
+488	295	8	eps	1
+488	448	7	eps	1
+488	294	6	eps	1
+488	293	5	eps	1
+488	292	4	eps	1
+488	291	3	eps	1
+488	290	2	eps	1
+488	297	0	eps
+488	75	1	eps	1
+489	496	eps	s
+490	497	eps	s
+491	482	eps	i
+492	498	eps	s
+493	494	eps	c
+494	226	eps	u
+495	279	9	eps	1
+495	278	8	eps	1
+495	277	7	eps	1
+495	276	6	eps	1
+495	413	5	eps	1
+495	275	4	eps	1
+495	274	3	eps	1
+495	273	2	eps	1
+495	499	0	eps
+495	272	1	eps
+496	500	eps	i
+497	501	eps	i
+498	502	eps	i
+499	244	9	eps	1
+499	242	8	eps	1
+499	240	7	eps	1
+499	238	6	eps	1
+499	270	5	eps	1
+499	269	4	eps	1
+499	268	3	eps	1
+499	267	2	eps	1
+499	456	0	eps
+499	468	1	eps	1
+500	503	eps	m
+501	504	eps	m
+502	506	eps	m
+503	508	eps	o
+504	509	eps	o
+505	42	eps	o
+506	285	eps	o
+507	475	eps	r
+508	488	eps	s
+509	511	0	eps
+509	339	1	eps
+509	346	9	eps
+509	345	8	eps
+509	344	7	eps
+509	343	6	eps
+509	459	5	eps
+509	342	4	eps
+509	341	3	eps
+509	340	2	eps
+510	512	eps	t
+511	328	9	eps	1
+511	327	8	eps	1
+511	326	7	eps	1
+511	325	6	eps	1
+511	324	5	eps	1
+511	323	4	eps	1
+511	322	3	eps	1
+511	321	2	eps	1
+511	380	0	eps
+511	1	1	eps	1
+512	513	eps	e
+513	514	eps	r
+514	515	eps	c
+515	516	eps	e
+516	224	eps	r

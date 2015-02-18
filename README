@@ -1,0 +1,105 @@
+# Copyright 2015 Universidad de Buenos Aires
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+=======================================================================
+
+Instrucciones de instalación en Ubuntu 12.04.
+
+=======================================================================
+
+Instalar las siguientes cosas.
+
+Con sudo apt-get install:
+  libboost-regex1.48.0
+  libboost-regex1.48-dev
+  libboost-filesystem1.48.0
+  libboost-filesystem1.48-dev
+  libboost-thread1.48.0
+  libboost-thread1.48-dev
+  build-essential
+  libboost-program-options1.48.0
+  openjdk-6-jre
+  libncurses5-dev
+  automake
+  language-pack-gnome-es
+  
+htmlcxx-0.84.tar.gz
+  tar -xzf htmlcxx-0.84.tar.gz
+  cd htmlcxx-0.84/
+  ./configure 
+  make
+    Si tira error "tree.h:118:21: error: 'ptrdiff_t' does not name a type",
+    Se arregla agregando “#include <cstddef>” al header de html/tree.h.
+    (http://blog.nbs.im/?p=313)
+  sudo make install
+
+openfst-1.4.1.tar.gz    (Bajar de http://www.openfst.org/)
+  tar -xzf openfst-1.4.1.tar.gz
+  cd openfst-1.4.1/
+  ./configure
+  make
+  sudo make install
+  
+freeling-3.1.tar.gz     (Bajar de http://nlp.lsi.upc.edu/freeling/)
+  Probé instalarlo con `sudo dpkg -i freeling-3.1-precise-x86_64.deb', pero después 
+  daba este error al ejecutar analyzer:
+  /usr/bin/analyzer: error while loading shared libraries: libboost_program_options.so.1.46.1: cannot open shared object file: No such file or directory
+  Entonces, tuve que compilar el código fuente. 
+  Antes tuve que agregar este symlink en /usr/lib/, para que no fallara el `configure':
+  sudo ln -s libboost_program_options.so.1.48.0 libboost_program_options.so
+  Ahora sí:
+  tar -xzf freeling-3.1.tar.gz
+  cd freeling-3.1/
+  ./configure
+  ./make
+  sudo make install
+
+=======================================================================
+
+Compilación de todos los módulos del sistema:
+
+for i in *-0.2/; do 
+ echo \######### $i \#########
+ cd $i
+ make clean && ./configure && make
+ cd ..
+ echo
+done > make.log 2>&1
+
+Normalizador no compila con make, sino con `bash CompilaNormalizador'.
+
+=======================================================================
+
+Para ejecutar el sistema entero, entrar en TextToSpeech/ y correr:
+
+./TTS.py "http://es.wikipedia.org/wiki/Universidad_de_Buenos_Aires" Festival_UBA
+
+=======================================================================
+
+Observaciones:
+
+- El archivo de texto resultante, TMP_DIR/SalidaNormalizador.txt, se puede
+  pasar a un back-end de síntesis de voz en español. Ejemplos:
+  Festival (http://www.cstr.ed.ac.uk/projects/festival/) o 
+  Mary-TTS (http://mary.dfki.de/).
+  
+- El módulo Normalizador ahora está ejecutando en batch todo el texto, lo cual
+  demora mucho la primera salida de audio. Esto se puede cambiar fácilmente, de
+  modo de pasarle de una oración y continuar el proceso de síntesis en pipeline. 
+
+=======================================================================
+
+DC-FCEyN-UBA
+Septiembre 2014
+

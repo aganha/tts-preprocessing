@@ -1,0 +1,150 @@
+0	36	9	eps	20000
+0	35	8	eps	20000
+0	34	7	eps	20000
+0	33	6	eps	20000
+0	32	5	eps	20000
+0	31	4	eps	20000
+0	30	3	eps	20000
+0	29	2	eps	20000
+0	28	1	eps	20000
+0	27	0	eps	20000
+0	26	eps	E	20000
+0	24	Z	eps	20000
+0	25	Y	eps	20000
+0	23	X	eps	20000
+0	22	W	eps	20000
+0	21	V	eps	20000
+0	20	U	eps	20000
+0	19	T	eps	20000
+0	18	S	eps	20000
+0	17	R	eps	20000
+0	16	Q	eps	20000
+0	15	P	eps	20000
+0	14	O	eps	20000
+0	13	N	eps	20000
+0	12	M	eps	20000
+0	11	L	eps	20000
+0	10	K	eps	20000
+0	9	J	eps	20000
+0	8	I	eps	20000
+0	7	H	eps	20000
+0	6	G	eps	20000
+0	5	F	eps	20000
+0	2	E	eps	20000
+0	4	D	eps	20000
+0	3	C	eps	20000
+0	1	B	eps	20000
+0	82	A	eps	20000
+0	24	z	eps	20000
+0	25	y	eps	20000
+0	23	x	eps	20000
+0	22	w	eps	20000
+0	21	v	eps	20000
+0	20	u	eps	20000
+0	19	t	eps	20000
+0	18	s	eps	20000
+0	17	r	eps	20000
+0	16	q	eps	20000
+0	15	p	eps	20000
+0	14	o	eps	20000
+0	13	n	eps	20000
+0	12	m	eps	20000
+0	11	l	eps	20000
+0	10	k	eps	20000
+0	9	j	eps	20000
+0	8	i	eps	20000
+0	7	h	eps	20000
+0	6	g	eps	20000
+0	5	f	eps	20000
+0	2	e	eps	20000
+0	4	d	eps	20000
+0	3	c	eps	20000
+0	2	eps	e	20000
+0	1	b	eps	20000
+0	84	eps	(espacio)	20000
+0	82	a	eps	20000
+1	2	eps	b
+2	83	eps	e
+3	2	eps	c
+4	2	eps	d
+5	37	eps	e
+6	2	eps	g
+7	38	eps	h
+8	83	eps	i
+9	39	eps	j
+10	82	eps	k
+11	40	eps	e
+12	41	eps	e
+13	42	eps	e
+14	83	eps	o
+15	2	eps	p
+16	20	eps	c
+17	43	eps	e
+18	44	eps	e
+19	2	eps	t
+20	83	eps	u
+21	2	eps	v
+22	45	eps	d
+23	46	eps	e
+24	47	eps	z
+25	48	eps	y
+26	83	eps	E
+27	49	eps	c
+28	50	eps	u
+29	51	eps	d
+30	52	eps	t
+31	53	eps	c
+32	54	eps	c
+33	55	eps	s
+34	56	eps	s
+35	57	eps	o
+36	58	eps	n
+37	2	eps	f
+38	59	eps	a
+39	60	eps	o
+40	2	eps	l
+41	2	eps	m
+42	2	eps	n
+43	61	eps	r
+44	2	eps	s
+45	62	eps	o
+46	63	eps	q
+47	60	eps	e
+48	64	eps	(espacio)
+49	65	eps	e
+50	14	eps	n
+51	66	eps	o
+52	67	eps	r
+53	68	eps	u
+54	69	eps	i
+55	70	eps	e
+56	71	eps	i
+57	72	eps	c
+58	73	eps	u
+59	74	eps	c
+60	82	eps	t
+61	2	eps	r
+62	75	eps	b
+63	70	eps	u
+64	76	eps	g
+65	14	eps	r
+66	83	eps	s
+67	66	eps	e
+68	77	eps	a
+69	78	eps	n
+70	66	eps	i
+71	19	eps	e
+72	14	eps	h
+73	21	eps	e
+74	2	eps	h
+75	73	eps	l
+76	79	eps	r
+77	65	eps	t
+78	14	eps	c
+79	80	eps	i
+80	81	eps	e
+81	82	eps	g
+82	83	eps	a
+83	84	eps	(espacio)
+84	0	eps	eps
+84

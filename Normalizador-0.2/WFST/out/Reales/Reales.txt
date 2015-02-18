@@ -1,0 +1,5105 @@
+0	6	9	eps	11
+0	7	8	eps	11
+0	8	7	eps	11
+0	9	6	eps	11
+0	10	5	eps	11
+0	11	4	eps	11
+0	12	3	eps	11
+0	13	2	eps	11
+0	14	0	eps	4
+0	15	1	eps	11
+0	17	9	eps	13
+0	18	8	eps	13
+0	19	7	eps	13
+0	20	6	eps	13
+0	21	5	eps	13
+0	22	4	eps	13
+0	23	3	eps	13
+0	24	2	eps	13
+0	25	0	eps	6
+0	26	1	eps	13
+0	3	-	eps	4
+0	1	+	eps	4
+1	2	eps	m
+2	4	eps	a
+3	5	eps	m
+4	162	eps	s
+5	16	eps	e
+6	27	eps	n
+7	28	eps	o
+8	29	eps	s
+9	30	eps	s
+10	32	eps	q	3
+10	31	eps	c
+11	33	eps	c
+12	34	eps	t
+13	36	eps	d
+13	35	eps	v	2
+14	37	eps	c
+15	50	eps	c	3
+15	49	eps	u	2
+15	48	1	eps	1
+15	46	2	eps	1
+15	45	3	eps	1
+15	44	4	eps	1
+15	43	5	eps	1
+15	42	6	eps	1
+15	41	7	eps	1
+15	40	8	eps	1
+15	39	9	eps	1
+15	38	eps	m	5
+15	47	0	eps
+16	51	eps	n
+17	52	eps	n
+18	53	eps	o
+19	54	eps	s
+20	55	eps	s
+21	57	eps	q	3
+21	56	eps	c
+22	58	eps	c
+23	59	eps	t
+24	61	eps	d
+24	60	eps	v	2
+25	62	eps	c
+26	75	eps	c	3
+26	74	eps	u	2
+26	73	1	eps	1
+26	71	2	eps	1
+26	70	3	eps	1
+26	69	4	eps	1
+26	68	5	eps	1
+26	67	6	eps	1
+26	66	7	eps	1
+26	65	8	eps	1
+26	64	9	eps	1
+26	63	eps	m	5
+26	72	0	eps
+27	77	eps	u
+27	76	eps	o	2
+28	78	eps	c
+29	80	eps	i
+29	79	eps	e	2
+30	81	eps	e
+31	82	eps	i
+32	83	eps	u
+33	84	eps	u
+34	85	eps	r
+35	86	eps	e
+36	87	eps	o
+37	3655	eps	e
+38	88	eps	i
+39	89	eps	d
+40	90	eps	d
+41	91	eps	d
+42	92	eps	d
+43	93	eps	q
+44	94	eps	c
+45	95	eps	t
+46	96	eps	d
+47	100	eps	d	1
+47	99	eps	u	1
+47	97	eps	m	5
+47	98	0	eps
+48	101	eps	o
+49	102	eps	n
+50	103	eps	i
+51	4	eps	o
+52	105	eps	u
+52	104	eps	o	2
+53	106	eps	c
+54	108	eps	i
+54	107	eps	e	2
+55	109	eps	e
+56	110	eps	i
+57	111	eps	u
+58	112	eps	u
+59	113	eps	r
+60	114	eps	e
+61	115	eps	o
+62	116	eps	e
+63	117	eps	i
+64	118	eps	d
+65	119	eps	d
+66	120	eps	d
+67	121	eps	d
+68	122	eps	q
+69	123	eps	c
+70	124	eps	t
+71	125	eps	d
+72	129	eps	d	1
+72	128	eps	u	1
+72	126	eps	m	5
+72	127	0	eps
+73	130	eps	o
+74	131	eps	n
+75	132	eps	i
+76	133	eps	v
+77	134	eps	e
+78	135	eps	h
+79	133	eps	t
+80	136	eps	e
+81	137	eps	s	2
+81	87	eps	i
+82	138	eps	n
+83	139	eps	i
+84	140	eps	a
+85	141	eps	e
+86	142	eps	i
+87	143	eps	s
+88	145	eps	l
+89	146	eps	i
+90	147	eps	i
+91	148	eps	i
+92	149	eps	i
+93	150	eps	u
+94	151	eps	a
+95	152	eps	r
+96	153	eps	o
+97	154	eps	i
+98	99	eps	u	2
+98	155	eps	m	5
+98	156	0	eps
+99	157	eps	n
+100	158	eps	i
+101	153	eps	n
+102	160	eps	o	8181
+102	159	eps	(espacio)
+103	161	eps	e
+104	163	eps	v
+105	164	eps	e
+106	165	eps	h
+107	163	eps	t
+108	166	eps	e
+109	167	eps	s	2
+109	115	eps	i
+110	168	eps	n
+111	169	eps	i
+112	170	eps	a
+113	171	eps	e
+114	172	eps	i
+115	173	eps	s
+116	174	eps	r
+117	175	eps	l
+118	176	eps	i
+119	177	eps	i
+120	178	eps	i
+121	179	eps	i
+122	180	eps	u
+123	181	eps	a
+124	182	eps	r
+125	183	eps	o
+126	184	eps	i
+127	128	eps	u	2
+127	185	eps	m	5
+127	186	0	eps
+128	187	eps	n
+129	188	eps	i
+130	183	eps	n
+131	190	eps	o	8181
+131	189	eps	(espacio)
+132	191	eps	e
+133	192	eps	e
+134	193	eps	v
+135	194	eps	e	2
+135	143	eps	o
+136	193	eps	t
+137	194	eps	e
+138	195	eps	c
+139	196	eps	n
+140	137	eps	r	2
+140	197	eps	t
+141	194	eps	i	2
+141	143	eps	s
+142	198	eps	n
+143	196	eps	c	3
+143	199	eps	(espacio)
+144	160	eps	o
+145	200	eps	(espacio)
+146	201	eps	e
+147	202	eps	e
+148	203	eps	e
+149	204	eps	e
+150	101	eps	i
+151	205	eps	t
+152	153	eps	e
+153	206	eps	c
+154	207	eps	l
+155	208	eps	i
+156	209	eps	m	4
+156	211	eps	u	2
+156	210	0	eps
+157	212	eps	(espacio)
+158	213	eps	e
+159	214	eps	m
+160	215	eps	(espacio)
+161	216	eps	n
+162	217	eps	(espacio)
+163	218	eps	e
+164	219	eps	v
+165	220	eps	e	2
+165	173	eps	o
+166	219	eps	t
+167	220	eps	e
+168	221	eps	c
+169	222	eps	n
+170	167	eps	r	2
+170	223	eps	t
+171	220	eps	i	2
+171	173	eps	s
+172	224	eps	n
+173	222	eps	c	3
+173	225	eps	(espacio)
+174	190	eps	o
+175	226	eps	(espacio)
+176	227	eps	e
+177	228	eps	e
+178	229	eps	e
+179	230	eps	e
+180	130	eps	i
+181	231	eps	t
+182	183	eps	e
+183	232	eps	c
+184	233	eps	l
+185	234	eps	i
+186	235	eps	m	4
+186	237	eps	u	2
+186	236	0	eps
+187	238	eps	(espacio)
+188	239	eps	e
+189	240	eps	m
+190	241	eps	(espacio)
+191	242	eps	n
+192	196	eps	c	1
+192	243	eps	n
+193	244	eps	e
+194	243	eps	n
+195	137	eps	u	2
+195	244	eps	o
+196	245	eps	i
+197	246	eps	r
+198	247	eps	t
+199	248	eps	m	2
+199	249	0	eps
+199	0	eps	eps	8183
+199	8183
+200	258	1	eps
+200	257	2	eps
+200	256	3	eps
+200	255	4	eps
+200	254	5	eps
+200	253	6	eps
+200	252	7	eps
+200	251	8	eps
+200	250	9	eps
+201	259	eps	c
+202	260	eps	c
+203	261	eps	c
+204	262	eps	c
+205	263	eps	o
+206	264	eps	e
+207	265	eps	(espacio)
+208	266	eps	l
+209	267	eps	i
+210	269	eps	u	1
+210	268	0	eps
+211	270	eps	n
+212	271	eps	m
+213	264	eps	z
+214	272	eps	i
+215	0	eps	eps
+215
+216	274	eps	t
+216	273	eps	(espacio)
+217	26	1	eps	9
+217	25	0	eps	2
+217	24	2	eps	9
+217	23	3	eps	9
+217	22	4	eps	9
+217	21	5	eps	9
+217	20	6	eps	9
+217	19	7	eps	9
+217	18	8	eps	9
+217	17	9	eps	9
+217	15	1	eps	7
+217	14	0	eps
+217	13	2	eps	7
+217	12	3	eps	7
+217	11	4	eps	7
+217	10	5	eps	7
+217	9	6	eps	7
+217	8	7	eps	7
+217	7	8	eps	7
+217	6	9	eps	7
+218	222	eps	c	1
+218	275	eps	n
+219	276	eps	e
+220	275	eps	n
+221	167	eps	u	2
+221	276	eps	o
+222	277	eps	i
+223	278	eps	r
+224	279	eps	t
+225	467	,	eps	8183
+225	351	.	eps	8183
+225	280	eps	m	2
+225	281	0	eps
+226	290	1	eps
+226	289	2	eps
+226	288	3	eps
+226	287	4	eps
+226	286	5	eps
+226	285	6	eps
+226	284	7	eps
+226	283	8	eps
+226	282	9	eps
+227	291	eps	c
+228	292	eps	c
+229	293	eps	c
+230	294	eps	c
+231	295	eps	o
+232	296	eps	e
+233	297	eps	(espacio)
+234	298	eps	l
+235	299	eps	i
+236	301	eps	u	1
+236	300	0	eps
+237	302	eps	n
+238	303	eps	m
+239	296	eps	z
+240	304	eps	i
+241	467	,	eps
+241	351	.	eps
+242	306	eps	t
+242	305	eps	(espacio)
+243	307	eps	t
+244	199	eps	(espacio)
+245	308	eps	e
+246	143	eps	o
+247	310	eps	i
+247	309	eps	e
+248	311	eps	i
+249	312	eps	m	1
+249	313	0	eps
+250	314	eps	n
+251	315	eps	o
+252	316	eps	s
+253	317	eps	s
+254	318	eps	q
+255	319	eps	c
+256	320	eps	t
+257	321	eps	d
+258	322	eps	c
+259	323	eps	i
+260	324	eps	i
+261	325	eps	i
+262	326	eps	i
+263	153	eps	r
+264	327	eps	(espacio)
+265	336	1	eps
+265	335	2	eps	1
+265	334	3	eps	1
+265	333	4	eps	1
+265	332	5	eps	1
+265	331	6	eps	1
+265	330	7	eps	1
+265	329	8	eps	1
+265	328	9	eps	1
+266	337	eps	(espacio)
+267	338	eps	l
+268	340	eps	u	1
+268	339	0	eps
+269	341	eps	n
+270	342	eps	(espacio)
+271	343	eps	i
+272	344	eps	l
+273	345	0	eps
+274	346	eps	o
+275	347	eps	t
+276	225	eps	(espacio)
+277	348	eps	e
+278	173	eps	o
+279	350	eps	i
+279	349	eps	e
+280	352	eps	i
+281	353	eps	m	1
+281	354	0	eps
+282	355	eps	n
+283	356	eps	o
+284	357	eps	s
+285	358	eps	s
+286	359	eps	q
+287	360	eps	c
+288	361	eps	t
+289	362	eps	d
+290	363	eps	c
+291	364	eps	i
+292	365	eps	i
+293	366	eps	i
+294	367	eps	i
+295	183	eps	r
+296	368	eps	(espacio)
+297	377	1	eps
+297	376	2	eps	1
+297	375	3	eps	1
+297	374	4	eps	1
+297	373	5	eps	1
+297	372	6	eps	1
+297	371	7	eps	1
+297	370	8	eps	1
+297	369	9	eps	1
+298	378	eps	(espacio)
+299	379	eps	l
+300	381	eps	u	1
+300	380	0	eps
+301	382	eps	n
+302	383	eps	(espacio)
+303	384	eps	i
+304	385	eps	l
+305	386	0	eps
+306	387	eps	o
+307	388	eps	a
+308	389	eps	n
+309	390	eps	(espacio)
+310	399	1	eps
+310	398	2	eps
+310	397	3	eps
+310	396	4	eps
+310	395	5	eps
+310	394	6	eps
+310	393	7	eps
+310	392	8	eps
+310	391	9	eps
+311	400	eps	l
+312	401	eps	i
+313	402	eps	m	2
+313	403	0	eps
+314	404	eps	o
+315	405	eps	c
+316	406	eps	e
+317	407	eps	e
+318	408	eps	u
+319	409	eps	u
+320	410	eps	r
+321	411	eps	o
+322	412	eps	i
+323	413	eps	n
+324	414	eps	o
+325	415	eps	s
+326	416	eps	s
+327	417	eps	m	2
+327	418	0	eps
+327	0	eps	eps	3062
+327	3062
+328	419	eps	n
+329	420	eps	o
+330	421	eps	s
+331	422	eps	s
+332	423	eps	c
+333	424	eps	c
+334	425	eps	t
+335	426	eps	v
+336	436	1	eps
+336	434	2	eps
+336	433	3	eps
+336	432	4	eps
+336	431	5	eps
+336	430	6	eps
+336	429	7	eps
+336	428	8	eps
+336	427	9	eps
+336	435	0	eps
+337	445	1	eps
+337	444	2	eps
+337	443	3	eps
+337	442	4	eps
+337	441	5	eps
+337	440	6	eps
+337	439	7	eps
+337	438	8	eps
+337	437	9	eps
+338	446	eps	(espacio)
+339	447	eps	u
+340	448	eps	n
+341	449	eps	(espacio)
+342	450	eps	m
+343	451	eps	l
+344	452	eps	l
+345	453	0	eps
+346	454	eps	(espacio)
+347	455	eps	a
+348	456	eps	n
+349	457	eps	(espacio)
+350	466	1	eps
+350	465	2	eps
+350	464	3	eps
+350	463	4	eps
+350	462	5	eps
+350	461	6	eps
+350	460	7	eps
+350	459	8	eps
+350	458	9	eps
+351	468	eps	p
+352	469	eps	l
+353	470	eps	i
+354	471	eps	m	2
+354	472	0	eps
+355	473	eps	o
+356	474	eps	c
+357	475	eps	e
+358	476	eps	e
+359	477	eps	u
+360	478	eps	u
+361	479	eps	r
+362	480	eps	o
+363	481	eps	i
+364	482	eps	n
+365	483	eps	o
+366	484	eps	s
+367	485	eps	s
+368	467	,	eps	3062
+368	351	.	eps	3062
+368	486	eps	m	2
+368	487	0	eps
+369	488	eps	n
+370	489	eps	o
+371	490	eps	s
+372	491	eps	s
+373	492	eps	c
+374	493	eps	c
+375	494	eps	t
+376	495	eps	v
+377	505	1	eps
+377	503	2	eps
+377	502	3	eps
+377	501	4	eps
+377	500	5	eps
+377	499	6	eps
+377	498	7	eps
+377	497	8	eps
+377	496	9	eps
+377	504	0	eps
+378	514	1	eps
+378	513	2	eps
+378	512	3	eps
+378	511	4	eps
+378	510	5	eps
+378	509	6	eps
+378	508	7	eps
+378	507	8	eps
+378	506	9	eps
+379	515	eps	(espacio)
+380	516	eps	u
+381	517	eps	n
+382	518	eps	(espacio)
+383	519	eps	m
+384	520	eps	l
+385	521	eps	l
+386	522	0	eps
+387	523	eps	(espacio)
+388	524	eps	(espacio)
+389	525	eps	t
+390	526	0	eps
+391	527	eps	n
+392	528	eps	o
+393	529	eps	s
+394	530	eps	s
+395	531	eps	c
+396	532	eps	c
+397	533	eps	t
+398	534	eps	d
+399	535	eps	u
+400	200	eps	(espacio)	3
+400	536	eps	l
+401	537	eps	l
+402	538	eps	i
+403	539	eps	m	2
+403	540	0	eps
+404	541	eps	v
+405	542	eps	h
+406	541	eps	t
+407	411	eps	i
+408	543	eps	i
+409	544	eps	a
+410	411	eps	e
+411	545	eps	s
+412	546	eps	e
+413	547	eps	u
+414	548	eps	c
+415	549	eps	i
+416	550	eps	e
+417	551	eps	i
+418	552	eps	m	1
+418	553	0	eps
+419	554	eps	o
+420	555	eps	c
+421	556	eps	e
+422	557	eps	e
+423	558	eps	i
+424	559	eps	u
+425	560	eps	r
+426	561	eps	e
+427	562	eps	d
+428	563	eps	d
+429	564	eps	d
+430	565	eps	d
+431	566	eps	q
+432	567	eps	c
+433	568	eps	t
+434	569	eps	d
+435	570	eps	d
+436	571	eps	o
+437	572	eps	n
+438	573	eps	o
+439	574	eps	s
+440	575	eps	s
+441	576	eps	c
+442	577	eps	c
+443	578	eps	t
+444	579	eps	d
+445	580	eps	u
+446	581	eps	m	2
+446	582	0	eps
+446	0	eps	eps	245
+446	245
+447	583	eps	n
+448	584	eps	(espacio)
+449	585	eps	m
+450	586	eps	i
+451	587	eps	l
+452	588	eps	o
+453	589	eps	m	2
+453	590	0	eps
+453	0	eps	eps	1268
+453	1268
+454	599	0	eps	1
+454	600	1	eps
+454	598	2	eps	1
+454	597	3	eps	1
+454	596	4	eps	1
+454	595	5	eps	1
+454	594	6	eps	1
+454	593	7	eps	1
+454	592	8	eps	1
+454	591	9	eps	1
+455	601	eps	(espacio)
+456	602	eps	t
+457	603	0	eps
+458	604	eps	n
+459	605	eps	o
+460	606	eps	s
+461	607	eps	s
+462	608	eps	c
+463	609	eps	c
+464	610	eps	t
+465	611	eps	d
+466	612	eps	u
+467	613	eps	c
+468	614	eps	u
+469	226	eps	(espacio)	3
+469	615	eps	l
+470	616	eps	l
+471	617	eps	i
+472	618	eps	m	2
+472	619	0	eps
+473	620	eps	v
+474	621	eps	h
+475	620	eps	t
+476	480	eps	i
+477	622	eps	i
+478	623	eps	a
+479	480	eps	e
+480	624	eps	s
+481	625	eps	e
+482	626	eps	u
+483	627	eps	c
+484	628	eps	i
+485	629	eps	e
+486	630	eps	i
+487	631	eps	m	1
+487	632	0	eps
+488	633	eps	o
+489	634	eps	c
+490	635	eps	e
+491	636	eps	e
+492	637	eps	i
+493	638	eps	u
+494	639	eps	r
+495	640	eps	e
+496	641	eps	d
+497	642	eps	d
+498	643	eps	d
+499	644	eps	d
+500	645	eps	q
+501	646	eps	c
+502	647	eps	t
+503	648	eps	d
+504	649	eps	d
+505	650	eps	o
+506	651	eps	n
+507	652	eps	o
+508	653	eps	s
+509	654	eps	s
+510	655	eps	c
+511	656	eps	c
+512	657	eps	t
+513	658	eps	d
+514	659	eps	u
+515	467	,	eps	245
+515	351	.	eps	245
+515	660	eps	m	2
+515	661	0	eps
+516	662	eps	n
+517	663	eps	(espacio)
+518	664	eps	m
+519	665	eps	i
+520	666	eps	l
+521	667	eps	o
+522	467	,	eps	1268
+522	351	.	eps	1268
+522	668	eps	m	2
+522	669	0	eps
+523	678	0	eps	1
+523	679	1	eps
+523	677	2	eps	1
+523	676	3	eps	1
+523	675	4	eps	1
+523	674	5	eps	1
+523	673	6	eps	1
+523	672	7	eps	1
+523	671	8	eps	1
+523	670	9	eps	1
+524	680	eps	y
+524	526	0	eps
+525	681	eps	o
+526	682	eps	m	2
+526	683	0	eps
+526	0	eps	eps	4085
+526	4085
+527	684	eps	u
+528	685	eps	c
+529	686	eps	i
+530	687	eps	e
+531	688	eps	i
+532	689	eps	u
+533	690	eps	r
+534	691	eps	o
+535	692	eps	n
+536	693	eps	o
+537	265	eps	(espacio)	4
+537	694	eps	l
+538	695	eps	l
+539	696	eps	i
+540	697	eps	m	1
+540	698	0	eps
+541	545	eps	e
+542	545	eps	o
+543	699	eps	n
+544	700	eps	t
+545	699	eps	c
+546	701	eps	n
+547	702	eps	e
+548	703	eps	h
+549	704	eps	e
+550	705	eps	i
+551	706	eps	l
+552	707	eps	i
+553	708	eps	m	2
+553	709	0	eps
+554	710	eps	v
+555	710	eps	h
+556	710	eps	t
+557	710	eps	s
+558	711	eps	n
+559	712	eps	a
+560	713	eps	e
+561	714	eps	i
+562	715	eps	i
+563	716	eps	i
+564	717	eps	i
+565	718	eps	i
+566	719	eps	u
+567	720	eps	a
+568	721	eps	r
+569	722	eps	o
+570	723	eps	i
+571	722	eps	n
+572	724	eps	u
+573	725	eps	c
+574	726	eps	i
+575	727	eps	e
+576	728	eps	i
+577	729	eps	u
+578	730	eps	r
+579	731	eps	o
+580	732	eps	n
+581	733	eps	i
+582	734	eps	m	1
+582	735	0	eps
+583	736	eps	(espacio)
+584	737	eps	m
+585	738	eps	i
+586	739	eps	l
+587	740	eps	o
+588	741	eps	n
+589	742	eps	i
+590	743	eps	m	1
+590	744	0	eps
+591	745	eps	n
+592	746	eps	o
+593	747	eps	s
+594	748	eps	s
+595	749	eps	c
+596	750	eps	c
+597	751	eps	t
+598	752	eps	v
+599	761	1	eps
+599	760	2	eps
+599	759	3	eps
+599	758	4	eps
+599	757	5	eps
+599	756	6	eps
+599	755	7	eps
+599	754	8	eps
+599	753	9	eps
+600	771	1	eps
+600	769	2	eps
+600	768	3	eps
+600	767	4	eps
+600	766	5	eps
+600	765	6	eps
+600	764	7	eps
+600	763	8	eps
+600	762	9	eps
+600	770	0	eps
+601	772	eps	y
+601	603	0	eps
+602	773	eps	o
+603	467	,	eps	4085
+603	351	.	eps	4085
+603	774	eps	m	2
+603	775	0	eps
+604	776	eps	u
+605	777	eps	c
+606	778	eps	i
+607	779	eps	e
+608	780	eps	i
+609	781	eps	u
+610	782	eps	r
+611	783	eps	o
+612	784	eps	n
+613	785	eps	o
+614	786	eps	n
+615	787	eps	o
+616	297	eps	(espacio)	4
+616	788	eps	l
+617	789	eps	l
+618	790	eps	i
+619	791	eps	m	1
+619	792	0	eps
+620	624	eps	e
+621	624	eps	o
+622	793	eps	n
+623	794	eps	t
+624	793	eps	c
+625	795	eps	n
+626	796	eps	e
+627	797	eps	h
+628	798	eps	e
+629	799	eps	i
+630	800	eps	l
+631	801	eps	i
+632	802	eps	m	2
+632	803	0	eps
+633	804	eps	v
+634	804	eps	h
+635	804	eps	t
+636	804	eps	s
+637	805	eps	n
+638	806	eps	a
+639	807	eps	e
+640	808	eps	i
+641	809	eps	i
+642	810	eps	i
+643	811	eps	i
+644	812	eps	i
+645	813	eps	u
+646	814	eps	a
+647	815	eps	r
+648	816	eps	o
+649	817	eps	i
+650	816	eps	n
+651	818	eps	u
+652	819	eps	c
+653	820	eps	i
+654	821	eps	e
+655	822	eps	i
+656	823	eps	u
+657	824	eps	r
+658	825	eps	o
+659	826	eps	n
+660	827	eps	i
+661	828	eps	m	1
+661	829	0	eps
+662	830	eps	(espacio)
+663	831	eps	m
+664	832	eps	i
+665	833	eps	l
+666	834	eps	o
+667	835	eps	n
+668	836	eps	i
+669	837	eps	m	1
+669	838	0	eps
+670	839	eps	n
+671	840	eps	o
+672	841	eps	s
+673	842	eps	s
+674	843	eps	c
+675	844	eps	c
+676	845	eps	t
+677	846	eps	v
+678	855	1	eps
+678	854	2	eps
+678	853	3	eps
+678	852	4	eps
+678	851	5	eps
+678	850	6	eps
+678	849	7	eps
+678	848	8	eps
+678	847	9	eps
+679	865	1	eps
+679	863	2	eps
+679	862	3	eps
+679	861	4	eps
+679	860	5	eps
+679	859	6	eps
+679	858	7	eps
+679	857	8	eps
+679	856	9	eps
+679	864	0	eps
+680	310	eps	(espacio)
+681	866	eps	s
+682	867	eps	i
+683	868	eps	m	1
+683	869	0	eps
+684	870	eps	e
+685	871	eps	h
+686	872	eps	e
+687	691	eps	i
+688	873	eps	n
+689	874	eps	a
+690	691	eps	e
+691	875	eps	s
+692	876	eps	(espacio)	4
+692	877	eps	o
+693	878	eps	n
+694	879	eps	o
+695	337	eps	(espacio)	3
+695	694	eps	l
+696	880	eps	l
+697	881	eps	i
+698	882	eps	m	1
+698	883	0	eps
+699	884	eps	i
+700	542	eps	r
+701	886	eps	t
+701	885	eps	(espacio)
+702	206	eps	v
+703	264	eps	o
+704	206	eps	t
+705	264	eps	s
+706	887	eps	(espacio)	3
+706	536	eps	l
+707	888	eps	l
+708	889	eps	i
+709	890	eps	m	2
+709	540	0	eps
+710	891	eps	e
+711	892	eps	c
+712	710	eps	r
+713	891	eps	i
+714	893	eps	n
+715	894	eps	e
+716	895	eps	e
+717	896	eps	e
+718	897	eps	e
+719	571	eps	i
+720	898	eps	t
+721	722	eps	e
+722	899	eps	c
+723	900	eps	e
+724	901	eps	e
+725	732	eps	h
+726	902	eps	e
+727	731	eps	i
+728	903	eps	n
+729	904	eps	a
+730	731	eps	e
+731	905	eps	s
+732	905	eps	o
+733	906	eps	l
+734	907	eps	i
+735	734	eps	m	2
+735	908	0	eps
+736	909	eps	m
+737	910	eps	i
+738	911	eps	l
+739	912	eps	l
+740	913	eps	n
+741	914	eps	(espacio)
+742	915	eps	l
+743	916	eps	i
+744	917	eps	m	2
+744	918	0	eps
+745	919	eps	o
+746	920	eps	c
+747	921	eps	e
+748	922	eps	e
+749	923	eps	i
+750	924	eps	u
+751	925	eps	r
+752	926	eps	e
+753	927	eps	n
+754	928	eps	o
+755	929	eps	s
+756	930	eps	s
+757	931	eps	c
+758	932	eps	c
+759	933	eps	t
+760	934	eps	d
+761	935	eps	u
+762	936	eps	d
+763	937	eps	d
+764	938	eps	d
+765	939	eps	d
+766	940	eps	q
+767	941	eps	c
+768	942	eps	t
+769	943	eps	d
+770	944	eps	d
+771	945	eps	o
+772	350	eps	(espacio)
+773	946	eps	s
+774	947	eps	i
+775	948	eps	m	1
+775	949	0	eps
+776	950	eps	e
+777	951	eps	h
+778	952	eps	e
+779	783	eps	i
+780	953	eps	n
+781	954	eps	a
+782	783	eps	e
+783	955	eps	s
+784	956	eps	(espacio)	4
+784	957	eps	o
+785	958	eps	m
+786	959	eps	t
+787	960	eps	n
+788	961	eps	o
+789	378	eps	(espacio)	3
+789	788	eps	l
+790	962	eps	l
+791	963	eps	i
+792	964	eps	m	1
+792	965	0	eps
+793	966	eps	i
+794	621	eps	r
+795	968	eps	t
+795	967	eps	(espacio)
+796	232	eps	v
+797	296	eps	o
+798	232	eps	t
+799	296	eps	s
+800	969	eps	(espacio)	3
+800	615	eps	l
+801	970	eps	l
+802	971	eps	i
+803	972	eps	m	2
+803	619	0	eps
+804	973	eps	e
+805	974	eps	c
+806	804	eps	r
+807	973	eps	i
+808	975	eps	n
+809	976	eps	e
+810	977	eps	e
+811	978	eps	e
+812	979	eps	e
+813	650	eps	i
+814	980	eps	t
+815	816	eps	e
+816	981	eps	c
+817	982	eps	e
+818	983	eps	e
+819	826	eps	h
+820	984	eps	e
+821	825	eps	i
+822	985	eps	n
+823	986	eps	a
+824	825	eps	e
+825	987	eps	s
+826	987	eps	o
+827	988	eps	l
+828	989	eps	i
+829	828	eps	m	2
+829	990	0	eps
+830	991	eps	m
+831	992	eps	i
+832	993	eps	l
+833	994	eps	l
+834	995	eps	n
+835	996	eps	(espacio)
+836	997	eps	l
+837	998	eps	i
+838	999	eps	m	2
+838	1000	0	eps
+839	1001	eps	o
+840	1002	eps	c
+841	1003	eps	e
+842	1004	eps	e
+843	1005	eps	i
+844	1006	eps	u
+845	1007	eps	r
+846	1008	eps	e
+847	1009	eps	n
+848	1010	eps	o
+849	1011	eps	s
+850	1012	eps	s
+851	1013	eps	c
+852	1014	eps	c
+853	1015	eps	t
+854	1016	eps	d
+855	1017	eps	u
+856	1018	eps	d
+857	1019	eps	d
+858	1020	eps	d
+859	1021	eps	d
+860	1022	eps	q
+861	1023	eps	c
+862	1024	eps	t
+863	1025	eps	d
+864	1026	eps	d
+865	1027	eps	o
+866	1028	eps	(espacio)
+867	1029	eps	l
+868	1030	eps	i
+869	1031	eps	m	2
+869	1032	0	eps
+870	1033	eps	v
+871	875	eps	o
+872	1033	eps	t
+873	871	eps	c
+874	1034	eps	t
+875	526	eps	(espacio)
+876	1035	eps	m	1
+876	1036	0	eps
+877	1037	eps	(espacio)
+878	1038	eps	e
+879	1039	eps	n
+880	446	eps	(espacio)	2
+880	1040	eps	l
+881	1041	eps	l
+882	1042	eps	i
+883	1043	eps	m
+884	1044	eps	e
+885	1045	0	eps
+886	1046	eps	o
+887	1055	1	eps
+887	1054	2	eps
+887	1053	3	eps
+887	1052	4	eps
+887	1051	5	eps
+887	1050	6	eps
+887	1049	7	eps
+887	1048	8	eps
+887	1047	9	eps
+888	1056	eps	(espacio)	4
+888	694	eps	l
+889	1057	eps	l
+890	1058	eps	i
+891	1059	eps	n
+892	710	eps	u
+893	1060	eps	t
+894	1061	eps	c
+895	1062	eps	c
+896	1063	eps	c
+897	1064	eps	c
+898	1065	eps	o
+899	905	eps	e
+900	905	eps	z
+901	899	eps	v
+902	899	eps	t
+903	732	eps	c
+904	1066	eps	t
+905	1067	eps	(espacio)
+906	536	eps	l
+907	1068	eps	l
+908	1069	eps	m	2
+908	540	0	eps
+909	1070	eps	i
+910	1071	eps	l
+911	1072	eps	l
+912	1073	eps	o
+913	1074	eps	(espacio)
+914	1083	1	eps
+914	1082	2	eps
+914	1081	3	eps
+914	1080	4	eps
+914	1079	5	eps
+914	1078	6	eps
+914	1077	7	eps
+914	1076	8	eps
+914	1075	9	eps
+915	1084	eps	(espacio)	3
+915	536	eps	l
+916	1085	eps	l
+917	1086	eps	i
+918	1087	eps	m	2
+918	540	0	eps
+919	1088	eps	v
+920	1088	eps	h
+921	1088	eps	t
+922	1088	eps	s
+923	1089	eps	n
+924	1090	eps	a
+925	1091	eps	e
+926	1092	eps	i
+927	1093	eps	u
+928	1094	eps	c
+929	1095	eps	i
+930	1096	eps	e
+931	1097	eps	i
+932	1098	eps	u
+933	1099	eps	r
+934	1100	eps	o
+935	1101	eps	n
+936	1102	eps	i
+937	1103	eps	i
+938	1104	eps	i
+939	1105	eps	i
+940	1106	eps	u
+941	1107	eps	a
+942	1108	eps	r
+943	1109	eps	o
+944	1110	eps	i
+945	1109	eps	n
+946	1111	eps	(espacio)
+947	1112	eps	l
+948	1113	eps	i
+949	1114	eps	m	2
+949	1115	0	eps
+950	1116	eps	v
+951	955	eps	o
+952	1116	eps	t
+953	951	eps	c
+954	1117	eps	t
+955	603	eps	(espacio)
+956	1118	eps	m	1
+956	1119	0	eps
+957	1120	eps	(espacio)
+958	1121	eps	a
+959	1121	eps	o
+960	1122	eps	e
+961	1123	eps	n
+962	515	eps	(espacio)	2
+962	1124	eps	l
+963	1125	eps	l
+964	1126	eps	i
+965	1127	eps	m
+966	1128	eps	e
+967	1129	0	eps
+968	1130	eps	o
+969	1139	1	eps
+969	1138	2	eps
+969	1137	3	eps
+969	1136	4	eps
+969	1135	5	eps
+969	1134	6	eps
+969	1133	7	eps
+969	1132	8	eps
+969	1131	9	eps
+970	1140	eps	(espacio)	4
+970	788	eps	l
+971	1141	eps	l
+972	1142	eps	i
+973	1143	eps	n
+974	804	eps	u
+975	1144	eps	t
+976	1145	eps	c
+977	1146	eps	c
+978	1147	eps	c
+979	1148	eps	c
+980	1149	eps	o
+981	987	eps	e
+982	987	eps	z
+983	981	eps	v
+984	981	eps	t
+985	826	eps	c
+986	1150	eps	t
+987	1151	eps	(espacio)
+988	615	eps	l
+989	1152	eps	l
+990	1153	eps	m	2
+990	619	0	eps
+991	1154	eps	i
+992	1155	eps	l
+993	1156	eps	l
+994	1157	eps	o
+995	1158	eps	(espacio)
+996	1167	1	eps
+996	1166	2	eps
+996	1165	3	eps
+996	1164	4	eps
+996	1163	5	eps
+996	1162	6	eps
+996	1161	7	eps
+996	1160	8	eps
+996	1159	9	eps
+997	1168	eps	(espacio)	3
+997	615	eps	l
+998	1169	eps	l
+999	1170	eps	i
+1000	1171	eps	m	2
+1000	619	0	eps
+1001	1172	eps	v
+1002	1172	eps	h
+1003	1172	eps	t
+1004	1172	eps	s
+1005	1173	eps	n
+1006	1174	eps	a
+1007	1175	eps	e
+1008	1176	eps	i
+1009	1177	eps	u
+1010	1178	eps	c
+1011	1179	eps	i
+1012	1180	eps	e
+1013	1181	eps	i
+1014	1182	eps	u
+1015	1183	eps	r
+1016	1184	eps	o
+1017	1185	eps	n
+1018	1186	eps	i
+1019	1187	eps	i
+1020	1188	eps	i
+1021	1189	eps	i
+1022	1190	eps	u
+1023	1191	eps	a
+1024	1192	eps	r
+1025	1193	eps	o
+1026	1194	eps	i
+1027	1193	eps	n
+1028	600	1	eps
+1028	598	2	eps	1
+1028	597	3	eps	1
+1028	596	4	eps	1
+1028	595	5	eps	1
+1028	594	6	eps	1
+1028	593	7	eps	1
+1028	592	8	eps	1
+1028	591	9	eps	1
+1028	1195	0	eps
+1029	1196	eps	(espacio)	3
+1029	536	eps	l
+1030	1197	eps	l
+1031	1198	eps	i
+1032	1199	eps	m	2
+1032	540	0	eps
+1033	875	eps	e
+1034	871	eps	r
+1035	1200	eps	i
+1036	1201	eps	m	1
+1036	1202	0	eps
+1037	581	eps	m	2
+1037	582	0	eps
+1037	0	eps	eps	4085
+1037	4085
+1038	741	eps	s
+1039	1203	eps	e
+1040	1204	eps	o
+1041	1205	eps	l
+1042	1206	eps	l
+1043	1207	eps	i
+1044	1208	eps	n
+1045	1067	0	eps
+1046	1209	eps	(espacio)
+1047	1210	eps	n
+1048	1211	eps	o
+1049	1212	eps	s
+1050	1213	eps	s
+1051	1214	eps	q
+1052	1215	eps	c
+1053	1216	eps	t
+1054	1217	eps	d
+1055	1218	eps	c
+1056	1227	1	eps
+1056	1226	2	eps	1
+1056	1225	3	eps	1
+1056	1224	4	eps	1
+1056	1223	5	eps	1
+1056	1222	6	eps	1
+1056	1221	7	eps	1
+1056	1220	8	eps	1
+1056	1219	9	eps	1
+1057	1228	eps	(espacio)	3
+1057	694	eps	l
+1058	1229	eps	l
+1059	1230	eps	t
+1060	1232	eps	i
+1060	1231	eps	e
+1061	437	eps	i
+1062	438	eps	i
+1063	439	eps	i
+1064	440	eps	i
+1065	722	eps	r
+1066	732	eps	r
+1067	581	eps	m	2
+1067	582	0	eps
+1067	0	eps	eps	308
+1067	308
+1068	694	eps	l
+1069	1233	eps	i
+1070	1234	eps	l
+1071	1235	eps	l
+1072	1236	eps	o
+1073	1237	eps	n
+1074	1246	1	eps
+1074	1245	2	eps
+1074	1244	3	eps
+1074	1243	4	eps
+1074	1242	5	eps
+1074	1241	6	eps
+1074	1240	7	eps
+1074	1239	8	eps
+1074	1238	9	eps
+1075	1247	eps	n
+1076	1248	eps	o
+1077	1249	eps	s
+1078	1250	eps	s
+1079	1251	eps	q
+1080	1252	eps	c
+1081	1253	eps	t
+1082	1254	eps	d
+1083	1255	eps	c
+1084	1264	1	eps
+1084	1263	2	eps
+1084	1262	3	eps
+1084	1261	4	eps
+1084	1260	5	eps
+1084	1259	6	eps
+1084	1258	7	eps
+1084	1257	8	eps
+1084	1256	9	eps
+1085	1265	eps	(espacio)	4
+1085	694	eps	l
+1086	1266	eps	l
+1087	1267	eps	i
+1088	1268	eps	e
+1089	1269	eps	c
+1090	1088	eps	r
+1091	1268	eps	i
+1092	1270	eps	n
+1093	1271	eps	e
+1094	1272	eps	h
+1095	1273	eps	e
+1096	1100	eps	i
+1097	1274	eps	n
+1098	1275	eps	a
+1099	1100	eps	e
+1100	1276	eps	s
+1101	1277	eps	(espacio)	4
+1101	1278	eps	o
+1102	1279	eps	e
+1103	1280	eps	e
+1104	1281	eps	e
+1105	1282	eps	e
+1106	945	eps	i
+1107	1283	eps	t
+1108	1109	eps	e
+1109	1284	eps	c
+1110	1285	eps	e
+1111	679	1	eps
+1111	677	2	eps	1
+1111	676	3	eps	1
+1111	675	4	eps	1
+1111	674	5	eps	1
+1111	673	6	eps	1
+1111	672	7	eps	1
+1111	671	8	eps	1
+1111	670	9	eps	1
+1111	1286	0	eps
+1112	1287	eps	(espacio)	3
+1112	615	eps	l
+1113	1288	eps	l
+1114	1289	eps	i
+1115	1290	eps	m	2
+1115	619	0	eps
+1116	955	eps	e
+1117	951	eps	r
+1118	1291	eps	i
+1119	1292	eps	m	1
+1119	1293	0	eps
+1120	467	,	eps	4085
+1120	351	.	eps	4085
+1120	660	eps	m	2
+1120	661	0	eps
+1121	1294	eps	(espacio)
+1122	835	eps	s
+1123	1295	eps	e
+1124	1296	eps	o
+1125	1297	eps	l
+1126	1298	eps	l
+1127	1299	eps	i
+1128	1300	eps	n
+1129	1151	0	eps
+1130	1301	eps	(espacio)
+1131	1302	eps	n
+1132	1303	eps	o
+1133	1304	eps	s
+1134	1305	eps	s
+1135	1306	eps	q
+1136	1307	eps	c
+1137	1308	eps	t
+1138	1309	eps	d
+1139	1310	eps	c
+1140	1319	1	eps
+1140	1318	2	eps	1
+1140	1317	3	eps	1
+1140	1316	4	eps	1
+1140	1315	5	eps	1
+1140	1314	6	eps	1
+1140	1313	7	eps	1
+1140	1312	8	eps	1
+1140	1311	9	eps	1
+1141	1320	eps	(espacio)	3
+1141	788	eps	l
+1142	1321	eps	l
+1143	1322	eps	t
+1144	1324	eps	i
+1144	1323	eps	e
+1145	506	eps	i
+1146	507	eps	i
+1147	508	eps	i
+1148	509	eps	i
+1149	816	eps	r
+1150	826	eps	r
+1151	467	,	eps	308
+1151	351	.	eps	308
+1151	660	eps	m	2
+1151	661	0	eps
+1152	788	eps	l
+1153	1325	eps	i
+1154	1326	eps	l
+1155	1327	eps	l
+1156	1328	eps	o
+1157	1329	eps	n
+1158	1338	1	eps
+1158	1337	2	eps
+1158	1336	3	eps
+1158	1335	4	eps
+1158	1334	5	eps
+1158	1333	6	eps
+1158	1332	7	eps
+1158	1331	8	eps
+1158	1330	9	eps
+1159	1339	eps	n
+1160	1340	eps	o
+1161	1341	eps	s
+1162	1342	eps	s
+1163	1343	eps	q
+1164	1344	eps	c
+1165	1345	eps	t
+1166	1346	eps	d
+1167	1347	eps	c
+1168	1356	1	eps
+1168	1355	2	eps
+1168	1354	3	eps
+1168	1353	4	eps
+1168	1352	5	eps
+1168	1351	6	eps
+1168	1350	7	eps
+1168	1349	8	eps
+1168	1348	9	eps
+1169	1357	eps	(espacio)	4
+1169	788	eps	l
+1170	1358	eps	l
+1171	1359	eps	i
+1172	1360	eps	e
+1173	1361	eps	c
+1174	1172	eps	r
+1175	1360	eps	i
+1176	1362	eps	n
+1177	1363	eps	e
+1178	1364	eps	h
+1179	1365	eps	e
+1180	1184	eps	i
+1181	1366	eps	n
+1182	1367	eps	a
+1183	1184	eps	e
+1184	1368	eps	s
+1185	1369	eps	(espacio)	4
+1185	1370	eps	o
+1186	1371	eps	e
+1187	1372	eps	e
+1188	1373	eps	e
+1189	1374	eps	e
+1190	1027	eps	i
+1191	1375	eps	t
+1192	1193	eps	e
+1193	1376	eps	c
+1194	1377	eps	e
+1195	761	1	eps	1
+1195	760	2	eps	1
+1195	759	3	eps	1
+1195	758	4	eps	1
+1195	757	5	eps	1
+1195	756	6	eps	1
+1195	755	7	eps	1
+1195	754	8	eps	1
+1195	753	9	eps	1
+1195	453	0	eps
+1196	1386	1	eps
+1196	1385	2	eps
+1196	1384	3	eps
+1196	1383	4	eps
+1196	1382	5	eps
+1196	1381	6	eps
+1196	1380	7	eps
+1196	1379	8	eps
+1196	1378	9	eps
+1197	1387	eps	(espacio)	4
+1197	694	eps	l
+1198	1388	eps	l
+1199	1389	eps	i
+1200	1390	eps	l
+1201	1391	eps	i
+1202	1392	eps	m	1
+1202	1393	0	eps
+1203	913	eps	s
+1204	1394	eps	n
+1205	1395	eps	o
+1206	1396	eps	l
+1207	1397	eps	l
+1208	1398	eps	t
+1209	1232	0	eps	1
+1209	336	1	eps
+1209	335	2	eps	1
+1209	334	3	eps	1
+1209	333	4	eps	1
+1209	332	5	eps	1
+1209	331	6	eps	1
+1209	330	7	eps	1
+1209	329	8	eps	1
+1209	328	9	eps	1
+1210	1399	eps	o
+1211	1400	eps	c
+1212	1401	eps	e
+1213	1402	eps	e
+1214	1403	eps	u
+1215	1404	eps	u
+1216	1405	eps	r
+1217	1406	eps	o
+1218	1407	eps	i
+1219	1408	eps	n
+1220	1409	eps	o
+1221	1410	eps	s
+1222	1411	eps	s
+1223	1412	eps	c
+1224	1413	eps	c
+1225	1414	eps	t
+1226	1415	eps	v
+1227	1425	1	eps
+1227	1423	2	eps
+1227	1422	3	eps
+1227	1421	4	eps
+1227	1420	5	eps
+1227	1419	6	eps
+1227	1418	7	eps
+1227	1417	8	eps
+1227	1416	9	eps
+1227	1424	0	eps
+1228	1434	1	eps
+1228	1433	2	eps
+1228	1432	3	eps
+1228	1431	4	eps
+1228	1430	5	eps
+1228	1429	6	eps
+1228	1428	7	eps
+1228	1427	8	eps
+1228	1426	9	eps
+1229	1435	eps	(espacio)	2
+1229	1040	eps	l
+1230	1436	eps	a
+1231	1437	eps	(espacio)
+1232	1446	1	eps
+1232	1445	2	eps
+1232	1444	3	eps
+1232	1443	4	eps
+1232	1442	5	eps
+1232	1441	6	eps
+1232	1440	7	eps
+1232	1439	8	eps
+1232	1438	9	eps
+1233	1447	eps	l
+1234	1448	eps	l
+1235	1449	eps	o
+1236	1450	eps	n
+1237	1451	eps	(espacio)
+1238	1452	eps	n
+1239	1453	eps	o
+1240	1454	eps	s
+1241	1455	eps	s
+1242	1456	eps	c
+1243	1457	eps	c
+1244	1458	eps	t
+1245	1459	eps	d
+1246	1460	eps	m	1
+1246	1461	0	eps
+1247	1462	eps	o
+1248	1463	eps	c
+1249	1464	eps	e
+1250	1465	eps	e
+1251	1466	eps	u
+1252	1467	eps	u
+1253	1468	eps	r
+1254	1469	eps	o
+1255	1470	eps	i
+1256	1471	eps	n
+1257	1472	eps	o
+1258	1473	eps	s
+1259	1474	eps	s
+1260	1475	eps	q
+1261	1476	eps	c
+1262	1477	eps	t
+1263	1478	eps	d
+1264	1479	eps	c
+1265	1488	1	eps
+1265	1487	2	eps	1
+1265	1486	3	eps	1
+1265	1485	4	eps	1
+1265	1484	5	eps	1
+1265	1483	6	eps	1
+1265	1482	7	eps	1
+1265	1481	8	eps	1
+1265	1480	9	eps	1
+1266	1489	eps	(espacio)	3
+1266	694	eps	l
+1267	1490	eps	l
+1268	1491	eps	n
+1269	1088	eps	u
+1270	1492	eps	t
+1271	1493	eps	v
+1272	1276	eps	o
+1273	1493	eps	t
+1274	1272	eps	c
+1275	1494	eps	t
+1276	1495	eps	(espacio)
+1277	1496	eps	m	1
+1277	1497	0	eps
+1278	1498	eps	(espacio)
+1279	1499	eps	c
+1280	1500	eps	c
+1281	1501	eps	c
+1282	1502	eps	c
+1283	1503	eps	o
+1284	1504	eps	e
+1285	1504	eps	z
+1286	855	1	eps	1
+1286	854	2	eps	1
+1286	853	3	eps	1
+1286	852	4	eps	1
+1286	851	5	eps	1
+1286	850	6	eps	1
+1286	849	7	eps	1
+1286	848	8	eps	1
+1286	847	9	eps	1
+1286	522	0	eps
+1287	1513	1	eps
+1287	1512	2	eps
+1287	1511	3	eps
+1287	1510	4	eps
+1287	1509	5	eps
+1287	1508	6	eps
+1287	1507	7	eps
+1287	1506	8	eps
+1287	1505	9	eps
+1288	1514	eps	(espacio)	4
+1288	788	eps	l
+1289	1515	eps	l
+1290	1516	eps	i
+1291	1517	eps	l
+1292	1518	eps	i
+1293	1519	eps	m	1
+1293	1520	0	eps
+1294	2657	2	eps	2
+1294	2656	3	eps	2
+1294	2655	4	eps	2
+1294	2654	5	eps	2
+1294	2653	6	eps	2
+1294	2652	7	eps	2
+1294	2651	8	eps	2
+1294	2650	9	eps	2
+1294	2404	1	eps	2
+1294	2124	0	eps	2
+1294	2125	1	eps
+1294	2123	2	eps
+1294	2015	3	eps
+1294	2122	4	eps
+1294	2014	5	eps
+1294	2013	6	eps
+1294	2012	7	eps
+1294	2011	8	eps
+1294	2010	9	eps
+1295	995	eps	s
+1296	1521	eps	n
+1297	1522	eps	o
+1298	1523	eps	l
+1299	1524	eps	l
+1300	1525	eps	t
+1301	1324	0	eps	1
+1301	377	1	eps
+1301	376	2	eps	1
+1301	375	3	eps	1
+1301	374	4	eps	1
+1301	373	5	eps	1
+1301	372	6	eps	1
+1301	371	7	eps	1
+1301	370	8	eps	1
+1301	369	9	eps	1
+1302	1526	eps	o
+1303	1527	eps	c
+1304	1528	eps	e
+1305	1529	eps	e
+1306	1530	eps	u
+1307	1531	eps	u
+1308	1532	eps	r
+1309	1533	eps	o
+1310	1534	eps	i
+1311	1535	eps	n
+1312	1536	eps	o
+1313	1537	eps	s
+1314	1538	eps	s
+1315	1539	eps	c
+1316	1540	eps	c
+1317	1541	eps	t
+1318	1542	eps	v
+1319	1552	1	eps
+1319	1550	2	eps
+1319	1549	3	eps
+1319	1548	4	eps
+1319	1547	5	eps
+1319	1546	6	eps
+1319	1545	7	eps
+1319	1544	8	eps
+1319	1543	9	eps
+1319	1551	0	eps
+1320	1561	1	eps
+1320	1560	2	eps
+1320	1559	3	eps
+1320	1558	4	eps
+1320	1557	5	eps
+1320	1556	6	eps
+1320	1555	7	eps
+1320	1554	8	eps
+1320	1553	9	eps
+1321	1562	eps	(espacio)	2
+1321	1124	eps	l
+1322	1563	eps	a
+1323	1564	eps	(espacio)
+1324	1573	1	eps
+1324	1572	2	eps
+1324	1571	3	eps
+1324	1570	4	eps
+1324	1569	5	eps
+1324	1568	6	eps
+1324	1567	7	eps
+1324	1566	8	eps
+1324	1565	9	eps
+1325	1574	eps	l
+1326	1575	eps	l
+1327	1576	eps	o
+1328	1577	eps	n
+1329	1578	eps	(espacio)
+1330	1579	eps	n
+1331	1580	eps	o
+1332	1581	eps	s
+1333	1582	eps	s
+1334	1583	eps	c
+1335	1584	eps	c
+1336	1585	eps	t
+1337	1586	eps	d
+1338	1587	eps	m	1
+1338	1588	0	eps
+1339	1589	eps	o
+1340	1590	eps	c
+1341	1591	eps	e
+1342	1592	eps	e
+1343	1593	eps	u
+1344	1594	eps	u
+1345	1595	eps	r
+1346	1596	eps	o
+1347	1597	eps	i
+1348	1598	eps	n
+1349	1599	eps	o
+1350	1600	eps	s
+1351	1601	eps	s
+1352	1602	eps	q
+1353	1603	eps	c
+1354	1604	eps	t
+1355	1605	eps	d
+1356	1606	eps	c
+1357	1615	1	eps
+1357	1614	2	eps	1
+1357	1613	3	eps	1
+1357	1612	4	eps	1
+1357	1611	5	eps	1
+1357	1610	6	eps	1
+1357	1609	7	eps	1
+1357	1608	8	eps	1
+1357	1607	9	eps	1
+1358	1616	eps	(espacio)	3
+1358	788	eps	l
+1359	1617	eps	l
+1360	1618	eps	n
+1361	1172	eps	u
+1362	1619	eps	t
+1363	1620	eps	v
+1364	1368	eps	o
+1365	1620	eps	t
+1366	1364	eps	c
+1367	1621	eps	t
+1368	1622	eps	(espacio)
+1369	1623	eps	m	1
+1369	1624	0	eps
+1370	1625	eps	(espacio)
+1371	1626	eps	c
+1372	1627	eps	c
+1373	1628	eps	c
+1374	1629	eps	c
+1375	1630	eps	o
+1376	1631	eps	e
+1377	1631	eps	z
+1378	1632	eps	n
+1379	1633	eps	o
+1380	1634	eps	s
+1381	1635	eps	s
+1382	1636	eps	q
+1383	1637	eps	c
+1384	1638	eps	t
+1385	1639	eps	d
+1386	1640	eps	c
+1387	1649	1	eps
+1387	1648	2	eps	1
+1387	1647	3	eps	1
+1387	1646	4	eps	1
+1387	1645	5	eps	1
+1387	1644	6	eps	1
+1387	1643	7	eps	1
+1387	1642	8	eps	1
+1387	1641	9	eps	1
+1388	1650	eps	(espacio)	3
+1388	694	eps	l
+1389	1651	eps	l
+1390	1196	eps	(espacio)
+1391	1652	eps	l
+1392	1653	eps	i
+1393	1654	eps	m
+1394	1655	eps	e
+1395	1656	eps	n
+1396	1657	eps	o
+1397	1658	eps	l
+1398	1659	eps	o
+1399	1660	eps	v
+1400	1661	eps	h
+1401	1660	eps	t
+1402	1406	eps	i
+1403	1662	eps	i
+1404	1663	eps	a
+1405	1406	eps	e
+1406	1664	eps	s
+1407	1665	eps	e
+1408	1666	eps	o
+1409	1667	eps	c
+1410	1668	eps	e
+1411	1669	eps	e
+1412	1670	eps	i
+1413	1671	eps	u
+1414	1672	eps	r
+1415	1673	eps	e
+1416	1674	eps	d
+1417	1675	eps	d
+1418	1676	eps	d
+1419	1677	eps	d
+1420	1678	eps	q
+1421	1679	eps	c
+1422	1680	eps	t
+1423	1681	eps	d
+1424	1682	eps	d
+1425	1683	eps	o
+1426	1684	eps	n
+1427	1685	eps	o
+1428	1686	eps	s
+1429	1687	eps	s
+1430	1688	eps	c
+1431	1689	eps	c
+1432	1690	eps	t
+1433	1691	eps	d
+1434	1692	eps	u
+1435	581	eps	m	2
+1435	582	0	eps
+1435	0	eps	eps	98
+1435	98
+1436	1693	eps	(espacio)
+1437	1694	0	eps
+1438	1695	eps	n
+1439	1696	eps	o
+1440	1697	eps	s
+1441	1698	eps	s
+1442	1699	eps	c
+1443	1700	eps	c
+1444	1701	eps	t
+1445	1702	eps	d
+1446	1703	eps	u
+1447	1040	eps	l
+1448	1704	eps	o
+1449	1705	eps	n
+1450	1706	eps	(espacio)
+1451	1715	1	eps
+1451	1714	2	eps
+1451	1713	3	eps
+1451	1712	4	eps
+1451	1711	5	eps
+1451	1710	6	eps
+1451	1709	7	eps
+1451	1708	8	eps
+1451	1707	9	eps
+1452	1716	eps	u
+1453	1717	eps	c
+1454	1718	eps	i
+1455	1719	eps	e
+1456	1720	eps	i
+1457	1721	eps	u
+1458	1722	eps	r
+1459	1723	eps	o
+1460	1724	eps	i
+1461	1725	eps	m	1
+1461	1726	0	eps
+1462	1727	eps	v
+1463	1728	eps	h
+1464	1727	eps	t
+1465	1469	eps	i
+1466	1729	eps	i
+1467	1730	eps	a
+1468	1469	eps	e
+1469	1731	eps	s
+1470	1732	eps	e
+1471	1733	eps	o
+1472	1734	eps	c
+1473	1735	eps	e
+1474	1736	eps	e
+1475	1737	eps	u
+1476	1738	eps	u
+1477	1739	eps	r
+1478	1740	eps	o
+1479	1741	eps	i
+1480	1742	eps	n
+1481	1743	eps	o
+1482	1744	eps	s
+1483	1745	eps	s
+1484	1746	eps	c
+1485	1747	eps	c
+1486	1748	eps	t
+1487	1749	eps	v
+1488	1759	1	eps
+1488	1757	2	eps
+1488	1756	3	eps
+1488	1755	4	eps
+1488	1754	5	eps
+1488	1753	6	eps
+1488	1752	7	eps
+1488	1751	8	eps
+1488	1750	9	eps
+1488	1758	0	eps
+1489	1768	1	eps
+1489	1767	2	eps
+1489	1766	3	eps
+1489	1765	4	eps
+1489	1764	5	eps
+1489	1763	6	eps
+1489	1762	7	eps
+1489	1761	8	eps
+1489	1760	9	eps
+1490	1769	eps	(espacio)	2
+1490	1040	eps	l
+1491	1770	eps	t
+1492	599	eps	i
+1492	1771	eps	e
+1493	1276	eps	e
+1494	1272	eps	r
+1495	1772	eps	m	2
+1495	1773	0	eps
+1495	0	eps	eps	1523
+1495	1523
+1496	1774	eps	i
+1497	1775	eps	m	1
+1497	1776	0	eps
+1498	581	eps	m	2
+1498	582	0	eps
+1498	0	eps	eps	1523
+1498	1523
+1499	1777	eps	i
+1500	1778	eps	i
+1501	1779	eps	i
+1502	1780	eps	i
+1503	1109	eps	r
+1504	453	eps	(espacio)
+1505	1781	eps	n
+1506	1782	eps	o
+1507	1783	eps	s
+1508	1784	eps	s
+1509	1785	eps	q
+1510	1786	eps	c
+1511	1787	eps	t
+1512	1788	eps	d
+1513	1789	eps	c
+1514	1798	1	eps
+1514	1797	2	eps	1
+1514	1796	3	eps	1
+1514	1795	4	eps	1
+1514	1794	5	eps	1
+1514	1793	6	eps	1
+1514	1792	7	eps	1
+1514	1791	8	eps	1
+1514	1790	9	eps	1
+1515	1799	eps	(espacio)	3
+1515	788	eps	l
+1516	1800	eps	l
+1517	1287	eps	(espacio)
+1518	1801	eps	l
+1519	1802	eps	i
+1520	1803	eps	m
+1521	1804	eps	e
+1522	1805	eps	n
+1523	1806	eps	o
+1524	1807	eps	l
+1525	1808	eps	o
+1526	1809	eps	v
+1527	1810	eps	h
+1528	1809	eps	t
+1529	1533	eps	i
+1530	1811	eps	i
+1531	1812	eps	a
+1532	1533	eps	e
+1533	1813	eps	s
+1534	1814	eps	e
+1535	1815	eps	o
+1536	1816	eps	c
+1537	1817	eps	e
+1538	1818	eps	e
+1539	1819	eps	i
+1540	1820	eps	u
+1541	1821	eps	r
+1542	1822	eps	e
+1543	1823	eps	d
+1544	1824	eps	d
+1545	1825	eps	d
+1546	1826	eps	d
+1547	1827	eps	q
+1548	1828	eps	c
+1549	1829	eps	t
+1550	1830	eps	d
+1551	1831	eps	d
+1552	1832	eps	o
+1553	1833	eps	n
+1554	1834	eps	o
+1555	1835	eps	s
+1556	1836	eps	s
+1557	1837	eps	c
+1558	1838	eps	c
+1559	1839	eps	t
+1560	1840	eps	d
+1561	1841	eps	u
+1562	467	,	eps	98
+1562	351	.	eps	98
+1562	660	eps	m	2
+1562	661	0	eps
+1563	1842	eps	(espacio)
+1564	1843	0	eps
+1565	1844	eps	n
+1566	1845	eps	o
+1567	1846	eps	s
+1568	1847	eps	s
+1569	1848	eps	c
+1570	1849	eps	c
+1571	1850	eps	t
+1572	1851	eps	d
+1573	1852	eps	u
+1574	1124	eps	l
+1575	1853	eps	o
+1576	1854	eps	n
+1577	1855	eps	(espacio)
+1578	1864	1	eps
+1578	1863	2	eps
+1578	1862	3	eps
+1578	1861	4	eps
+1578	1860	5	eps
+1578	1859	6	eps
+1578	1858	7	eps
+1578	1857	8	eps
+1578	1856	9	eps
+1579	1865	eps	u
+1580	1866	eps	c
+1581	1867	eps	i
+1582	1868	eps	e
+1583	1869	eps	i
+1584	1870	eps	u
+1585	1871	eps	r
+1586	1872	eps	o
+1587	1873	eps	i
+1588	1874	eps	m	1
+1588	1875	0	eps
+1589	1876	eps	v
+1590	1877	eps	h
+1591	1876	eps	t
+1592	1596	eps	i
+1593	1878	eps	i
+1594	1879	eps	a
+1595	1596	eps	e
+1596	1880	eps	s
+1597	1881	eps	e
+1598	1882	eps	o
+1599	1883	eps	c
+1600	1884	eps	e
+1601	1885	eps	e
+1602	1886	eps	u
+1603	1887	eps	u
+1604	1888	eps	r
+1605	1889	eps	o
+1606	1890	eps	i
+1607	1891	eps	n
+1608	1892	eps	o
+1609	1893	eps	s
+1610	1894	eps	s
+1611	1895	eps	c
+1612	1896	eps	c
+1613	1897	eps	t
+1614	1898	eps	v
+1615	1908	1	eps
+1615	1906	2	eps
+1615	1905	3	eps
+1615	1904	4	eps
+1615	1903	5	eps
+1615	1902	6	eps
+1615	1901	7	eps
+1615	1900	8	eps
+1615	1899	9	eps
+1615	1907	0	eps
+1616	1917	1	eps
+1616	1916	2	eps
+1616	1915	3	eps
+1616	1914	4	eps
+1616	1913	5	eps
+1616	1912	6	eps
+1616	1911	7	eps
+1616	1910	8	eps
+1616	1909	9	eps
+1617	1918	eps	(espacio)	2
+1617	1124	eps	l
+1618	1919	eps	t
+1619	678	eps	i
+1619	1920	eps	e
+1620	1368	eps	e
+1621	1364	eps	r
+1622	467	,	eps	1523
+1622	351	.	eps	1523
+1622	1921	eps	m	2
+1622	1922	0	eps
+1623	1923	eps	i
+1624	1924	eps	m	1
+1624	1925	0	eps
+1625	467	,	eps	1523
+1625	351	.	eps	1523
+1625	660	eps	m	2
+1625	661	0	eps
+1626	1926	eps	i
+1627	1927	eps	i
+1628	1928	eps	i
+1629	1929	eps	i
+1630	1193	eps	r
+1631	522	eps	(espacio)
+1632	1930	eps	o
+1633	1931	eps	c
+1634	1932	eps	e
+1635	1933	eps	e
+1636	1934	eps	u
+1637	1935	eps	u
+1638	1936	eps	r
+1639	1937	eps	o
+1640	1938	eps	i
+1641	1939	eps	n
+1642	1940	eps	o
+1643	1941	eps	s
+1644	1942	eps	s
+1645	1943	eps	c
+1646	1944	eps	c
+1647	1945	eps	t
+1648	1946	eps	v
+1649	1956	1	eps
+1649	1954	2	eps
+1649	1953	3	eps
+1649	1952	4	eps
+1649	1951	5	eps
+1649	1950	6	eps
+1649	1949	7	eps
+1649	1948	8	eps
+1649	1947	9	eps
+1649	1955	0	eps
+1650	1965	1	eps
+1650	1964	2	eps
+1650	1963	3	eps
+1650	1962	4	eps
+1650	1961	5	eps
+1650	1960	6	eps
+1650	1959	7	eps
+1650	1958	8	eps
+1650	1957	9	eps
+1651	1966	eps	(espacio)	2
+1651	1040	eps	l
+1652	1387	eps	(espacio)
+1653	1967	eps	l
+1654	1968	eps	i
+1655	1237	eps	s
+1656	1969	eps	e
+1657	1970	eps	n
+1658	1971	eps	o
+1659	1972	eps	s
+1660	1664	eps	e
+1661	1664	eps	o
+1662	1973	eps	n
+1663	1974	eps	t
+1664	1973	eps	c
+1665	1975	eps	n
+1666	1976	eps	v
+1667	1976	eps	h
+1668	1976	eps	t
+1669	1976	eps	s
+1670	1977	eps	n
+1671	1978	eps	a
+1672	1979	eps	e
+1673	1980	eps	i
+1674	1981	eps	i
+1675	1982	eps	i
+1676	1983	eps	i
+1677	1984	eps	i
+1678	1985	eps	u
+1679	1986	eps	a
+1680	1987	eps	r
+1681	1988	eps	o
+1682	1989	eps	i
+1683	1988	eps	n
+1684	1990	eps	u
+1685	1991	eps	c
+1686	1992	eps	i
+1687	1993	eps	e
+1688	1994	eps	i
+1689	1995	eps	u
+1690	1996	eps	r
+1691	1997	eps	o
+1692	1998	eps	n
+1693	1999	eps	y
+1693	1694	0	eps
+1694	581	eps	m	2
+1694	582	0	eps
+1694	0	eps	eps	371
+1694	371
+1695	2000	eps	u
+1696	2001	eps	c
+1697	2002	eps	i
+1698	2003	eps	e
+1699	2004	eps	i
+1700	2005	eps	u
+1701	2006	eps	r
+1702	2007	eps	o
+1703	2008	eps	n
+1704	160	eps	n
+1705	2009	eps	(espacio)
+1706	2125	1	eps
+1706	2123	2	eps	1
+1706	2015	3	eps	1
+1706	2122	4	eps	1
+1706	2014	5	eps	1
+1706	2013	6	eps	1
+1706	2012	7	eps	1
+1706	2011	8	eps	1
+1706	2010	9	eps	1
+1707	2016	eps	n
+1708	2017	eps	o
+1709	2018	eps	s
+1710	2019	eps	s
+1711	2020	eps	q
+1712	2021	eps	c
+1713	2022	eps	t
+1714	2023	eps	d
+1715	2024	eps	c
+1716	2025	eps	e
+1717	2026	eps	h
+1718	2027	eps	e
+1719	1723	eps	i
+1720	2028	eps	n
+1721	2029	eps	a
+1722	1723	eps	e
+1723	2030	eps	s
+1724	1237	eps	l
+1725	2031	eps	i
+1726	2032	eps	m	1
+1726	2033	0	eps
+1727	1731	eps	e
+1728	1731	eps	o
+1729	2034	eps	n
+1730	2035	eps	t
+1731	2034	eps	c
+1732	2036	eps	n
+1733	2037	eps	v
+1734	2038	eps	h
+1735	2037	eps	t
+1736	1740	eps	i
+1737	2039	eps	i
+1738	2040	eps	a
+1739	1740	eps	e
+1740	2041	eps	s
+1741	2042	eps	e
+1742	2043	eps	o
+1743	2044	eps	c
+1744	2045	eps	e
+1745	2046	eps	e
+1746	2047	eps	i
+1747	2048	eps	u
+1748	2049	eps	r
+1749	2050	eps	e
+1750	2051	eps	d
+1751	2052	eps	d
+1752	2053	eps	d
+1753	2054	eps	d
+1754	2055	eps	q
+1755	2056	eps	c
+1756	2057	eps	t
+1757	2058	eps	d
+1758	2059	eps	d
+1759	2060	eps	o
+1760	2061	eps	n
+1761	2062	eps	o
+1762	2063	eps	s
+1763	2064	eps	s
+1764	2065	eps	c
+1765	2066	eps	c
+1766	2067	eps	t
+1767	2068	eps	d
+1768	2069	eps	u
+1769	581	eps	m	2
+1769	582	0	eps
+1769	0	eps	eps	20
+1769	20
+1770	2070	eps	a
+1771	2071	eps	(espacio)
+1772	2072	eps	i
+1773	2073	eps	m	1
+1773	2074	0	eps
+1774	2075	eps	l
+1775	2076	eps	i
+1776	2077	eps	m	1
+1776	2078	0	eps
+1777	2079	eps	n
+1778	2080	eps	o
+1779	2081	eps	s
+1780	2082	eps	s
+1781	2083	eps	o
+1782	2084	eps	c
+1783	2085	eps	e
+1784	2086	eps	e
+1785	2087	eps	u
+1786	2088	eps	u
+1787	2089	eps	r
+1788	2090	eps	o
+1789	2091	eps	i
+1790	2092	eps	n
+1791	2093	eps	o
+1792	2094	eps	s
+1793	2095	eps	s
+1794	2096	eps	c
+1795	2097	eps	c
+1796	2098	eps	t
+1797	2099	eps	v
+1798	2109	1	eps
+1798	2107	2	eps
+1798	2106	3	eps
+1798	2105	4	eps
+1798	2104	5	eps
+1798	2103	6	eps
+1798	2102	7	eps
+1798	2101	8	eps
+1798	2100	9	eps
+1798	2108	0	eps
+1799	2118	1	eps
+1799	2117	2	eps
+1799	2116	3	eps
+1799	2115	4	eps
+1799	2114	5	eps
+1799	2113	6	eps
+1799	2112	7	eps
+1799	2111	8	eps
+1799	2110	9	eps
+1800	2119	eps	(espacio)	2
+1800	1124	eps	l
+1801	1514	eps	(espacio)
+1802	2120	eps	l
+1803	2121	eps	i
+1804	1329	eps	s
+1805	2126	eps	e
+1806	2127	eps	n
+1807	2128	eps	o
+1808	2129	eps	s
+1809	1813	eps	e
+1810	1813	eps	o
+1811	2130	eps	n
+1812	2131	eps	t
+1813	2130	eps	c
+1814	2132	eps	n
+1815	2133	eps	v
+1816	2133	eps	h
+1817	2133	eps	t
+1818	2133	eps	s
+1819	2134	eps	n
+1820	2135	eps	a
+1821	2136	eps	e
+1822	2137	eps	i
+1823	2138	eps	i
+1824	2139	eps	i
+1825	2140	eps	i
+1826	2141	eps	i
+1827	2142	eps	u
+1828	2143	eps	a
+1829	2144	eps	r
+1830	2145	eps	o
+1831	2146	eps	i
+1832	2145	eps	n
+1833	2147	eps	u
+1834	2148	eps	c
+1835	2149	eps	i
+1836	2150	eps	e
+1837	2151	eps	i
+1838	2152	eps	u
+1839	2153	eps	r
+1840	2154	eps	o
+1841	2155	eps	n
+1842	2156	eps	y
+1842	1843	0	eps
+1843	467	,	eps	371
+1843	351	.	eps	371
+1843	660	eps	m	2
+1843	661	0	eps
+1844	2157	eps	u
+1845	2158	eps	c
+1846	2159	eps	i
+1847	2160	eps	e
+1848	2161	eps	i
+1849	2162	eps	u
+1850	2163	eps	r
+1851	2164	eps	o
+1852	2165	eps	n
+1853	190	eps	n
+1854	2166	eps	(espacio)
+1855	2175	1	eps
+1855	2174	2	eps	1
+1855	2173	3	eps	1
+1855	2172	4	eps	1
+1855	2171	5	eps	1
+1855	2170	6	eps	1
+1855	2169	7	eps	1
+1855	2168	8	eps	1
+1855	2167	9	eps	1
+1856	2176	eps	n
+1857	2177	eps	o
+1858	2178	eps	s
+1859	2179	eps	s
+1860	2180	eps	q
+1861	2181	eps	c
+1862	2182	eps	t
+1863	2183	eps	d
+1864	2184	eps	c
+1865	2185	eps	e
+1866	2186	eps	h
+1867	2187	eps	e
+1868	1872	eps	i
+1869	2188	eps	n
+1870	2189	eps	a
+1871	1872	eps	e
+1872	2190	eps	s
+1873	1329	eps	l
+1874	2191	eps	i
+1875	2192	eps	m	1
+1875	2193	0	eps
+1876	1880	eps	e
+1877	1880	eps	o
+1878	2194	eps	n
+1879	2195	eps	t
+1880	2194	eps	c
+1881	2196	eps	n
+1882	2197	eps	v
+1883	2198	eps	h
+1884	2197	eps	t
+1885	1889	eps	i
+1886	2199	eps	i
+1887	2200	eps	a
+1888	1889	eps	e
+1889	2201	eps	s
+1890	2202	eps	e
+1891	2203	eps	o
+1892	2204	eps	c
+1893	2205	eps	e
+1894	2206	eps	e
+1895	2207	eps	i
+1896	2208	eps	u
+1897	2209	eps	r
+1898	2210	eps	e
+1899	2211	eps	d
+1900	2212	eps	d
+1901	2213	eps	d
+1902	2214	eps	d
+1903	2215	eps	q
+1904	2216	eps	c
+1905	2217	eps	t
+1906	2218	eps	d
+1907	2219	eps	d
+1908	2220	eps	o
+1909	2221	eps	n
+1910	2222	eps	o
+1911	2223	eps	s
+1912	2224	eps	s
+1913	2225	eps	c
+1914	2226	eps	c
+1915	2227	eps	t
+1916	2228	eps	d
+1917	2229	eps	u
+1918	467	,	eps	20
+1918	351	.	eps	20
+1918	660	eps	m	2
+1918	661	0	eps
+1919	2230	eps	a
+1920	2231	eps	(espacio)
+1921	2232	eps	i
+1922	2233	eps	m	1
+1922	2234	0	eps
+1923	2235	eps	l
+1924	2236	eps	i
+1925	2237	eps	m	1
+1925	2238	0	eps
+1926	2239	eps	n
+1927	2240	eps	o
+1928	2241	eps	s
+1929	2242	eps	s
+1930	2243	eps	v
+1931	2244	eps	h
+1932	2243	eps	t
+1933	1937	eps	i
+1934	2245	eps	i
+1935	2246	eps	a
+1936	1937	eps	e
+1937	2247	eps	s
+1938	2248	eps	e
+1939	2249	eps	o
+1940	2250	eps	c
+1941	2251	eps	e
+1942	2252	eps	e
+1943	2253	eps	i
+1944	2254	eps	u
+1945	2255	eps	r
+1946	2256	eps	e
+1947	2257	eps	d
+1948	2258	eps	d
+1949	2259	eps	d
+1950	2260	eps	d
+1951	2261	eps	q
+1952	2262	eps	c
+1953	2263	eps	t
+1954	2264	eps	d
+1955	2265	eps	d
+1956	2266	eps	o
+1957	2267	eps	n
+1958	2268	eps	o
+1959	2269	eps	s
+1960	2270	eps	s
+1961	2271	eps	c
+1962	2272	eps	c
+1963	2273	eps	t
+1964	2274	eps	d
+1965	2275	eps	u
+1966	581	eps	m	2
+1966	582	0	eps
+1966	0	eps	eps	113
+1966	113
+1967	1650	eps	(espacio)
+1968	2276	eps	l
+1969	1450	eps	s
+1970	2277	eps	e
+1971	2278	eps	n
+1972	2279	eps	(espacio)
+1973	2280	eps	i
+1974	1661	eps	r
+1975	2282	eps	t
+1975	2281	eps	(espacio)
+1976	2283	eps	e
+1977	2284	eps	c
+1978	1976	eps	r
+1979	2283	eps	i
+1980	2285	eps	n
+1981	2286	eps	e
+1982	2287	eps	e
+1983	2288	eps	e
+1984	2289	eps	e
+1985	1683	eps	i
+1986	2290	eps	t
+1987	1988	eps	e
+1988	2291	eps	c
+1989	2292	eps	e
+1990	2293	eps	e
+1991	1998	eps	h
+1992	2294	eps	e
+1993	1997	eps	i
+1994	2295	eps	n
+1995	2296	eps	a
+1996	1997	eps	e
+1997	2276	eps	s
+1998	2276	eps	o
+1999	1232	eps	(espacio)
+2000	2297	eps	e
+2001	2008	eps	h
+2002	2298	eps	e
+2003	2007	eps	i
+2004	2299	eps	n
+2005	2300	eps	a
+2006	2007	eps	e
+2007	2301	eps	s
+2008	2301	eps	o
+2009	2305	1	eps
+2009	3446	2	eps
+2009	3445	3	eps
+2009	3444	4	eps
+2009	2304	5	eps
+2009	2303	6	eps
+2009	3327	7	eps
+2009	2302	8	eps
+2009	3326	9	eps
+2010	2405	eps	n
+2011	2406	eps	o
+2012	2407	eps	s
+2013	2408	eps	s
+2014	2409	eps	c
+2015	2410	eps	t
+2016	2315	eps	o
+2017	2316	eps	c
+2018	2317	eps	e
+2019	2318	eps	e
+2020	2319	eps	u
+2021	2320	eps	u
+2022	2321	eps	r
+2023	2322	eps	o
+2024	2323	eps	i
+2025	2324	eps	v
+2026	2030	eps	o
+2027	2324	eps	t
+2028	2026	eps	c
+2029	2325	eps	t
+2030	1246	eps	(espacio)
+2031	1450	eps	l
+2032	2326	eps	i
+2033	2327	eps	m
+2034	2328	eps	i
+2035	1728	eps	r
+2036	2330	eps	t
+2036	2329	eps	(espacio)
+2037	2041	eps	e
+2038	2041	eps	o
+2039	2331	eps	n
+2040	2332	eps	t
+2041	2331	eps	c
+2042	2333	eps	n
+2043	2334	eps	v
+2044	2334	eps	h
+2045	2334	eps	t
+2046	2334	eps	s
+2047	2335	eps	n
+2048	2336	eps	a
+2049	2337	eps	e
+2050	2338	eps	i
+2051	2339	eps	i
+2052	2340	eps	i
+2053	2341	eps	i
+2054	2342	eps	i
+2055	2343	eps	u
+2056	2344	eps	a
+2057	2345	eps	r
+2058	2346	eps	o
+2059	2347	eps	i
+2060	2346	eps	n
+2061	2348	eps	u
+2062	2349	eps	c
+2063	2350	eps	i
+2064	2351	eps	e
+2065	2352	eps	i
+2066	2353	eps	u
+2067	2354	eps	r
+2068	2355	eps	o
+2069	2356	eps	n
+2070	2357	eps	(espacio)
+2071	1495	0	eps
+2072	2358	eps	l
+2073	2359	eps	i
+2074	2360	eps	m	2
+2074	2361	0	eps
+2075	2362	eps	(espacio)
+2076	2363	eps	l
+2077	2364	eps	i
+2078	2365	eps	m
+2079	2366	eps	u
+2080	2367	eps	c
+2081	2368	eps	i
+2082	2369	eps	e
+2083	2370	eps	v
+2084	2371	eps	h
+2085	2370	eps	t
+2086	2090	eps	i
+2087	2372	eps	i
+2088	2373	eps	a
+2089	2090	eps	e
+2090	2374	eps	s
+2091	2375	eps	e
+2092	2376	eps	o
+2093	2377	eps	c
+2094	2378	eps	e
+2095	2379	eps	e
+2096	2380	eps	i
+2097	2381	eps	u
+2098	2382	eps	r
+2099	2383	eps	e
+2100	2384	eps	d
+2101	2385	eps	d
+2102	2386	eps	d
+2103	2387	eps	d
+2104	2388	eps	q
+2105	2389	eps	c
+2106	2390	eps	t
+2107	2391	eps	d
+2108	2392	eps	d
+2109	2393	eps	o
+2110	2394	eps	n
+2111	2395	eps	o
+2112	2396	eps	s
+2113	2397	eps	s
+2114	2398	eps	c
+2115	2399	eps	c
+2116	2400	eps	t
+2117	2401	eps	d
+2118	2402	eps	u
+2119	467	,	eps	113
+2119	351	.	eps	113
+2119	660	eps	m	2
+2119	661	0	eps
+2120	1799	eps	(espacio)
+2121	2403	eps	l
+2122	2306	eps	c
+2123	2307	eps	v
+2124	2411	eps	c
+2125	2314	1	eps
+2125	2313	2	eps
+2125	2413	3	eps
+2125	2412	4	eps
+2125	2312	5	eps
+2125	2311	6	eps
+2125	2310	7	eps
+2125	2309	8	eps
+2125	2308	9	eps
+2125	2414	0	eps
+2126	1577	eps	s
+2127	2415	eps	e
+2128	2416	eps	n
+2129	2417	eps	(espacio)
+2130	2418	eps	i
+2131	1810	eps	r
+2132	2420	eps	t
+2132	2419	eps	(espacio)
+2133	2421	eps	e
+2134	2422	eps	c
+2135	2133	eps	r
+2136	2421	eps	i
+2137	2423	eps	n
+2138	2424	eps	e
+2139	2425	eps	e
+2140	2426	eps	e
+2141	2427	eps	e
+2142	1832	eps	i
+2143	2428	eps	t
+2144	2145	eps	e
+2145	2429	eps	c
+2146	2430	eps	e
+2147	2431	eps	e
+2148	2155	eps	h
+2149	2432	eps	e
+2150	2154	eps	i
+2151	2433	eps	n
+2152	2434	eps	a
+2153	2154	eps	e
+2154	2403	eps	s
+2155	2403	eps	o
+2156	1324	eps	(espacio)
+2157	2435	eps	e
+2158	2165	eps	h
+2159	2436	eps	e
+2160	2164	eps	i
+2161	2437	eps	n
+2162	2438	eps	a
+2163	2164	eps	e
+2164	2439	eps	s
+2165	2439	eps	o
+2166	2448	1	eps
+2166	2447	2	eps
+2166	2446	3	eps
+2166	2445	4	eps
+2166	2444	5	eps
+2166	2443	6	eps
+2166	2442	7	eps
+2166	2441	8	eps
+2166	2440	9	eps
+2167	2449	eps	n
+2168	2450	eps	o
+2169	2451	eps	s
+2170	2452	eps	s
+2171	2453	eps	c
+2172	2454	eps	c
+2173	2455	eps	t
+2174	2456	eps	v
+2175	2466	1	eps
+2175	2464	2	eps
+2175	2463	3	eps
+2175	2462	4	eps
+2175	2461	5	eps
+2175	2460	6	eps
+2175	2459	7	eps
+2175	2458	8	eps
+2175	2457	9	eps
+2175	2465	0	eps
+2176	2467	eps	o
+2177	2468	eps	c
+2178	2469	eps	e
+2179	2470	eps	e
+2180	2471	eps	u
+2181	2472	eps	u
+2182	2473	eps	r
+2183	2474	eps	o
+2184	2475	eps	i
+2185	2476	eps	v
+2186	2190	eps	o
+2187	2476	eps	t
+2188	2186	eps	c
+2189	2477	eps	t
+2190	1338	eps	(espacio)
+2191	1577	eps	l
+2192	2478	eps	i
+2193	2479	eps	m
+2194	2480	eps	i
+2195	1877	eps	r
+2196	2482	eps	t
+2196	2481	eps	(espacio)
+2197	2201	eps	e
+2198	2201	eps	o
+2199	2483	eps	n
+2200	2484	eps	t
+2201	2483	eps	c
+2202	2485	eps	n
+2203	2486	eps	v
+2204	2486	eps	h
+2205	2486	eps	t
+2206	2486	eps	s
+2207	2487	eps	n
+2208	2488	eps	a
+2209	2489	eps	e
+2210	2490	eps	i
+2211	2491	eps	i
+2212	2492	eps	i
+2213	2493	eps	i
+2214	2494	eps	i
+2215	2495	eps	u
+2216	2496	eps	a
+2217	2497	eps	r
+2218	2498	eps	o
+2219	2499	eps	i
+2220	2498	eps	n
+2221	2500	eps	u
+2222	2501	eps	c
+2223	2502	eps	i
+2224	2503	eps	e
+2225	2504	eps	i
+2226	2505	eps	u
+2227	2506	eps	r
+2228	2507	eps	o
+2229	2508	eps	n
+2230	2509	eps	(espacio)
+2231	1622	0	eps
+2232	2510	eps	l
+2233	2511	eps	i
+2234	2512	eps	m	2
+2234	2513	0	eps
+2235	2514	eps	(espacio)
+2236	2515	eps	l
+2237	2516	eps	i
+2238	2517	eps	m
+2239	2518	eps	u
+2240	2519	eps	c
+2241	2520	eps	i
+2242	2521	eps	e
+2243	2247	eps	e
+2244	2247	eps	o
+2245	2522	eps	n
+2246	2523	eps	t
+2247	2522	eps	c
+2248	2524	eps	n
+2249	2525	eps	v
+2250	2525	eps	h
+2251	2525	eps	t
+2252	2525	eps	s
+2253	2526	eps	n
+2254	2527	eps	a
+2255	2528	eps	e
+2256	2529	eps	i
+2257	2530	eps	i
+2258	2531	eps	i
+2259	2532	eps	i
+2260	2533	eps	i
+2261	2534	eps	u
+2262	2535	eps	a
+2263	2536	eps	r
+2264	2537	eps	o
+2265	2538	eps	i
+2266	2537	eps	n
+2267	2539	eps	u
+2268	2540	eps	c
+2269	2541	eps	i
+2270	2542	eps	e
+2271	2543	eps	i
+2272	2544	eps	u
+2273	2545	eps	r
+2274	2546	eps	o
+2275	2547	eps	n
+2276	1966	eps	(espacio)
+2277	1705	eps	s
+2278	3589	eps	e
+2279	336	1	eps
+2279	335	2	eps	1
+2279	334	3	eps	1
+2279	333	4	eps	1
+2279	332	5	eps	1
+2279	331	6	eps	1
+2279	330	7	eps	1
+2279	329	8	eps	1
+2279	328	9	eps	1
+2279	2548	0	eps
+2280	2549	eps	e
+2281	2550	0	eps
+2282	2551	eps	o
+2283	2552	eps	n
+2284	1976	eps	u
+2285	2553	eps	t
+2286	2554	eps	c
+2287	2555	eps	c
+2288	2556	eps	c
+2289	2557	eps	c
+2290	2558	eps	o
+2291	2276	eps	e
+2292	2276	eps	z
+2293	2291	eps	v
+2294	2291	eps	t
+2295	1998	eps	c
+2296	2559	eps	t
+2297	2560	eps	v
+2298	2560	eps	t
+2299	2008	eps	c
+2300	2561	eps	t
+2301	1694	eps	(espacio)
+2302	3447	eps	o
+2303	3448	eps	s
+2304	3532	eps	c
+2305	3533	eps	u
+2306	2659	eps	u
+2307	2660	eps	e
+2308	2662	eps	d
+2309	2663	eps	d
+2310	2664	eps	d
+2311	2665	eps	d
+2312	2666	eps	q
+2313	2667	eps	d
+2314	2668	eps	o
+2315	2576	eps	v
+2316	2577	eps	h
+2317	2576	eps	t
+2318	2322	eps	i
+2319	2578	eps	i
+2320	2579	eps	a
+2321	2322	eps	e
+2322	2580	eps	s
+2323	2581	eps	e
+2324	2030	eps	e
+2325	2026	eps	r
+2326	1705	eps	l
+2327	2582	eps	i
+2328	2583	eps	e
+2329	2584	0	eps
+2330	2585	eps	o
+2331	2586	eps	i
+2332	2038	eps	r
+2333	2588	eps	t
+2333	2587	eps	(espacio)
+2334	2589	eps	e
+2335	2590	eps	c
+2336	2334	eps	r
+2337	2589	eps	i
+2338	2591	eps	n
+2339	2592	eps	e
+2340	2593	eps	e
+2341	2594	eps	e
+2342	2595	eps	e
+2343	2060	eps	i
+2344	2596	eps	t
+2345	2346	eps	e
+2346	2597	eps	c
+2347	2598	eps	e
+2348	2599	eps	e
+2349	2356	eps	h
+2350	2600	eps	e
+2351	2355	eps	i
+2352	2601	eps	n
+2353	2602	eps	a
+2354	2355	eps	e
+2355	2603	eps	s
+2356	2603	eps	o
+2357	2604	eps	y
+2357	1495	0	eps
+2358	2362	eps	(espacio)	3
+2358	536	eps	l
+2359	2605	eps	l
+2360	2606	eps	i
+2361	2607	eps	m	2
+2361	540	0	eps
+2362	2616	1	eps
+2362	2615	2	eps
+2362	2614	3	eps
+2362	2613	4	eps
+2362	2612	5	eps
+2362	2611	6	eps
+2362	2610	7	eps
+2362	2609	8	eps
+2362	2608	9	eps
+2363	2617	eps	(espacio)
+2364	2618	eps	l
+2365	2619	eps	i
+2366	2620	eps	e
+2367	2621	eps	h
+2368	2622	eps	e
+2369	2623	eps	i
+2370	2374	eps	e
+2371	2374	eps	o
+2372	2624	eps	n
+2373	2625	eps	t
+2374	2624	eps	c
+2375	2626	eps	n
+2376	2627	eps	v
+2377	2627	eps	h
+2378	2627	eps	t
+2379	2627	eps	s
+2380	2628	eps	n
+2381	2629	eps	a
+2382	2630	eps	e
+2383	2631	eps	i
+2384	2632	eps	i
+2385	2633	eps	i
+2386	2634	eps	i
+2387	2635	eps	i
+2388	2636	eps	u
+2389	2637	eps	a
+2390	2638	eps	r
+2391	2639	eps	o
+2392	2640	eps	i
+2393	2639	eps	n
+2394	2641	eps	u
+2395	2642	eps	c
+2396	2643	eps	i
+2397	2644	eps	e
+2398	2645	eps	i
+2399	2646	eps	u
+2400	2647	eps	r
+2401	2648	eps	o
+2402	2649	eps	n
+2403	2119	eps	(espacio)
+2404	2658	eps	u
+2405	2567	eps	o
+2406	2568	eps	c
+2407	2569	eps	e
+2408	2570	eps	e
+2409	2571	eps	i
+2410	2572	eps	r
+2411	2661	eps	e
+2412	2573	eps	c
+2413	2574	eps	t
+2414	2575	eps	d
+2415	1854	eps	s
+2416	2669	eps	e
+2417	377	1	eps
+2417	376	2	eps	1
+2417	375	3	eps	1
+2417	374	4	eps	1
+2417	373	5	eps	1
+2417	372	6	eps	1
+2417	371	7	eps	1
+2417	370	8	eps	1
+2417	369	9	eps	1
+2417	2670	0	eps
+2418	2671	eps	e
+2419	2672	0	eps
+2420	2673	eps	o
+2421	2674	eps	n
+2422	2133	eps	u
+2423	2675	eps	t
+2424	2676	eps	c
+2425	2677	eps	c
+2426	2678	eps	c
+2427	2679	eps	c
+2428	2680	eps	o
+2429	2403	eps	e
+2430	2403	eps	z
+2431	2429	eps	v
+2432	2429	eps	t
+2433	2155	eps	c
+2434	2681	eps	t
+2435	2682	eps	v
+2436	2682	eps	t
+2437	2165	eps	c
+2438	2683	eps	t
+2439	1843	eps	(espacio)
+2440	2684	eps	n
+2441	2685	eps	o
+2442	2686	eps	s
+2443	2687	eps	s
+2444	2688	eps	c
+2445	2689	eps	c
+2446	2690	eps	t
+2447	2691	eps	d
+2448	2692	eps	u
+2449	2693	eps	o
+2450	2694	eps	c
+2451	2695	eps	e
+2452	2696	eps	e
+2453	2697	eps	i
+2454	2698	eps	u
+2455	2699	eps	r
+2456	2700	eps	e
+2457	2701	eps	d
+2458	2702	eps	d
+2459	2703	eps	d
+2460	2704	eps	d
+2461	2705	eps	q
+2462	2706	eps	c
+2463	2707	eps	t
+2464	2708	eps	d
+2465	2709	eps	d
+2466	2710	eps	o
+2467	2711	eps	v
+2468	2712	eps	h
+2469	2711	eps	t
+2470	2474	eps	i
+2471	2713	eps	i
+2472	2714	eps	a
+2473	2474	eps	e
+2474	2715	eps	s
+2475	2716	eps	e
+2476	2190	eps	e
+2477	2186	eps	r
+2478	1854	eps	l
+2479	2717	eps	i
+2480	2718	eps	e
+2481	2719	0	eps
+2482	2720	eps	o
+2483	2721	eps	i
+2484	2198	eps	r
+2485	2723	eps	t
+2485	2722	eps	(espacio)
+2486	2724	eps	e
+2487	2725	eps	c
+2488	2486	eps	r
+2489	2724	eps	i
+2490	2726	eps	n
+2491	2727	eps	e
+2492	2728	eps	e
+2493	2729	eps	e
+2494	2730	eps	e
+2495	2220	eps	i
+2496	2731	eps	t
+2497	2498	eps	e
+2498	2732	eps	c
+2499	2733	eps	e
+2500	2734	eps	e
+2501	2508	eps	h
+2502	2735	eps	e
+2503	2507	eps	i
+2504	2736	eps	n
+2505	2737	eps	a
+2506	2507	eps	e
+2507	2738	eps	s
+2508	2738	eps	o
+2509	2739	eps	y
+2509	1622	0	eps
+2510	2514	eps	(espacio)	3
+2510	615	eps	l
+2511	2740	eps	l
+2512	2741	eps	i
+2513	2742	eps	m	2
+2513	619	0	eps
+2514	2751	1	eps
+2514	2750	2	eps
+2514	2749	3	eps
+2514	2748	4	eps
+2514	2747	5	eps
+2514	2746	6	eps
+2514	2745	7	eps
+2514	2744	8	eps
+2514	2743	9	eps
+2515	2752	eps	(espacio)
+2516	2753	eps	l
+2517	2754	eps	i
+2518	2755	eps	e
+2519	2756	eps	h
+2520	2757	eps	e
+2521	2758	eps	i
+2522	2759	eps	i
+2523	2244	eps	r
+2524	2761	eps	t
+2524	2760	eps	(espacio)
+2525	2762	eps	e
+2526	2763	eps	c
+2527	2525	eps	r
+2528	2762	eps	i
+2529	2764	eps	n
+2530	2765	eps	e
+2531	2766	eps	e
+2532	2767	eps	e
+2533	2768	eps	e
+2534	2266	eps	i
+2535	2769	eps	t
+2536	2537	eps	e
+2537	2770	eps	c
+2538	2771	eps	e
+2539	2772	eps	e
+2540	2547	eps	h
+2541	2773	eps	e
+2542	2546	eps	i
+2543	2774	eps	n
+2544	2775	eps	a
+2545	2546	eps	e
+2546	2776	eps	s
+2547	2776	eps	o
+2548	1446	1	eps	1
+2548	1445	2	eps	1
+2548	1444	3	eps	1
+2548	1443	4	eps	1
+2548	1442	5	eps	1
+2548	1441	6	eps	1
+2548	1440	7	eps	1
+2548	1439	8	eps	1
+2548	1438	9	eps	1
+2548	1067	0	eps
+2549	2777	eps	n
+2550	1966	0	eps
+2551	2778	eps	(espacio)
+2552	2779	eps	t
+2553	1650	eps	i
+2553	2780	eps	e
+2554	1426	eps	i
+2555	1427	eps	i
+2556	1428	eps	i
+2557	1429	eps	i
+2558	1988	eps	r
+2559	1998	eps	r
+2560	2301	eps	e
+2561	2008	eps	r
+2562	3534	eps	u
+2563	3536	eps	i
+2564	3588	eps	u
+2565	2278	eps	r
+2566	3589	eps	o
+2567	2856	eps	v
+2568	2856	eps	h
+2569	2856	eps	t
+2570	2856	eps	s
+2571	2857	eps	n
+2572	2858	eps	e
+2573	2859	eps	a
+2574	2860	eps	r
+2575	2861	eps	i
+2576	2580	eps	e
+2577	2580	eps	o
+2578	2791	eps	n
+2579	2792	eps	t
+2580	2791	eps	c
+2581	2793	eps	n
+2582	160	eps	l
+2583	2794	eps	n
+2584	1246	0	eps
+2585	2795	eps	(espacio)
+2586	2796	eps	e
+2587	2797	0	eps
+2588	2798	eps	o
+2589	2799	eps	n
+2590	2334	eps	u
+2591	2800	eps	t
+2592	2801	eps	c
+2593	2802	eps	c
+2594	2803	eps	c
+2595	2804	eps	c
+2596	2805	eps	o
+2597	2603	eps	e
+2598	2603	eps	z
+2599	2597	eps	v
+2600	2597	eps	t
+2601	2356	eps	c
+2602	2806	eps	t
+2603	2807	eps	(espacio)
+2604	599	eps	(espacio)
+2605	2617	eps	(espacio)	4
+2605	694	eps	l
+2606	2808	eps	l
+2607	2809	eps	i
+2608	2810	eps	n
+2609	2811	eps	o
+2610	2812	eps	s
+2611	2813	eps	s
+2612	2814	eps	q
+2613	2815	eps	c
+2614	2816	eps	t
+2615	2817	eps	d
+2616	2818	eps	c
+2617	2827	1	eps
+2617	2826	2	eps	1
+2617	2825	3	eps	1
+2617	2824	4	eps	1
+2617	2823	5	eps	1
+2617	2822	6	eps	1
+2617	2821	7	eps	1
+2617	2820	8	eps	1
+2617	2819	9	eps	1
+2618	2828	eps	(espacio)
+2619	2603	eps	l
+2620	1284	eps	v
+2621	1504	eps	o
+2622	1284	eps	t
+2623	1504	eps	s
+2624	2829	eps	i
+2625	2371	eps	r
+2626	2831	eps	t
+2626	2830	eps	(espacio)
+2627	2832	eps	e
+2628	2833	eps	c
+2629	2627	eps	r
+2630	2832	eps	i
+2631	2834	eps	n
+2632	2835	eps	e
+2633	2836	eps	e
+2634	2837	eps	e
+2635	2838	eps	e
+2636	2393	eps	i
+2637	2839	eps	t
+2638	2639	eps	e
+2639	2840	eps	c
+2640	2841	eps	e
+2641	2842	eps	e
+2642	2649	eps	h
+2643	2843	eps	e
+2644	2648	eps	i
+2645	2844	eps	n
+2646	2845	eps	a
+2647	2648	eps	e
+2648	2846	eps	s
+2649	2846	eps	o
+2650	2847	eps	n
+2651	2848	eps	o
+2652	2849	eps	s
+2653	2850	eps	s
+2654	2851	eps	c
+2655	2852	eps	c
+2656	2853	eps	t
+2657	2854	eps	d
+2658	2855	eps	n
+2659	2783	eps	a
+2660	2784	eps	i
+2661	2855	eps	r
+2662	2785	eps	i
+2663	2786	eps	i
+2664	2787	eps	i
+2665	2788	eps	i
+2666	2789	eps	u
+2667	2790	eps	o
+2668	2790	eps	n
+2669	190	eps	s
+2670	1573	1	eps	1
+2670	1572	2	eps	1
+2670	1571	3	eps	1
+2670	1570	4	eps	1
+2670	1569	5	eps	1
+2670	1568	6	eps	1
+2670	1567	7	eps	1
+2670	1566	8	eps	1
+2670	1565	9	eps	1
+2670	1151	0	eps
+2671	2862	eps	n
+2672	2119	0	eps
+2673	2863	eps	(espacio)
+2674	2864	eps	t
+2675	1799	eps	i
+2675	2865	eps	e
+2676	1553	eps	i
+2677	1554	eps	i
+2678	1555	eps	i
+2679	1556	eps	i
+2680	2145	eps	r
+2681	2155	eps	r
+2682	2439	eps	e
+2683	2165	eps	r
+2684	2866	eps	u
+2685	2867	eps	c
+2686	2868	eps	i
+2687	2869	eps	e
+2688	2870	eps	i
+2689	2871	eps	u
+2690	2416	eps	r
+2691	2669	eps	o
+2692	174	eps	n
+2693	2872	eps	v
+2694	2872	eps	h
+2695	2872	eps	t
+2696	2872	eps	s
+2697	2873	eps	n
+2698	2874	eps	a
+2699	2875	eps	e
+2700	2876	eps	i
+2701	2877	eps	i
+2702	2878	eps	i
+2703	2879	eps	i
+2704	2880	eps	i
+2705	2881	eps	u
+2706	2882	eps	a
+2707	2883	eps	r
+2708	2884	eps	o
+2709	2885	eps	i
+2710	2884	eps	n
+2711	2715	eps	e
+2712	2715	eps	o
+2713	2886	eps	n
+2714	2887	eps	t
+2715	2886	eps	c
+2716	2888	eps	n
+2717	190	eps	l
+2718	2889	eps	n
+2719	1338	0	eps
+2720	2890	eps	(espacio)
+2721	2891	eps	e
+2722	2892	0	eps
+2723	2893	eps	o
+2724	2894	eps	n
+2725	2486	eps	u
+2726	2895	eps	t
+2727	2896	eps	c
+2728	2897	eps	c
+2729	2898	eps	c
+2730	2899	eps	c
+2731	2900	eps	o
+2732	2738	eps	e
+2733	2738	eps	z
+2734	2732	eps	v
+2735	2732	eps	t
+2736	2508	eps	c
+2737	2901	eps	t
+2738	2902	eps	(espacio)
+2739	678	eps	(espacio)
+2740	2752	eps	(espacio)	4
+2740	788	eps	l
+2741	2903	eps	l
+2742	2904	eps	i
+2743	2905	eps	n
+2744	2906	eps	o
+2745	2907	eps	s
+2746	2908	eps	s
+2747	2909	eps	q
+2748	2910	eps	c
+2749	2911	eps	t
+2750	2912	eps	d
+2751	2913	eps	c
+2752	2922	1	eps
+2752	2921	2	eps	1
+2752	2920	3	eps	1
+2752	2919	4	eps	1
+2752	2918	5	eps	1
+2752	2917	6	eps	1
+2752	2916	7	eps	1
+2752	2915	8	eps	1
+2752	2914	9	eps	1
+2753	2923	eps	(espacio)
+2754	2738	eps	l
+2755	1376	eps	v
+2756	1631	eps	o
+2757	1376	eps	t
+2758	1631	eps	s
+2759	2924	eps	e
+2760	2925	0	eps
+2761	2926	eps	o
+2762	2927	eps	n
+2763	2525	eps	u
+2764	2928	eps	t
+2765	2929	eps	c
+2766	2930	eps	c
+2767	2931	eps	c
+2768	2932	eps	c
+2769	2933	eps	o
+2770	2776	eps	e
+2771	2776	eps	z
+2772	2770	eps	v
+2773	2770	eps	t
+2774	2547	eps	c
+2775	2934	eps	t
+2776	2935	eps	(espacio)
+2777	2936	eps	t
+2778	1650	0	eps	1
+2778	1227	1	eps
+2778	1226	2	eps	1
+2778	1225	3	eps	1
+2778	1224	4	eps	1
+2778	1223	5	eps	1
+2778	1222	6	eps	1
+2778	1221	7	eps	1
+2778	1220	8	eps	1
+2778	1219	9	eps	1
+2779	2937	eps	a
+2780	2925	eps	(espacio)
+2781	3589	eps	i
+2782	3625	eps	n
+2783	2856	eps	r
+2784	3019	eps	n
+2785	3021	eps	e
+2786	3022	eps	e
+2787	3023	eps	e
+2788	3024	eps	e
+2789	2668	eps	i
+2790	3025	eps	c
+2791	2945	eps	i
+2792	2577	eps	r
+2793	2947	eps	t
+2793	2946	eps	(espacio)
+2794	2948	eps	t
+2795	2957	0	eps	1
+2795	2958	1	eps
+2795	2956	2	eps	1
+2795	2955	3	eps	1
+2795	2954	4	eps	1
+2795	2953	5	eps	1
+2795	2952	6	eps	1
+2795	2951	7	eps	1
+2795	2950	8	eps	1
+2795	2949	9	eps	1
+2796	2959	eps	n
+2797	2807	0	eps
+2798	2960	eps	(espacio)
+2799	2961	eps	t
+2800	2828	eps	i
+2800	2962	eps	e
+2801	1760	eps	i
+2802	1761	eps	i
+2803	1762	eps	i
+2804	1763	eps	i
+2805	2346	eps	r
+2806	2356	eps	r
+2807	581	eps	m	2
+2807	582	0	eps
+2807	0	eps	eps	23
+2807	23
+2808	2828	eps	(espacio)	3
+2808	694	eps	l
+2809	2963	eps	l
+2810	2964	eps	o
+2811	2965	eps	c
+2812	2966	eps	e
+2813	2967	eps	e
+2814	2968	eps	u
+2815	2969	eps	u
+2816	2970	eps	r
+2817	2971	eps	o
+2818	2972	eps	i
+2819	2973	eps	n
+2820	2974	eps	o
+2821	2975	eps	s
+2822	2976	eps	s
+2823	2977	eps	c
+2824	2978	eps	c
+2825	2979	eps	t
+2826	2980	eps	v
+2827	2990	1	eps
+2827	2988	2	eps
+2827	2987	3	eps
+2827	2986	4	eps
+2827	2985	5	eps
+2827	2984	6	eps
+2827	2983	7	eps
+2827	2982	8	eps
+2827	2981	9	eps
+2827	2989	0	eps
+2828	2999	1	eps
+2828	2998	2	eps
+2828	2997	3	eps
+2828	2996	4	eps
+2828	2995	5	eps
+2828	2994	6	eps
+2828	2993	7	eps
+2828	2992	8	eps
+2828	2991	9	eps
+2829	3000	eps	e
+2830	3001	0	eps
+2831	3002	eps	o
+2832	3003	eps	n
+2833	2627	eps	u
+2834	3004	eps	t
+2835	3005	eps	c
+2836	3006	eps	c
+2837	3007	eps	c
+2838	3008	eps	c
+2839	3009	eps	o
+2840	2846	eps	e
+2841	2846	eps	z
+2842	2840	eps	v
+2843	2840	eps	t
+2844	2649	eps	c
+2845	3010	eps	t
+2846	3011	eps	(espacio)
+2847	3012	eps	u
+2848	3013	eps	c
+2849	3014	eps	i
+2850	3015	eps	e
+2851	3016	eps	i
+2852	3017	eps	u
+2853	3018	eps	r
+2854	3175	eps	o
+2855	3020	eps	o
+2856	2941	eps	e
+2857	2942	eps	c
+2858	2941	eps	i
+2859	2943	eps	t
+2860	2790	eps	e
+2861	2944	eps	e
+2862	3026	eps	t
+2863	1799	0	eps	1
+2863	1319	1	eps
+2863	1318	2	eps	1
+2863	1317	3	eps	1
+2863	1316	4	eps	1
+2863	1315	5	eps	1
+2863	1314	6	eps	1
+2863	1313	7	eps	1
+2863	1312	8	eps	1
+2863	1311	9	eps	1
+2864	3027	eps	a
+2865	3001	eps	(espacio)
+2866	3028	eps	e
+2867	174	eps	h
+2868	3029	eps	e
+2869	2669	eps	i
+2870	3030	eps	n
+2871	3031	eps	a
+2872	3032	eps	e
+2873	3033	eps	c
+2874	2872	eps	r
+2875	3032	eps	i
+2876	3034	eps	n
+2877	3035	eps	e
+2878	3036	eps	e
+2879	3037	eps	e
+2880	3038	eps	e
+2881	2710	eps	i
+2882	3039	eps	t
+2883	2884	eps	e
+2884	3040	eps	c
+2885	3041	eps	e
+2886	3042	eps	i
+2887	2712	eps	r
+2888	3044	eps	t
+2888	3043	eps	(espacio)
+2889	3045	eps	t
+2890	3054	0	eps	1
+2890	3055	1	eps
+2890	3053	2	eps	1
+2890	3052	3	eps	1
+2890	3051	4	eps	1
+2890	3050	5	eps	1
+2890	3049	6	eps	1
+2890	3048	7	eps	1
+2890	3047	8	eps	1
+2890	3046	9	eps	1
+2891	3056	eps	n
+2892	2902	0	eps
+2893	3057	eps	(espacio)
+2894	3058	eps	t
+2895	2923	eps	i
+2895	3059	eps	e
+2896	1909	eps	i
+2897	1910	eps	i
+2898	1911	eps	i
+2899	1912	eps	i
+2900	2498	eps	r
+2901	2508	eps	r
+2902	467	,	eps	23
+2902	351	.	eps	23
+2902	660	eps	m	2
+2902	661	0	eps
+2903	2923	eps	(espacio)	3
+2903	788	eps	l
+2904	3060	eps	l
+2905	3061	eps	o
+2906	3062	eps	c
+2907	3063	eps	e
+2908	3064	eps	e
+2909	3065	eps	u
+2910	3066	eps	u
+2911	3067	eps	r
+2912	3068	eps	o
+2913	3069	eps	i
+2914	3070	eps	n
+2915	3071	eps	o
+2916	3072	eps	s
+2917	3073	eps	s
+2918	3074	eps	c
+2919	3075	eps	c
+2920	3076	eps	t
+2921	3077	eps	v
+2922	3087	1	eps
+2922	3085	2	eps
+2922	3084	3	eps
+2922	3083	4	eps
+2922	3082	5	eps
+2922	3081	6	eps
+2922	3080	7	eps
+2922	3079	8	eps
+2922	3078	9	eps
+2922	3086	0	eps
+2923	3096	1	eps
+2923	3095	2	eps
+2923	3094	3	eps
+2923	3093	4	eps
+2923	3092	5	eps
+2923	3091	6	eps
+2923	3090	7	eps
+2923	3089	8	eps
+2923	3088	9	eps
+2924	3097	eps	n
+2925	2935	0	eps
+2926	3098	eps	(espacio)
+2927	3099	eps	t
+2928	3101	eps	i
+2928	3100	eps	e
+2929	1957	eps	i
+2930	1958	eps	i
+2931	1959	eps	i
+2932	1960	eps	i
+2933	2537	eps	r
+2934	2547	eps	r
+2935	581	eps	m	2
+2935	582	0	eps
+2935	0	eps	eps	128
+2935	128
+2936	3102	eps	o
+2937	3103	eps	(espacio)
+2938	3025	eps	v
+2939	3025	eps	t
+2940	3655	eps	t
+2941	3176	eps	n
+2942	2856	eps	u
+2943	3178	eps	o
+2944	160	eps	z
+2945	3108	eps	e
+2946	3443	0	eps
+2947	3109	eps	o
+2948	3110	eps	o
+2949	3111	eps	n
+2950	3112	eps	o
+2951	3113	eps	s
+2952	3114	eps	s
+2953	3115	eps	c
+2954	3116	eps	c
+2955	3117	eps	t
+2956	3118	eps	v
+2957	3119	1	eps
+2957	1245	2	eps
+2957	1244	3	eps
+2957	1243	4	eps
+2957	1242	5	eps
+2957	1241	6	eps
+2957	1240	7	eps
+2957	1239	8	eps
+2957	1238	9	eps
+2958	3129	1	eps
+2958	3127	2	eps
+2958	3126	3	eps
+2958	3125	4	eps
+2958	3124	5	eps
+2958	3123	6	eps
+2958	3122	7	eps
+2958	3121	8	eps
+2958	3120	9	eps
+2958	3128	0	eps
+2959	3130	eps	t
+2960	2828	0	eps	1
+2960	1488	1	eps
+2960	1487	2	eps	1
+2960	1486	3	eps	1
+2960	1485	4	eps	1
+2960	1484	5	eps	1
+2960	1483	6	eps	1
+2960	1482	7	eps	1
+2960	1481	8	eps	1
+2960	1480	9	eps	1
+2961	3131	eps	a
+2962	3132	eps	(espacio)
+2963	2807	eps	(espacio)	2
+2963	1040	eps	l
+2964	3133	eps	v
+2965	3134	eps	h
+2966	3133	eps	t
+2967	2971	eps	i
+2968	3135	eps	i
+2969	3136	eps	a
+2970	2971	eps	e
+2971	3137	eps	s
+2972	3138	eps	e
+2973	3139	eps	o
+2974	3140	eps	c
+2975	3141	eps	e
+2976	3142	eps	e
+2977	3143	eps	i
+2978	3144	eps	u
+2979	3145	eps	r
+2980	3146	eps	e
+2981	3147	eps	d
+2982	3148	eps	d
+2983	3149	eps	d
+2984	3150	eps	d
+2985	3151	eps	q
+2986	3152	eps	c
+2987	3153	eps	t
+2988	3154	eps	d
+2989	3155	eps	d
+2990	3156	eps	o
+2991	3157	eps	n
+2992	3158	eps	o
+2993	3159	eps	s
+2994	3160	eps	s
+2995	3161	eps	c
+2996	3162	eps	c
+2997	3163	eps	t
+2998	3164	eps	d
+2999	3165	eps	u
+3000	3166	eps	n
+3001	3011	0	eps
+3002	3167	eps	(espacio)
+3003	3168	eps	t
+3004	3170	eps	i
+3004	3169	eps	e
+3005	2110	eps	i
+3006	2111	eps	i
+3007	2112	eps	i
+3008	2113	eps	i
+3009	2639	eps	r
+3010	2649	eps	r
+3011	467	,	eps	128
+3011	351	.	eps	128
+3011	660	eps	m	2
+3011	661	0	eps
+3012	3171	eps	e
+3013	2855	eps	h
+3014	3172	eps	e
+3015	3175	eps	i
+3016	3173	eps	n
+3017	3174	eps	a
+3018	3175	eps	e
+3019	3177	eps	t
+3020	3587	eps	(espacio)
+3021	3104	eps	c
+3022	3105	eps	c
+3023	3106	eps	c
+3024	3107	eps	c
+3025	160	eps	e
+3026	3179	eps	o
+3027	3180	eps	(espacio)
+3028	3040	eps	v
+3029	3040	eps	t
+3030	174	eps	c
+3031	116	eps	t
+3032	3181	eps	n
+3033	2872	eps	u
+3034	3182	eps	t
+3035	3183	eps	c
+3036	3184	eps	c
+3037	3185	eps	c
+3038	3186	eps	c
+3039	3187	eps	o
+3040	190	eps	e
+3041	190	eps	z
+3042	3188	eps	e
+3043	3189	0	eps
+3044	3190	eps	o
+3045	3191	eps	o
+3046	3192	eps	n
+3047	3193	eps	o
+3048	3194	eps	s
+3049	3195	eps	s
+3050	3196	eps	c
+3051	3197	eps	c
+3052	3198	eps	t
+3053	3199	eps	v
+3054	3200	1	eps
+3054	1337	2	eps
+3054	1336	3	eps
+3054	1335	4	eps
+3054	1334	5	eps
+3054	1333	6	eps
+3054	1332	7	eps
+3054	1331	8	eps
+3054	1330	9	eps
+3055	3210	1	eps
+3055	3208	2	eps
+3055	3207	3	eps
+3055	3206	4	eps
+3055	3205	5	eps
+3055	3204	6	eps
+3055	3203	7	eps
+3055	3202	8	eps
+3055	3201	9	eps
+3055	3209	0	eps
+3056	3211	eps	t
+3057	2923	0	eps	1
+3057	1615	1	eps
+3057	1614	2	eps	1
+3057	1613	3	eps	1
+3057	1612	4	eps	1
+3057	1611	5	eps	1
+3057	1610	6	eps	1
+3057	1609	7	eps	1
+3057	1608	8	eps	1
+3057	1607	9	eps	1
+3058	3212	eps	a
+3059	3213	eps	(espacio)
+3060	2902	eps	(espacio)	2
+3060	1124	eps	l
+3061	3214	eps	v
+3062	3215	eps	h
+3063	3214	eps	t
+3064	3068	eps	i
+3065	3216	eps	i
+3066	3217	eps	a
+3067	3068	eps	e
+3068	3218	eps	s
+3069	3219	eps	e
+3070	3220	eps	o
+3071	3221	eps	c
+3072	3222	eps	e
+3073	3223	eps	e
+3074	3224	eps	i
+3075	3225	eps	u
+3076	3226	eps	r
+3077	3227	eps	e
+3078	3228	eps	d
+3079	3229	eps	d
+3080	3230	eps	d
+3081	3231	eps	d
+3082	3232	eps	q
+3083	3233	eps	c
+3084	3234	eps	t
+3085	3235	eps	d
+3086	3236	eps	d
+3087	3237	eps	o
+3088	3238	eps	n
+3089	3239	eps	o
+3090	3240	eps	s
+3091	3241	eps	s
+3092	3242	eps	c
+3093	3243	eps	c
+3094	3244	eps	t
+3095	3245	eps	d
+3096	3246	eps	u
+3097	3247	eps	t
+3098	3101	0	eps	1
+3098	1649	1	eps
+3098	1648	2	eps	1
+3098	1647	3	eps	1
+3098	1646	4	eps	1
+3098	1645	5	eps	1
+3098	1644	6	eps	1
+3098	1643	7	eps	1
+3098	1642	8	eps	1
+3098	1641	9	eps	1
+3099	3248	eps	a
+3100	3249	eps	(espacio)
+3101	3258	1	eps
+3101	3257	2	eps
+3101	3256	3	eps
+3101	3255	4	eps
+3101	3254	5	eps
+3101	3253	6	eps
+3101	3252	7	eps
+3101	3251	8	eps
+3101	3250	9	eps
+3102	3259	eps	s
+3103	1967	eps	y
+3103	2935	0	eps
+3104	3326	eps	i
+3105	2302	eps	i
+3106	3327	eps	i
+3107	2303	eps	i
+3108	3262	eps	n
+3109	3263	eps	(espacio)
+3110	3264	eps	s
+3111	3265	eps	o
+3112	3266	eps	c
+3113	3267	eps	e
+3114	3268	eps	e
+3115	3269	eps	i
+3116	3270	eps	u
+3117	3271	eps	r
+3118	3272	eps	e
+3119	3273	eps	u
+3120	3274	eps	d
+3121	3275	eps	d
+3122	3276	eps	d
+3123	3277	eps	d
+3124	3278	eps	q
+3125	3279	eps	c
+3126	3280	eps	t
+3127	3281	eps	d
+3128	3282	eps	d
+3129	3283	eps	o
+3130	3284	eps	o
+3131	3285	eps	(espacio)
+3132	3286	0	eps
+3133	3137	eps	e
+3134	3137	eps	o
+3135	3287	eps	n
+3136	3288	eps	t
+3137	3287	eps	c
+3138	3289	eps	n
+3139	3290	eps	v
+3140	3290	eps	h
+3141	3290	eps	t
+3142	3290	eps	s
+3143	3291	eps	n
+3144	3292	eps	a
+3145	3293	eps	e
+3146	3294	eps	i
+3147	3295	eps	i
+3148	3296	eps	i
+3149	3297	eps	i
+3150	3298	eps	i
+3151	3299	eps	u
+3152	3300	eps	a
+3153	3301	eps	r
+3154	3302	eps	o
+3155	3303	eps	i
+3156	3302	eps	n
+3157	3304	eps	u
+3158	3305	eps	c
+3159	3306	eps	i
+3160	3307	eps	e
+3161	3308	eps	i
+3162	3309	eps	u
+3163	3310	eps	r
+3164	3311	eps	o
+3165	3312	eps	n
+3166	3313	eps	t
+3167	3170	0	eps	1
+3167	1798	1	eps
+3167	1797	2	eps	1
+3167	1796	3	eps	1
+3167	1795	4	eps	1
+3167	1794	5	eps	1
+3167	1793	6	eps	1
+3167	1792	7	eps	1
+3167	1791	8	eps	1
+3167	1790	9	eps	1
+3168	3314	eps	a
+3169	3315	eps	(espacio)
+3170	3324	1	eps
+3170	3323	2	eps
+3170	3322	3	eps
+3170	3321	4	eps
+3170	3320	5	eps
+3170	3319	6	eps
+3170	3318	7	eps
+3170	3317	8	eps
+3170	3316	9	eps
+3171	3325	eps	v
+3172	3325	eps	t
+3173	2855	eps	c
+3174	2661	eps	t
+3175	3020	eps	s
+3176	3260	eps	t
+3177	2009	eps	i
+3177	3261	eps	e
+3178	2790	eps	r
+3179	3328	eps	s
+3180	2120	eps	y
+3180	3011	0	eps
+3181	3329	eps	t
+3182	2166	eps	i
+3182	3330	eps	e
+3183	2440	eps	i
+3184	2441	eps	i
+3185	2442	eps	i
+3186	2443	eps	i
+3187	2884	eps	r
+3188	3331	eps	n
+3189	241	0	eps
+3190	3332	eps	(espacio)
+3191	3333	eps	s
+3192	3334	eps	o
+3193	3335	eps	c
+3194	3336	eps	e
+3195	3337	eps	e
+3196	3338	eps	i
+3197	3339	eps	u
+3198	3340	eps	r
+3199	3341	eps	e
+3200	3342	eps	u
+3201	3343	eps	d
+3202	3344	eps	d
+3203	3345	eps	d
+3204	3346	eps	d
+3205	3347	eps	q
+3206	3348	eps	c
+3207	3349	eps	t
+3208	3350	eps	d
+3209	3351	eps	d
+3210	3352	eps	o
+3211	3353	eps	o
+3212	3354	eps	(espacio)
+3213	3355	0	eps
+3214	3218	eps	e
+3215	3218	eps	o
+3216	3356	eps	n
+3217	3357	eps	t
+3218	3356	eps	c
+3219	3358	eps	n
+3220	3359	eps	v
+3221	3359	eps	h
+3222	3359	eps	t
+3223	3359	eps	s
+3224	3360	eps	n
+3225	3361	eps	a
+3226	3362	eps	e
+3227	3363	eps	i
+3228	3364	eps	i
+3229	3365	eps	i
+3230	3366	eps	i
+3231	3367	eps	i
+3232	3368	eps	u
+3233	3369	eps	a
+3234	3370	eps	r
+3235	3371	eps	o
+3236	3372	eps	i
+3237	3371	eps	n
+3238	3373	eps	u
+3239	3374	eps	c
+3240	3375	eps	i
+3241	3376	eps	e
+3242	3377	eps	i
+3243	3378	eps	u
+3244	3379	eps	r
+3245	3380	eps	o
+3246	3381	eps	n
+3247	3382	eps	o
+3248	3383	eps	(espacio)
+3249	3384	0	eps
+3250	3385	eps	n
+3251	3386	eps	o
+3252	3387	eps	s
+3253	3388	eps	s
+3254	3389	eps	c
+3255	3390	eps	c
+3256	3391	eps	t
+3257	3392	eps	d
+3258	3393	eps	u
+3259	3394	eps	(espacio)
+3260	3442	eps	a
+3261	3443	eps	(espacio)
+3262	3395	eps	t
+3263	2009	0	eps	1
+3263	2125	1	eps
+3263	2123	2	eps	1
+3263	2015	3	eps	1
+3263	2122	4	eps	1
+3263	2014	5	eps	1
+3263	2013	6	eps	1
+3263	2012	7	eps	1
+3263	2011	8	eps	1
+3263	2010	9	eps	1
+3264	3396	eps	(espacio)
+3265	3397	eps	v
+3266	3397	eps	h
+3267	3397	eps	t
+3268	3397	eps	s
+3269	3398	eps	n
+3270	3399	eps	a
+3271	3400	eps	e
+3272	3401	eps	i
+3273	2030	eps	n
+3274	3402	eps	i
+3275	3403	eps	i
+3276	3404	eps	i
+3277	3405	eps	i
+3278	3406	eps	u
+3279	3407	eps	a
+3280	3408	eps	r
+3281	3409	eps	o
+3282	3410	eps	i
+3283	3409	eps	n
+3284	3411	eps	s
+3285	2618	eps	y
+3285	3286	0	eps
+3286	581	eps	m	2
+3286	582	0	eps
+3286	0	eps	eps	26
+3286	26
+3287	3412	eps	i
+3288	3134	eps	r
+3289	3414	eps	t
+3289	3413	eps	(espacio)
+3290	3415	eps	e
+3291	3416	eps	c
+3292	3290	eps	r
+3293	3415	eps	i
+3294	3417	eps	n
+3295	3418	eps	e
+3296	3419	eps	e
+3297	3420	eps	e
+3298	3421	eps	e
+3299	3156	eps	i
+3300	3422	eps	t
+3301	3302	eps	e
+3302	3423	eps	c
+3303	3424	eps	e
+3304	3425	eps	e
+3305	3312	eps	h
+3306	3426	eps	e
+3307	3311	eps	i
+3308	3427	eps	n
+3309	3428	eps	a
+3310	3311	eps	e
+3311	3429	eps	s
+3312	3429	eps	o
+3313	3430	eps	o
+3314	3431	eps	(espacio)
+3315	3432	0	eps
+3316	3433	eps	n
+3317	3434	eps	o
+3318	3435	eps	s
+3319	3436	eps	s
+3320	3437	eps	c
+3321	3438	eps	c
+3322	3439	eps	t
+3323	3440	eps	d
+3324	3441	eps	u
+3325	3020	eps	e
+3326	2562	eps	n
+3327	2563	eps	s
+3328	3449	eps	(espacio)
+3329	3450	eps	a
+3330	3189	eps	(espacio)
+3331	3451	eps	t
+3332	2166	0	eps	1
+3332	2175	1	eps
+3332	2174	2	eps	1
+3332	2173	3	eps	1
+3332	2172	4	eps	1
+3332	2171	5	eps	1
+3332	2170	6	eps	1
+3332	2169	7	eps	1
+3332	2168	8	eps	1
+3332	2167	9	eps	1
+3333	3452	eps	(espacio)
+3334	3453	eps	v
+3335	3453	eps	h
+3336	3453	eps	t
+3337	3453	eps	s
+3338	3454	eps	n
+3339	3455	eps	a
+3340	3456	eps	e
+3341	3457	eps	i
+3342	2190	eps	n
+3343	3458	eps	i
+3344	3459	eps	i
+3345	3460	eps	i
+3346	3461	eps	i
+3347	3462	eps	u
+3348	3463	eps	a
+3349	3464	eps	r
+3350	3465	eps	o
+3351	3466	eps	i
+3352	3465	eps	n
+3353	3467	eps	s
+3354	2753	eps	y
+3354	3355	0	eps
+3355	467	,	eps	26
+3355	351	.	eps	26
+3355	660	eps	m	2
+3355	661	0	eps
+3356	3468	eps	i
+3357	3215	eps	r
+3358	3470	eps	t
+3358	3469	eps	(espacio)
+3359	3471	eps	e
+3360	3472	eps	c
+3361	3359	eps	r
+3362	3471	eps	i
+3363	3473	eps	n
+3364	3474	eps	e
+3365	3475	eps	e
+3366	3476	eps	e
+3367	3477	eps	e
+3368	3237	eps	i
+3369	3478	eps	t
+3370	3371	eps	e
+3371	3479	eps	c
+3372	3480	eps	e
+3373	3481	eps	e
+3374	3381	eps	h
+3375	3482	eps	e
+3376	3380	eps	i
+3377	3483	eps	n
+3378	3484	eps	a
+3379	3380	eps	e
+3380	3485	eps	s
+3381	3485	eps	o
+3382	3486	eps	s
+3383	3487	eps	y
+3383	3384	0	eps
+3384	581	eps	m	2
+3384	582	0	eps
+3384	0	eps	eps	143
+3384	143
+3385	3488	eps	u
+3386	3489	eps	c
+3387	3490	eps	i
+3388	3491	eps	e
+3389	3492	eps	i
+3390	3493	eps	u
+3391	3494	eps	r
+3392	3495	eps	o
+3393	3496	eps	n
+3394	1227	1	eps
+3394	1226	2	eps	1
+3394	1225	3	eps	1
+3394	1224	4	eps	1
+3394	1223	5	eps	1
+3394	1222	6	eps	1
+3394	1221	7	eps	1
+3394	1220	8	eps	1
+3394	1219	9	eps	1
+3394	3497	0	eps
+3395	3498	eps	o
+3396	2958	1	eps
+3396	2956	2	eps	1
+3396	2955	3	eps	1
+3396	2954	4	eps	1
+3396	2953	5	eps	1
+3396	2952	6	eps	1
+3396	2951	7	eps	1
+3396	2950	8	eps	1
+3396	2949	9	eps	1
+3396	3499	0	eps
+3397	3500	eps	e
+3398	3501	eps	c
+3399	3397	eps	r
+3400	3500	eps	i
+3401	3502	eps	n
+3402	3503	eps	e
+3403	3504	eps	e
+3404	3505	eps	e
+3405	3506	eps	e
+3406	3283	eps	i
+3407	3507	eps	t
+3408	3409	eps	e
+3409	2324	eps	c
+3410	3508	eps	e
+3411	3509	eps	(espacio)
+3412	3510	eps	e
+3413	3132	0	eps
+3414	3511	eps	o
+3415	3512	eps	n
+3416	3290	eps	u
+3417	3513	eps	t
+3418	3514	eps	c
+3419	3515	eps	c
+3420	3516	eps	c
+3421	3517	eps	c
+3422	3518	eps	o
+3423	3429	eps	e
+3424	3429	eps	z
+3425	3423	eps	v
+3426	3423	eps	t
+3427	3312	eps	c
+3428	3519	eps	t
+3429	3286	eps	(espacio)
+3430	3520	eps	s
+3431	3521	eps	y
+3431	3432	0	eps
+3432	467	,	eps	143
+3432	351	.	eps	143
+3432	660	eps	m	2
+3432	661	0	eps
+3433	3522	eps	u
+3434	3523	eps	c
+3435	3524	eps	i
+3436	3525	eps	e
+3437	3526	eps	i
+3438	3527	eps	u
+3439	3528	eps	r
+3440	3529	eps	o
+3441	3530	eps	n
+3442	3531	eps	(espacio)
+3443	215	0	eps
+3444	2564	eps	c
+3445	2565	eps	t
+3446	2566	eps	d
+3447	3535	eps	c
+3448	2781	eps	e
+3449	1319	1	eps
+3449	1318	2	eps	1
+3449	1317	3	eps	1
+3449	1316	4	eps	1
+3449	1315	5	eps	1
+3449	1314	6	eps	1
+3449	1313	7	eps	1
+3449	1312	8	eps	1
+3449	1311	9	eps	1
+3449	3537	0	eps
+3450	3538	eps	(espacio)
+3451	3539	eps	o
+3452	3055	1	eps
+3452	3053	2	eps	1
+3452	3052	3	eps	1
+3452	3051	4	eps	1
+3452	3050	5	eps	1
+3452	3049	6	eps	1
+3452	3048	7	eps	1
+3452	3047	8	eps	1
+3452	3046	9	eps	1
+3452	3540	0	eps
+3453	3541	eps	e
+3454	3542	eps	c
+3455	3453	eps	r
+3456	3541	eps	i
+3457	3543	eps	n
+3458	3544	eps	e
+3459	3545	eps	e
+3460	3546	eps	e
+3461	3547	eps	e
+3462	3352	eps	i
+3463	3548	eps	t
+3464	3465	eps	e
+3465	2476	eps	c
+3466	3549	eps	e
+3467	3550	eps	(espacio)
+3468	3551	eps	e
+3469	3213	0	eps
+3470	3552	eps	o
+3471	3553	eps	n
+3472	3359	eps	u
+3473	3554	eps	t
+3474	3555	eps	c
+3475	3556	eps	c
+3476	3557	eps	c
+3477	3558	eps	c
+3478	3559	eps	o
+3479	3485	eps	e
+3480	3485	eps	z
+3481	3479	eps	v
+3482	3479	eps	t
+3483	3381	eps	c
+3484	3560	eps	t
+3485	3355	eps	(espacio)
+3486	3561	eps	(espacio)
+3487	3101	eps	(espacio)
+3488	3562	eps	e
+3489	3496	eps	h
+3490	3563	eps	e
+3491	3495	eps	i
+3492	3564	eps	n
+3493	3565	eps	a
+3494	3495	eps	e
+3495	3566	eps	s
+3496	3566	eps	o
+3497	1965	1	eps	1
+3497	1964	2	eps	1
+3497	1963	3	eps	1
+3497	1962	4	eps	1
+3497	1961	5	eps	1
+3497	1960	6	eps	1
+3497	1959	7	eps	1
+3497	1958	8	eps	1
+3497	1957	9	eps	1
+3497	1966	0	eps
+3498	3567	eps	s
+3499	3119	1	eps	1
+3499	1245	2	eps	1
+3499	1244	3	eps	1
+3499	1243	4	eps	1
+3499	1242	5	eps	1
+3499	1241	6	eps	1
+3499	1240	7	eps	1
+3499	1239	8	eps	1
+3499	1238	9	eps	1
+3499	1246	0	eps
+3500	3568	eps	n
+3501	3397	eps	u
+3502	3569	eps	t
+3503	3570	eps	c
+3504	3571	eps	c
+3505	3572	eps	c
+3506	3573	eps	c
+3507	3574	eps	o
+3508	2030	eps	z
+3509	1488	1	eps
+3509	1487	2	eps	1
+3509	1486	3	eps	1
+3509	1485	4	eps	1
+3509	1484	5	eps	1
+3509	1483	6	eps	1
+3509	1482	7	eps	1
+3509	1481	8	eps	1
+3509	1480	9	eps	1
+3509	3575	0	eps
+3510	3576	eps	n
+3511	3577	eps	(espacio)
+3512	3578	eps	t
+3513	3580	eps	i
+3513	3579	eps	e
+3514	2991	eps	i
+3515	2992	eps	i
+3516	2993	eps	i
+3517	2994	eps	i
+3518	3302	eps	r
+3519	3312	eps	r
+3520	3581	eps	(espacio)
+3521	3170	eps	(espacio)
+3522	3582	eps	e
+3523	3530	eps	h
+3524	3583	eps	e
+3525	3529	eps	i
+3526	3584	eps	n
+3527	3585	eps	a
+3528	3529	eps	e
+3529	3586	eps	s
+3530	3586	eps	o
+3531	1705	eps	y
+3531	215	0	eps
+3532	2782	eps	i
+3533	144	eps	n
+3534	2938	eps	e
+3535	144	eps	h
+3536	2939	eps	e
+3537	2118	1	eps	1
+3537	2117	2	eps	1
+3537	2116	3	eps	1
+3537	2115	4	eps	1
+3537	2114	5	eps	1
+3537	2113	6	eps	1
+3537	2112	7	eps	1
+3537	2111	8	eps	1
+3537	2110	9	eps	1
+3537	2119	0	eps
+3538	1854	eps	y
+3538	241	0	eps
+3539	3590	eps	s
+3540	3200	1	eps	1
+3540	1337	2	eps	1
+3540	1336	3	eps	1
+3540	1335	4	eps	1
+3540	1334	5	eps	1
+3540	1333	6	eps	1
+3540	1332	7	eps	1
+3540	1331	8	eps	1
+3540	1330	9	eps	1
+3540	1338	0	eps
+3541	3591	eps	n
+3542	3453	eps	u
+3543	3592	eps	t
+3544	3593	eps	c
+3545	3594	eps	c
+3546	3595	eps	c
+3547	3596	eps	c
+3548	3597	eps	o
+3549	2190	eps	z
+3550	1615	1	eps
+3550	1614	2	eps	1
+3550	1613	3	eps	1
+3550	1612	4	eps	1
+3550	1611	5	eps	1
+3550	1610	6	eps	1
+3550	1609	7	eps	1
+3550	1608	8	eps	1
+3550	1607	9	eps	1
+3550	3598	0	eps
+3551	3599	eps	n
+3552	3600	eps	(espacio)
+3553	3601	eps	t
+3554	3603	eps	i
+3554	3602	eps	e
+3555	3088	eps	i
+3556	3089	eps	i
+3557	3090	eps	i
+3558	3091	eps	i
+3559	3371	eps	r
+3560	3381	eps	r
+3561	1649	1	eps
+3561	1648	2	eps	1
+3561	1647	3	eps	1
+3561	1646	4	eps	1
+3561	1645	5	eps	1
+3561	1644	6	eps	1
+3561	1643	7	eps	1
+3561	1642	8	eps	1
+3561	1641	9	eps	1
+3561	3604	0	eps
+3562	3605	eps	v
+3563	3605	eps	t
+3564	3496	eps	c
+3565	3606	eps	t
+3566	3384	eps	(espacio)
+3567	3607	eps	(espacio)
+3568	3608	eps	t
+3569	2957	eps	i
+3569	3609	eps	e
+3570	1238	eps	i
+3571	1239	eps	i
+3572	1240	eps	i
+3573	1241	eps	i
+3574	3409	eps	r
+3575	2999	1	eps	1
+3575	2998	2	eps	1
+3575	2997	3	eps	1
+3575	2996	4	eps	1
+3575	2995	5	eps	1
+3575	2994	6	eps	1
+3575	2993	7	eps	1
+3575	2992	8	eps	1
+3575	2991	9	eps	1
+3575	2807	0	eps
+3576	3610	eps	t
+3577	3580	0	eps	1
+3577	2827	1	eps
+3577	2826	2	eps	1
+3577	2825	3	eps	1
+3577	2824	4	eps	1
+3577	2823	5	eps	1
+3577	2822	6	eps	1
+3577	2821	7	eps	1
+3577	2820	8	eps	1
+3577	2819	9	eps	1
+3578	3611	eps	a
+3579	3612	eps	(espacio)
+3580	3621	1	eps
+3580	3620	2	eps
+3580	3619	3	eps
+3580	3618	4	eps
+3580	3617	5	eps
+3580	3616	6	eps
+3580	3615	7	eps
+3580	3614	8	eps
+3580	3613	9	eps
+3581	1798	1	eps
+3581	1797	2	eps	1
+3581	1796	3	eps	1
+3581	1795	4	eps	1
+3581	1794	5	eps	1
+3581	1793	6	eps	1
+3581	1792	7	eps	1
+3581	1791	8	eps	1
+3581	1790	9	eps	1
+3581	3622	0	eps
+3582	3623	eps	v
+3583	3623	eps	t
+3584	3530	eps	c
+3585	3624	eps	t
+3586	3432	eps	(espacio)
+3587	2657	2	eps	2
+3587	2656	3	eps	2
+3587	2655	4	eps	2
+3587	2654	5	eps	2
+3587	2653	6	eps	2
+3587	2652	7	eps	2
+3587	2651	8	eps	2
+3587	2650	9	eps	2
+3587	2404	1	eps	2
+3587	2124	0	eps	2
+3587	0	eps	eps
+3587
+3588	2940	eps	a
+3589	160	eps	s
+3590	3626	eps	(espacio)
+3591	3627	eps	t
+3592	3054	eps	i
+3592	3628	eps	e
+3593	1330	eps	i
+3594	1331	eps	i
+3595	1332	eps	i
+3596	1333	eps	i
+3597	3465	eps	r
+3598	3096	1	eps	1
+3598	3095	2	eps	1
+3598	3094	3	eps	1
+3598	3093	4	eps	1
+3598	3092	5	eps	1
+3598	3091	6	eps	1
+3598	3090	7	eps	1
+3598	3089	8	eps	1
+3598	3088	9	eps	1
+3598	2902	0	eps
+3599	3629	eps	t
+3600	3603	0	eps	1
+3600	2922	1	eps
+3600	2921	2	eps	1
+3600	2920	3	eps	1
+3600	2919	4	eps	1
+3600	2918	5	eps	1
+3600	2917	6	eps	1
+3600	2916	7	eps	1
+3600	2915	8	eps	1
+3600	2914	9	eps	1
+3601	3630	eps	a
+3602	3631	eps	(espacio)
+3603	3640	1	eps
+3603	3639	2	eps
+3603	3638	3	eps
+3603	3637	4	eps
+3603	3636	5	eps
+3603	3635	6	eps
+3603	3634	7	eps
+3603	3633	8	eps
+3603	3632	9	eps
+3604	3258	1	eps	1
+3604	3257	2	eps	1
+3604	3256	3	eps	1
+3604	3255	4	eps	1
+3604	3254	5	eps	1
+3604	3253	6	eps	1
+3604	3252	7	eps	1
+3604	3251	8	eps	1
+3604	3250	9	eps	1
+3604	2935	0	eps
+3605	3566	eps	e
+3606	3496	eps	r
+3607	2125	1	eps
+3607	2123	2	eps	1
+3607	2015	3	eps	1
+3607	2122	4	eps	1
+3607	2014	5	eps	1
+3607	2013	6	eps	1
+3607	2012	7	eps	1
+3607	2011	8	eps	1
+3607	2010	9	eps	1
+3607	3641	0	eps
+3608	3642	eps	a
+3609	2584	eps	(espacio)
+3610	3643	eps	o
+3611	3644	eps	(espacio)
+3612	3645	0	eps
+3613	3646	eps	n
+3614	3647	eps	o
+3615	3648	eps	s
+3616	3649	eps	s
+3617	3650	eps	c
+3618	3651	eps	c
+3619	3652	eps	t
+3620	3653	eps	d
+3621	3654	eps	u
+3622	3324	1	eps	1
+3622	3323	2	eps	1
+3622	3322	3	eps	1
+3622	3321	4	eps	1
+3622	3320	5	eps	1
+3622	3319	6	eps	1
+3622	3318	7	eps	1
+3622	3317	8	eps	1
+3622	3316	9	eps	1
+3622	3011	0	eps
+3623	3586	eps	e
+3624	3530	eps	r
+3625	144	eps	c
+3626	2175	1	eps
+3626	2174	2	eps	1
+3626	2173	3	eps	1
+3626	2172	4	eps	1
+3626	2171	5	eps	1
+3626	2170	6	eps	1
+3626	2169	7	eps	1
+3626	2168	8	eps	1
+3626	2167	9	eps	1
+3626	3656	0	eps
+3627	3657	eps	a
+3628	2719	eps	(espacio)
+3629	3658	eps	o
+3630	3659	eps	(espacio)
+3631	3660	0	eps
+3632	3661	eps	n
+3633	3662	eps	o
+3634	3663	eps	s
+3635	3664	eps	s
+3636	3665	eps	c
+3637	3666	eps	c
+3638	3667	eps	t
+3639	3668	eps	d
+3640	3669	eps	u
+3641	2305	1	eps	1
+3641	3446	2	eps	1
+3641	3445	3	eps	1
+3641	3444	4	eps	1
+3641	2304	5	eps	1
+3641	2303	6	eps	1
+3641	3327	7	eps	1
+3641	2302	8	eps	1
+3641	3326	9	eps	1
+3641	215	0	eps
+3642	3670	eps	(espacio)
+3643	3671	eps	s
+3644	3672	eps	y
+3644	3645	0	eps
+3645	581	eps	m	2
+3645	582	0	eps
+3645	0	eps	eps	29
+3645	29
+3646	3673	eps	u
+3647	3674	eps	c
+3648	3675	eps	i
+3649	3676	eps	e
+3650	3677	eps	i
+3651	3678	eps	u
+3652	3679	eps	r
+3653	3680	eps	o
+3654	3681	eps	n
+3655	144	eps	r
+3656	2448	1	eps	1
+3656	2447	2	eps	1
+3656	2446	3	eps	1
+3656	2445	4	eps	1
+3656	2444	5	eps	1
+3656	2443	6	eps	1
+3656	2442	7	eps	1
+3656	2441	8	eps	1
+3656	2440	9	eps	1
+3656	241	0	eps
+3657	3682	eps	(espacio)
+3658	3683	eps	s
+3659	3684	eps	y
+3659	3660	0	eps
+3660	467	,	eps	29
+3660	351	.	eps	29
+3660	660	eps	m	2
+3660	661	0	eps
+3661	3685	eps	u
+3662	3686	eps	c
+3663	3687	eps	i
+3664	3688	eps	e
+3665	3689	eps	i
+3666	3690	eps	u
+3667	3691	eps	r
+3668	3692	eps	o
+3669	3693	eps	n
+3670	3694	eps	y
+3670	1246	0	eps
+3671	3695	eps	(espacio)
+3672	3580	eps	(espacio)
+3673	3696	eps	e
+3674	3681	eps	h
+3675	3697	eps	e
+3676	3680	eps	i
+3677	3698	eps	n
+3678	3699	eps	a
+3679	3680	eps	e
+3680	3700	eps	s
+3681	3700	eps	o
+3682	3701	eps	y
+3682	1338	0	eps
+3683	3702	eps	(espacio)
+3684	3603	eps	(espacio)
+3685	3703	eps	e
+3686	3693	eps	h
+3687	3704	eps	e
+3688	3692	eps	i
+3689	3705	eps	n
+3690	3706	eps	a
+3691	3692	eps	e
+3692	3707	eps	s
+3693	3707	eps	o
+3694	2957	eps	(espacio)
+3695	2827	1	eps
+3695	2826	2	eps	1
+3695	2825	3	eps	1
+3695	2824	4	eps	1
+3695	2823	5	eps	1
+3695	2822	6	eps	1
+3695	2821	7	eps	1
+3695	2820	8	eps	1
+3695	2819	9	eps	1
+3695	3708	0	eps
+3696	3709	eps	v
+3697	3709	eps	t
+3698	3681	eps	c
+3699	3710	eps	t
+3700	3645	eps	(espacio)
+3701	3054	eps	(espacio)
+3702	2922	1	eps
+3702	2921	2	eps	1
+3702	2920	3	eps	1
+3702	2919	4	eps	1
+3702	2918	5	eps	1
+3702	2917	6	eps	1
+3702	2916	7	eps	1
+3702	2915	8	eps	1
+3702	2914	9	eps	1
+3702	3711	0	eps
+3703	3712	eps	v
+3704	3712	eps	t
+3705	3693	eps	c
+3706	3713	eps	t
+3707	3660	eps	(espacio)
+3708	3621	1	eps	1
+3708	3620	2	eps	1
+3708	3619	3	eps	1
+3708	3618	4	eps	1
+3708	3617	5	eps	1
+3708	3616	6	eps	1
+3708	3615	7	eps	1
+3708	3614	8	eps	1
+3708	3613	9	eps	1
+3708	3286	0	eps
+3709	3700	eps	e
+3710	3681	eps	r
+3711	3640	1	eps	1
+3711	3639	2	eps	1
+3711	3638	3	eps	1
+3711	3637	4	eps	1
+3711	3636	5	eps	1
+3711	3635	6	eps	1
+3711	3634	7	eps	1
+3711	3633	8	eps	1
+3711	3632	9	eps	1
+3711	3355	0	eps
+3712	3707	eps	e
+3713	3693	eps	r

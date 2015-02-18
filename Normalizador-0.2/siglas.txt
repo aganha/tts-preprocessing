@@ -1,0 +1,1004 @@
+KM	kilómetros
+KM2	kilómetros cuadrados
+KM²	kilómetros cuadrados
+KMH	kilómetros por hora
+KM/H	kilómetros por hora
+MPH	millas por hora
+MP/H	millas por hora
+M/S	metros por segundo
+MTS/S	metros por segundo
+M/SEG	metros por segundo
+MTS/SEG	metros por segundo
+MTS/SEGS	metros por segundo
+M/SEGS	metros por segundo
+MSNM	metros sobre el nivel del mar
+M²	metros cuadrados
+M2	metros cuadrados
+MTS²	metros cuadrados
+MTS2	metros cuadrados
+M³	metros cúbicos
+M3	metros cúbicos
+MTS³	metros cúbicos
+MTS3	metros cúbicos
+CM	centímetros
+CMS	centímetros
+CM²	centímetros cuadrados
+CM2	centímetros cuadrados
+CMS2	centímetros cuadrados
+CMS²	centímetros cuadrados
+MM	milímetros
+MM²	milímetros cuadrados
+MM2	milímetros cuadrados
+MM3	milímetros cúbicos
+MM³	milímetros cúbicos
+m3/s	metros cúbicos por segundo
+m³/s	metros cúbicos por segundo
+KG	kilogramos
+KGS	kilogramos
+GRS	gramos
+GR	gramos
+HAB/KM2	habitantes por kilómetro cuadrado
+HAB/KM²	habitantes por kilómetro cuadrado
+HAB/MI2	habitantes por milla cuadrada
+HAB/M²	habitantes por milla cuadrada
+=	igual
+°	grados
+º	grados
+°C	grados centígrados
+ºC	grados centígrados
+°F	grados farenjeit
+ºF	grados farenjeit
+N°	número
+N.°	número
+Nº	número
+N.º	número
+NRO	número
+%	porciento
+&	y
+A	a
+B	be
+C	ce
+D	de
+E	e
+F	efe
+G	ge
+H	ache
+I	i
+J	jota
+K	ka
+L	ele
+LL	elle
+M	eme
+N	ene
+P	pe
+Q	ku
+R	erre
+S	ese
+T	te
+U	u
+V	ve
+W	doble ve
+X	equis
+z	zeta
+ETC	etcétera
+CO2	dióxido de carbono
+SRA	señora
+FFCC	ferrocarril
+RRHH	recursos humanos
+FC	efe ce 
+CD	ce de 
+TV	te ve 
+DVD	de ve de 
+NBA	ene be a 
+EE	ee
+ADN	a de ene 
+EP	ep
+MTV	em ti vi
+UU	uu
+INE	ine
+URSS	unión soviética 
+BBC	be be ce 
+CF	ce efe 
+PSOE	pe ese o e 
+LP	ele pe 
+UEFA	uefa
+PC	pe ce 
+WWE	dobleve dobleve e 
+DC	de ce 
+AC	a ce
+ABC	a be ce 
+FM	efe eme 
+US	us
+FIFA	fifa
+HMS	ache eme ese 
+SS	ese ese 
+HD	ache de 
+USA	estados unidos
+DJ	di yei
+EEUU	estados unidos
+USS	u ese ese 
+IBM	i be eme 
+CBS	ce be ese 
+ONU	onu
+PP	pe pe 
+NBC	ene be ce 
+OTAN	otan
+UCI	uci
+ETA	eta
+PIB	pib
+ISBN	i ese be ene 
+UNAM	unam
+TVE	te ve e 
+NASA	nasa
+UE	ue
+CV	ce ve 
+ATP	a te pe 
+UK	uk
+WWF	dobleve dobleve efe 
+ISO	iso
+NGC	ene ge ce 
+CIA	cia
+OS	os
+FARC	fark 
+PRI	pri 
+NCAA	ene ce a a 
+NFL	ene efe ele 
+ARN	a erre ene 
+UNESCO	unesco
+FBI	efe be i 
+EMI	emi
+IP	i pe
+BMW	be eme dobleve 
+ACB	a ce be 
+AM	a eme
+UA	u a
+TNA	te ene a 
+GNU	ge ene u 
+FCC	efe ce ce
+GC	ge ce 
+DS	de ese 
+CPU	ce pe u 
+RAF	raf
+TC	te ce 
+MVP	eme ve pe 
+RCA	erre ce a 
+VIH	v i ache
+PNV	pe ene ve 
+LGBT	ele ge be te 
+SA	ese a
+RAM	ram
+ECW	e ce dobleve 
+WCW	dobleve ce dobleve 
+GF	ge efe 
+FA	fa
+CNT	ce ene te 
+PAN	pan
+USD	dólares
+PJ	pe jota 
+HP	ache pe 
+TVN	te ve ene 
+UD	ud
+PRD	pe erre de 
+PCE	pe ce e 
+SMS	ese eme ese 
+MW	eme dobleve 
+GT	ge te 
+ARA	ara
+USB	u ese be 
+NWA	ene dobleve a 
+AG	ag
+MC	eme ce 
+ABA	aba
+HBO	ache be o 
+SC	ese ce 
+RN	erre ene 
+AD	a de
+ONG	o ene ge 
+MIT	mit
+AS	as
+XML	equis eme ele 
+MGM	eme ge eme 
+EA	ea
+SD	ese de 
+AFC	a efe ce 
+UTC	u te ce 
+BMG	be eme ge 
+VHS	ve ache ese 
+AT	a te
+MB	eme be 
+IRA	ira
+RCD	erre ce de 
+CA	ce a
+NOTOC	notoc
+UGT	u ge te 
+SE	se
+SAS	sas
+EUA	eua
+IU	iu
+CC	ce ce 
+HTML	ache te eme ele 
+GP	ge pe 
+API	api
+ABBA	abba
+SUD	sud
+RIAA	riaa
+GPS	ge pe ese 
+CP	ce pe 
+TDT	te de te 
+ROM	rom
+AAA	aaa
+HR	ache erre 
+PSP	pe ese pe 
+CNN	ce ene ene 
+RCN	erre ce ene 
+AFA	afa
+PS	pe ese 
+OMS	o eme ese 
+CE	ce
+FIA	fia
+CEO	ceo
+IBGE	ibge
+AB	ab
+RDA	erre de a 
+XP	equis pe 
+UCD	u ce de 
+OEA	oea
+UCR	u ce erre 
+USAF	usaf
+INEGI	inegi
+VIP	vip
+FIBA	fiba
+NES	nes
+MLS	eme ele ese 
+AA	aa
+RSS	erre ese ese 
+OVA	ova
+LEB	leb
+IGN	i ge ene 
+SO	so
+NHL	ene ache ele 
+BC	be ce 
+GPL	ge pe ele 
+FK	efe ka 
+SPD	ese pe de 
+COI	coi
+SIDA	sida
+CGT	ce ge te 
+APG	a pe ge 
+GSM	ge ese eme 
+CBA	ce be a 
+LAN	lan
+NET	net
+GM	ge eme 
+DT	de te 
+NASCAR	nascar
+CB	ce be 
+KGB	ka ge be 
+AMD	a eme de 
+IEEE	ieee
+ESPN	e ese pe ene 
+DM	de eme 
+EMT	e eme te 
+FMI	efe eme i 
+WTA	dobleve te a 
+NE	ne
+INDEC	indec
+IATA	iata
+AFI	afi
+CSIC	ce ese i ce 
+IN	in
+UCLA	ucla
+KV	ka ve 
+UV	uv
+BAFTA	bafta
+GB	ge be 
+SR	señor
+RCTV	erre ce te ve 
+PM	pe eme 
+ERC	e erre ce 
+AP	ap
+SI	si
+OH	oh
+PT	pe te 
+RENFE	renfe
+RP	erre pe 
+FIDE	fide
+PCI	pe ce i 
+ITV	i te ve 
+LCD	ele ce de 
+EC	ec
+SQL	ese cu ele 
+RMS	erre eme ese 
+UBA	uba
+CAF	caf
+PE	pe
+SM	ese eme 
+UICN	u i ce ene 
+TNT	te ene te 
+ASCII	asqui
+KDE	ka de e 
+UHF	u ache efe 
+UNIX	iunix
+RPG	erre pe ge 
+PCR	pe ce erre 
+FSLN	efe ese ele ene 
+TCP	te ce pe 
+UDI	udi
+RFC	erre efe ce 
+SNCF	ese ene ce efe 
+PHP	pe ache pe 
+ERP	e erre pe 
+UPN	u pe ene 
+PAL	pal
+UP	up
+TOC	toc
+DNA	de ene a 
+DF	de efe 
+UC	u ce
+TI	ti
+FAO	fao
+ST	ese te 
+NME	ene eme e 
+FDA	efe de a 
+NT	ene te 
+KB	ka be 
+RTVE	erre te ve e 
+MG	eme ge 
+BSD	be ese de 
+RS	erre ese 
+ELN	e ele ene 
+RPM	erre pe eme 
+MIR	mir
+FF	efe efe 
+CW	ce dobleve 
+SW	ese dobleve 
+JONS	jota o ene ese 
+OFC	o efe ce 
+IEC	iec
+PSA	pe ese a 
+AVE	ave
+LED	led
+PG	pe ge 
+UNICEF	unicef
+PCC	pe ce ce 
+SV	ese ve 
+COPE	cope
+MSN	eme ese ene 
+SG	ese ge 
+PSC	pe ese ce 
+SL	ese ele 
+SP	ese pe 
+PPD	pe pe de 
+NW	ene dobleve 
+CSKA	ce ese ka a 
+OACI	oaci
+BOE	boe
+RC	erre ce 
+BBVA	be be u ve a 
+ARIA	aria
+UCV	u ce ve 
+MS	eme ese 
+CSI	ce ese i 
+AOC	aoc
+WRC	dobleve erre ce 
+AOL	aol
+AL	al
+KO	ko
+LLC	ele ele ce 
+CCD	ce ce de 
+FAA	faa
+DIF	dif
+IA	ia
+TA	ta
+ZX	zeta equis 
+MBA	eme be a 
+GJ	ge jota 
+ATV	a te ve 
+PPV	pe pe ve 
+PDF	pe de efe 
+NY	ene y griega 
+KOATUU	koatuu
+NSDAP	ene ese de a pe
+HIP	ache i pe
+XL	equis ele 
+EFE	efe
+UANL	u a ene ele 
+CONCACAF	concacaf
+CPC	ce pe ce 
+ISS	i ese ese 
+PA	pa
+NKVD	ene ka ve de 
+PDC	pe de ce 
+MAC	mac
+DDT	de de te 
+CDU	ce de u 
+TLC	te ele ce 
+XXVI	equis equis ve i 
+OTI	oti
+CDC	ce de ce 
+DB	de be 
+CSS	ce ese ese 
+RAI	rai
+SAN	san
+PSV	pe ese ve 
+LSD	ele ese de 
+SK	ese ka 
+IRC	i erre ce 
+ER	er
+ESA	esa
+OLP	o ele pe 
+GE	ge
+UAT	uat
+DNS	de ene ese 
+TIC	tic
+OK	ok
+ROH	roh
+MD	eme de 
+JJ	jota jota 
+HTTP	ache te te pe 
+PSUC	pe ese u ce 
+SOS	sos
+BE	be
+BA	ba
+EZLN	e zeta ele ene 
+RER	rer
+CO	co
+ARM	a erre eme 
+TGV	te ge ve 
+RFA	erre efe a 
+JG	jota ge 
+BM	be eme 
+ACE	ace
+YPF	y pe efe 
+RNE	erre ene e 
+MCA	eme ce a 
+BDSM	be de ese eme 
+OVW	o ve dobleve 
+MK	eme ka 
+SGAE	ese ge a e 
+HB	ache be 
+DX	de equis 
+RKO	erre ka o 
+PBS	pe be ese 
+RISC	erre i ese ce 
+IUCN	i u ce ene 
+IES	ies
+IDE	ide
+CS	ce ese 
+BIOS	bios
+UNED	uned
+PCUS	pe ce u ese 
+MIDI	midi
+MP	eme pe 
+RGB	erre ge be 
+KS	ka ese 
+CAM	cam
+ASP	a ese pe 
+RAE	rae
+FS	efe ese 
+CAD	cad
+FBC	efe be ce 
+GMT	ge eme te 
+CDS	ce de ese 
+UFC	u efe ce 
+FX	efe equis 
+FTP	efe te pe 
+SNES	ese ene e ese 
+SGC	ese ge ce 
+OVNI	ovni
+NTSC	ene te ese ce 
+IMSS	i eme ese ese 
+URL	u erre ele 
+OCDE	ocde
+MSX	eme ese equis 
+ISA	isa
+FEVE	feve
+PRC	pe erre ce 
+IF	if
+WB	dobleve be 
+PSUV	pe ese u ve 
+FMLN	efe eme ele ene 
+CEDA	ceda
+BAA	baa
+AJ	aj
+FCW	efe ce dobleve 
+IPN	i pe ene 
+CNI	ce ene i 
+FAI	fai
+CI	ci
+ETB	e te be 
+OMC	o eme ce 
+PR	pe erre 
+IC	ic
+BAE	bae
+AFL	a efe ele 
+ZEPA	zepa
+POUM	poum
+LG	ele ge 
+IS	is
+BS	be ese 
+UNE	une
+RAID	raid
+PDA	pe de a 
+GPU	ge pe u 
+CMB	ce eme be 
+ID	id
+DEC	dec
+USC	u ese ce 
+SU	su
+ISU	isu
+PSD	pe ese de 
+COM	com
+SIP	sip
+PSI	pe ese i 
+MSA	eme ese a 
+VHF	ve ache efe 
+ECA	eca
+CMLL	ce eme ele ele 
+CL	ce ele 
+MLB	eme ele be 
+KMT	ka eme te 
+ATI	ati
+IT	it
+CBC	ce be ce 
+BNG	be ene ge 
+ESP	e ese pe 
+NP	ene pe 
+LX	ele equis 
+GUI	gui
+BWV	be dobleve ve 
+ITF	i te efe 
+FN	efe ene 
+TAC	tac
+PDVSA	pdvsa
+JP	jota pe 
+CDP	ce de pe 
+ASA	asa
+SAP	sap
+IVA	iva
+BB	be be 
+NK	ene ka 
+KK	ka ka 
+SN	ese ene 
+UNITA	unita
+IPC	i pe ce 
+FR	efe erre 
+TT	te te 
+RBD	erre be de 
+CN	ce ene 
+PRO	pe erre o 
+ANFP	a ene efe pe 
+RTP	erre te pe 
+CAI	cai
+PAC	pac
+NEC	nec
+ABS	a be ese 
+ICAO	icao
+ANSI	ansi
+PCP	pe ce pe 
+DRM	de erre eme 
+XD	equis de 
+MA	ma
+IFFHS	iffhs
+EU	eu
+CEE	cee
+CBE	ce be e 
+ALF	a ele efe 
+FAP	fap
+BT	be te 
+BP	be pe 
+BID	bid
+SAR	sar
+PVC	pe ve ce 
+VTR	ve te erre 
+IR	ir
+INAH	inah
+ET	et
+CART	ce a erre te 
+AWA	awa
+NXT	ene equis te 
+BIC	bic
+GL	ge ele 
+CAS	cas
+AR	ar
+AMA	ama
+PLD	pe ele de 
+IPA	ipa
+LDU	ele de u 
+ICBM	i ce be eme 
+AFP	a efe pe 
+SEP	sep
+PBI	pe be i 
+DG	de ge 
+ASOBAL	asobal
+JC	jota ce 
+ISSN	i ese ese ene 
+ADSL	a de ese ele 
+OIT	oit
+MVS	eme ve ese 
+IL	il
+KOF	kof
+DEA	dea
+RR	erre erre 
+EBA	eba
+ATC	a te ce 
+ME	me
+GMA	ge eme a 
+CEU	ceu
+NHK	ene ache ka 
+MSC	eme ese ce 
+MAX	max
+ATM	a te eme 
+UER	uer
+MMORPG	mmorpg
+ACP	a ce pe 
+ARC	a erre ce 
+AI	ai
+EADS	e a de ese 
+RF	erre efe 
+PPP	pe pe pe 
+PLC	pe ele ce 
+CEA	cea
+UDP	u de pe 
+AEK	aek
+OSI	osi
+VS	ve ese 
+MAN	man
+CONICET	conicet
+AUC	auc
+IPCC	i pe ce ce 
+SBS	ese be ese 
+RTL	erre te ele 
+PEN	pen
+HAL	hal
+FIS	fis
+DDR	de de erre 
+INTA	inta
+ANV	a ene ve 
+TP	te pe 
+NFC	ene efe ce 
+LIC	lic
+IRB	i erre be 
+CH	ce ache 
+NAD	nad
+AZ	az
+AE	ae
+JNA	jota ene a 
+SIG	sig
+CGI	ce ge i 
+APRA	apra
+IUPAC	iupac
+FORA	fora
+NADH	ene a de ache 
+MOS	mos
+AVN	a ve ene 
+AV	av
+APC	a pe ce 
+KISS	ka i ese ese 
+VGA	ve ge a 
+ITESM	itesm
+DFL	de efe ele 
+VPH	ve pe ache 
+JR	jota erre 
+CCOO	ce ce o o 
+RMN	erre eme ene 
+ESO	eso
+PTS	pe te ese 
+PNUD	pe ene u de 
+EPA	epa
+AMC	a eme ce 
+PGA	pe ge a 
+INSEE	insee
+IMAX	imax
+FE	fe
+BR	be erre 
+GR	ge erre 
+DIN	din
+JFK	jota efe ka 
+CEI	cei
+PK	pe ka 
+LL	ele ele 
+DOT	dot
+HDTV	ache de te ve 
+RFID	erre efe i de 
+CNC	ce ene ce 
+CR	ce erre 
+SNK	ese ene ka 
+FSB	efe ese be 
+FL	efe ele 
+WTC	dobleve te ce 
+SEGA	sega
+PET	pet
+MN	eme ene 
+ISP	i ese pe 
+PCB	pe ce be 
+GS	ge ese 
+EPL	e pe ele 
+BGCI	be ge ce i 
+OPEP	opep
+BK	be ka 
+PRISA	prisa
+PCM	pe ce eme 
+GTA	ge te a 
+FAR	far
+USAAF	usaaf
+CERN	ce e erre ene 
+SCSI	ese ce ese i 
+RSA	erre ese a 
+OR	or
+IND	i ene de 
+IAI	iai
+FGC	efe ge ce 
+DRO	de erre o 
+UPV	u pe ve 
+CONMEBOL	conmebol
+TRL	te erre ele 
+OBE	obe
+MZA	eme zeta a 
+UMTS	u eme te ese 
+RU	ru
+LEGO	lego
+JPEG	jota pe e ge 
+CDMA	ce de eme a 
+OO	oo
+ECO	eco
+DO	do
+ATA	ata
+ADO	ado
+PV	pe ve 
+PLN	pe ele ene 
+ACT	a ce te 
+IDH	i de ache 
+UAM	uam
+SIM	sim
+MIPS	eme i pe ese 
+BAP	bap
+KLM	ka ele eme 
+EPO	epo
+RD	erre de 
+ISI	isi
+VD	ve de 
+UFO	ufo
+SAT	sat
+LIX	lix
+GAL	gal
+EPS	e pe ese 
+DMX	de eme equis 
+CJ	ce jota 
+APA	apa
+ACM	a ce eme 
+OT	ot
+VIA	via
+CSD	ce ese de 
+MV	eme ve 
+EUPV	e u pe ve 
+CTV	ce te ve 
+CAP	cap
+VIVA	viva
+SNC	ese ene ce 
+PETA	peta
+LAV	lav
+HC	ache ce 
+GTI	ge te i 
+CMS	ce eme ese 
+AAC	aac
+UT	ut
+PSN	pe ese ene 
+BD	be de 
+UTE	ute
+TCA	te ce a 
+SKY	ese ka y griega 
+PNG	pe ene ge 
+PL	pe ele 
+ON	on
+NC	ene ce 
+FET	fet
+ATR	a te erre 
+AST	a ese te 
+TN	te ene 
+OF	of
+DD	de de 
+CT	ce te 
+TBS	te be ese 
+UCA	uca
+TD	te de 
+PNP	pe ene pe 
+PDP	pe de pe 
+PCF	pe ce efe 
+UGC	u ge ce 
+RNA	erre ene a 
+EV	ev
+AES	aes
+WEA	wea
+OM	om
+MNR	eme ene erre 
+IWF	i dobleve efe 
+ENIAC	eniac
+ELO	elo
+DR	de erre 
+PSR	pe ese erre 
+LH	ele ache 
+XXXI	equis equis equis i 
+FAL	fal
+PN	pe ene 
+MVR	eme ve erre 
+DRAE	de erre a e 
+ACC	a ce ce 
+PFC	pe efe ce 
+LV	ele ve 
+FSH	efe ese ache 
+ARI	ari
+AK	ak
+PLM	pe ele eme 
+LCR	ele ce erre 
+HSBC	ache ese be ce 
+AIT	ait
+SSC	ese ese ce 
+SDK	ese de ka 
+NS	ene ese 
+LC	ele ce 
+KG	ka ge 
+IAAF	iaaf
+HF	ache efe 
+ECM	e ce eme 
+CNE	ce ene e 
+UPC	u pe ce 
+SED	sed
+ISSSTE	issste
+GPRS	ge pe erre ese 
+CFR	ce efe erre 
+PB	pe be 
+JBL	jota be ele 
+GTP	ge te pe 
+ADP	a de pe 
+IDOT	idot
+FDI	efe de i 
+EM	em
+VV	ve ve 
+IRT	i erre te 
+CNRS	ce ene erre ese 
+ARD	a erre de 
+USDA	usda
+ULEB	uleb
+TK	te ka 
+CMOS	ce eme o ese 
+CIMA	cima
+RM	erre eme 
+RFEF	erre efe e efe 
+REM	rem
+ONO	ono
+LFP	ele efe pe 
+IWW	i dobleve dobleve 
+INBA	inba
+ICV	i ce ve 
+ICE	ice
+CEN	cen
+TS	te ese 
+PCA	pe ce a 
+BL	be ele 
+USP	u ese pe 
+SCO	ese ce o 
+CRC	ce erre ce 
+UAG	uag
+BAC	bac
+VOC	voc
+MAD	mad
+EX	ex
+TWA	te dobleve a 
+SF	ese efe 
+PCS	pe ce ese 
+NF	ene efe 
+LXI	ele equis i 
+HIM	him
+COPEI	copei
+PF	pe efe 
+IMD	i eme de 
+CCC	ce ce ce 
+UMP	u eme pe 
+RPC	erre pe ce 
+RE	re
+KPD	ka pe de 
+KAS	kas
+ESMA	esma
+UDC	u de ce 
+HMAS	ache eme a ese 
+CPA	ce pe a 
+CIC	cic
+AMP	a eme pe 
+AMG	a eme ge 
+RTS	erre te ese 
+PCV	pe ce ve 
+IE	ie
+CIE	cie
+BAR	bar
+AJAX	ajax
+AEG	aeg
+RAC	rac
+PPC	pe pe ce 
+PAR	par
+NACIONAL	nacional
+MTA	eme te a 
+LO	lo
+JK	jota ka 
+DRAM	de erre a eme 
+BBS	be be ese 
+TDI	te de i 
+DOGC	de o ge ce 
+ACS	a ce ese 
+USL	u ese ele 
+UR	ur
+SDRAM	sdram
+NSA	ene ese a 
+MPLA	eme pe ele a 
+LAX	lax
+CSA	ce ese a 
+NAS	nas
+CDN	ce de ene 
+BMT	be eme te 
+UAI	uai
+TVG	te ve ge 
+PREMIO	premio
+NBL	ene be ele 
+LVII	ele ve i i 
+TM	te eme 
+SWAT	ese dobleve a te 
+NOFX	ene o efe equis 
+FDP	efe de pe 
+CFA	ce efe a 
+CDI	ce de i 
+BET	bet
+ART	a erre te 
+XY	equis y griega 
+FLN	efe ele ene 
+CTC	ce te ce 
+CORFO	corfo
+ZZ	zeta zeta 
+TX	te equis 
+POSIX	posix
+MX	eme equis 
+MPEG	eme pe e ge 
+GH	ge ache 
+UMD	u eme de 
+TJ	te jota 
+OC	oc
+LHS	ele ache ese 
+SUR	sur
+PSE	pe ese e 
+NAT	nat
+IWA	iwa
+GBA	ge be a 
+CSU	ce ese u 
+BCE	be ce e 
+SEAL	seal
+RSC	erre ese ce 
+LI	li
+IPS	i pe ese 
+GTK	ge te ka 
+ERA	era
+DAS	das
+SOIUSA	soiusa
+PH	pe ache 
+OZ	oz
+NOAA	noaa
+INI	ini
+AMB	a eme be 
+TAM	tam
+NVIDIA	nvidia
+LGTB	ele ge te be 
+ALL	a ele ele 
+NH	ene ache 
+EGB	e ge be 
+DNI	de ene i 
+CRT	ce erre te 
+BPI	be pe i 
+TSR	te ese erre 
+PRT	pe erre te 
+FAD	fad
+DMA	de eme a 
+CMT	ce eme te 
+UB	ub
+SIC	sic
+MIN	min
+LVI	ele ve i 
+ILS	i ele ese 
+CEPAL	cepal

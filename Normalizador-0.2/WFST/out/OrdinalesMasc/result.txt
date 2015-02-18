@@ -1,0 +1,10 @@
+9	8	2	eps	9
+0	4085
+1	0	0	eps
+2	1	eps	(espacio)
+3	2	eps	e
+4	3	eps	t
+5	4	eps	n
+6	5	eps	i
+7	6	eps	e
+8	7	eps	v	2

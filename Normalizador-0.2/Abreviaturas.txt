@@ -1,0 +1,209 @@
+aa.rr.	altezas reales
+abr.	abreviatura
+abrev.	abreviatura
+a.c.	antes de cristo
+adj.	adjetivo 
+adm.	administrador
+admón.	administración
+afma.	afectísima
+afmas.	afectísimas
+afmo.	afectísimo
+afmos.	afectísimos
+ag.	a je
+ago.	agosto
+am.	a eme
+ap.	a pe
+apdo.	apartado
+art.	artículo
+arts.	artículos
+arz.	arzobispo
+arzbpo.	arzobispo
+assn.	asociación
+atte.	atentamente
+av.	avenida
+avda.	avenida
+aprox.	aproximadamente
+bros.	bros
+bv.	bulevar
+cap.	capítulo
+caps.	capítulos
+cg.	ce je
+cgo.	cargo
+cia.	companía
+cía.	companía
+cit.	cit
+co.	ce o
+col.	col
+corp.	corp
+cos.	cos
+cta.	cuenta
+cte.	corriente
+ctra.	carretera
+cts.	ce te ese
+d.c.	después de cristo
+dcha.	derecha
+dept.	departamento
+depto.	departamento
+dic.	de i ce
+doc.	documento
+docs.	documentos
+dpt.	departamento
+dpto.	departamento
+dr.	doctor
+dra.	doctora
+dras.	doctoras
+dres.	doctores
+dto.	departamento
+dupdo.	duplicado
+ed.	edificio
+ee.uu.	estados unidos 
+ej.	ejemplo 
+emma.	eminentísima
+emmas.	eminentísimas
+emmo.	eminentísimo
+emmos.	eminentísimos
+ene.	enero
+entlo.	entresuelo
+entpo.	entrepiso
+esp.	español
+etc.	etcétera
+ex.	excelentisimo
+excm.	excelentisimo
+excma.	excelentisima
+excmas.	excelentisimas
+excmo.	excelentisimo
+excmos.	excelentisimos
+fasc.	fascículo
+fdo.	firmado
+feb.	febrero
+fig.	figura
+figs.	figuras
+fol.	folio
+fra.	factura
+f.c.	fútbol club
+gb.	je be
+gral.	general
+hnos.	hermanos
+hros.	hermanos
+ib.	ibídem
+ibid.	ibídem
+ibíd.	ibídem
+id.	ídem
+íd.	ídem
+ilm.	ilustrísimo
+ilma.	ilustrísima
+ilmas.	ilustrísimas
+ilmo.	ilustrísimo
+ilmos.	ilustrísimos
+iltre.	ilustre
+inc.	inc
+intr.	introducción
+ít.	ít
+izq.	izquierda
+izqda.	izquierda
+izqdo.	izquierdo
+jr.	yunior
+jul.	julio
+jun.	junio
+lám.	lám
+lda.	limitada
+ldo.	limitado
+lib.	lib
+lim.	lim	
+loc.	loc
+ltd.	limitada
+ltda.	limitada
+mar.	marzo
+máx.	máximo
+may.	mayo
+mín.	mínimo
+mons.	monseñor
+mr.	mister
+mrs.	misters
+ms.	mis
+mss.	misis
+mtro.	maestro
+nov.	noviembre
+ntra.	nuestra
+ntro.	nuestro
+núm.	número
+ob.	obispo
+obpo.	obispo
+oct.	octubre
+op.	op
+pág.	página
+pag.	página
+págs.	páginas
+párr.	párrafo
+pd.	postdata
+ph.	pe ache
+pje.	pasaje
+pl.	pe ele 
+plc.	pe ele ce
+pm.	pe eme
+pp.	pe pe 
+ppal.	principal
+pral.	principal
+prof.	profesor
+pról.	prólogo
+prov.	provincia
+ps.	pe ese
+pta.	puerta
+ptas.	puertas
+pte.	presidente
+pts.	puntos
+pza.	plaza
+rda.	erre de a
+rdo.	erre de o
+ref.	referencia
+reg.	reg
+rel.	rel
+rev.	rev
+revda.	reverenda
+revdo.	reverendo
+rma.	erre eme a
+rmo.	erre eme o
+r.p.m.	erre pe eme
+rte.	remitente
+sdad.	sociedad
+sec.	sec
+secret.	secretario
+sep.	septiembre
+sig.	siguiente
+smo.	ese eme o
+sr.	señor
+sra.	señora
+sras.	señoras
+sres.	señores
+srs.	señores
+srta.	señorita
+ss.mm.	sus majestades
+sta.	santa
+sto.	santo
+sust.	sustantivo
+tech.	tech
+tel.	teléfono
+teléf.	teléfono
+telf.	teléfono
+ten.	ten
+tfono.	teléfono
+tít.	título
+tlf.	teléfono
+ud.	usted
+uds.	ustedes
+vda.	viuda
+vdo.	viudo
+vid.	vid
+vol.	volumen
+vols.	vol
+vtra.	vuestra
+vra.	vuestra
+vro.	vuestro
+vta.	vuelta
+ing.	ingeniero
+arq.	arquitecto
+agr.	agrimensor
+lic.	licenciado
+med.	médico
+vet.	veterinario
+ff.aa.	fuerzas armadas

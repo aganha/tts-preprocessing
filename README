@@ -69,15 +69,13 @@ freeling-3.1.tar.gz     (Bajar de http://nlp.lsi.upc.edu/freeling/)
 
 Compilación de todos los módulos del sistema:
 
-for i in *-0.2/; do 
+for i in *-0.3/; do 
  echo \######### $i \#########
  cd $i
- make clean && ./configure && make
+ ./configure && make
  cd ..
  echo
 done > make.log 2>&1
-
-Normalizador no compila con make, sino con `bash CompilaNormalizador'.
 
 =======================================================================
 
@@ -101,5 +99,5 @@ Observaciones:
 =======================================================================
 
 DC-FCEyN-UBA
-Septiembre 2014
+Abril 2015
 

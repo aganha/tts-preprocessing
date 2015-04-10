@@ -1,0 +1,314 @@
+digraph FST {
+rankdir = LR;
+size = "8.5,11";
+label = "";
+center = 1;
+orientation = Portrait;
+ranksep = "0.4";
+nodesep = "0.25";
+0 [label = "0", shape = circle, style = bold, fontsize = 14]
+	0 -> 3 [label = "(espacio):eps", fontsize = 14];
+	0 -> 1 [label = "(espacio):eps", fontsize = 14];
+1 [label = "1", shape = circle, style = solid, fontsize = 14]
+	1 -> 2 [label = "A:eps", fontsize = 14];
+2 [label = "2", shape = circle, style = solid, fontsize = 14]
+	2 -> 4 [label = "S:eps", fontsize = 14];
+3 [label = "3", shape = circle, style = solid, fontsize = 14]
+	3 -> 9 [label = "U:eps", fontsize = 14];
+	3 -> 8 [label = "m:eps", fontsize = 14];
+	3 -> 7 [label = "k:eps", fontsize = 14];
+	3 -> 6 [label = "R:eps", fontsize = 14];
+	3 -> 5 [label = "C:eps", fontsize = 14];
+4 [label = "4", shape = circle, style = solid, fontsize = 14]
+	4 -> 10 [label = "C:eps", fontsize = 14];
+5 [label = "5", shape = circle, style = solid, fontsize = 14]
+	5 -> 11 [label = "D:eps", fontsize = 14];
+6 [label = "6", shape = circle, style = solid, fontsize = 14]
+	6 -> 12 [label = "H:eps", fontsize = 14];
+7 [label = "7", shape = circle, style = solid, fontsize = 14]
+	7 -> 13 [label = "m:eps", fontsize = 14];
+8 [label = "8", shape = circle, style = solid, fontsize = 14]
+	8 -> 14 [label = "3:eps", fontsize = 14];
+9 [label = "9", shape = circle, style = solid, fontsize = 14]
+	9 -> 15 [label = "B:eps", fontsize = 14];
+10 [label = "10", shape = circle, style = solid, fontsize = 14]
+	10 -> 16 [label = "I:eps", fontsize = 14];
+11 [label = "11", shape = circle, style = solid, fontsize = 14]
+	11 -> 17 [label = "-:eps", fontsize = 14];
+12 [label = "12", shape = circle, style = solid, fontsize = 14]
+	12 -> 19 [label = "+:eps", fontsize = 14];
+	12 -> 18 [label = "-:eps", fontsize = 14];
+13 [label = "13", shape = circle, style = solid, fontsize = 14]
+	13 -> 21 [label = "2:eps", fontsize = 14];
+	13 -> 20 [label = "eps:(espacio)", fontsize = 14];
+14 [label = "14", shape = circle, style = solid, fontsize = 14]
+	14 -> 22 [label = "eps:(espacio)", fontsize = 14];
+15 [label = "15", shape = circle, style = solid, fontsize = 14]
+	15 -> 23 [label = "4:eps", fontsize = 14];
+16 [label = "16", shape = circle, style = solid, fontsize = 14]
+	16 -> 24 [label = "I:eps", fontsize = 14];
+17 [label = "17", shape = circle, style = solid, fontsize = 14]
+	17 -> 25 [label = "R:eps", fontsize = 14];
+18 [label = "18", shape = circle, style = solid, fontsize = 14]
+	18 -> 26 [label = "eps:(espacio)", fontsize = 14];
+19 [label = "19", shape = circle, style = solid, fontsize = 14]
+	19 -> 27 [label = "eps:(espacio)", fontsize = 14];
+20 [label = "20", shape = circle, style = solid, fontsize = 14]
+	20 -> 28 [label = "eps:k", fontsize = 14];
+21 [label = "21", shape = circle, style = solid, fontsize = 14]
+	21 -> 20 [label = "eps:(espacio)", fontsize = 14];
+22 [label = "22", shape = circle, style = solid, fontsize = 14]
+	22 -> 29 [label = "eps:m", fontsize = 14];
+23 [label = "23", shape = circle, style = solid, fontsize = 14]
+	23 -> 30 [label = "0:eps", fontsize = 14];
+24 [label = "24", shape = circle, style = solid, fontsize = 14]
+	24 -> 31 [label = "eps:(espacio)", fontsize = 14];
+25 [label = "25", shape = circle, style = solid, fontsize = 14]
+	25 -> 34 [label = "W:eps", fontsize = 14];
+	25 -> 33 [label = "O:eps", fontsize = 14];
+	25 -> 32 [label = "eps:(espacio)", fontsize = 14];
+26 [label = "26", shape = circle, style = solid, fontsize = 14]
+	26 -> 35 [label = "eps:e", fontsize = 14];
+27 [label = "27", shape = circle, style = solid, fontsize = 14]
+	27 -> 36 [label = "eps:e", fontsize = 14];
+28 [label = "28", shape = circle, style = solid, fontsize = 14]
+	28 -> 37 [label = "eps:i", fontsize = 14];
+29 [label = "29", shape = circle, style = solid, fontsize = 14]
+	29 -> 38 [label = "eps:e", fontsize = 14];
+30 [label = "30", shape = circle, style = solid, fontsize = 14]
+	30 -> 39 [label = "eps:(espacio)", fontsize = 14];
+31 [label = "31", shape = circle, style = solid, fontsize = 14]
+	31 -> 40 [label = "eps:(espacio)", fontsize = 14];
+32 [label = "32", shape = circle, style = solid, fontsize = 14]
+	32 -> 41 [label = "eps:c", fontsize = 14];
+33 [label = "33", shape = circle, style = solid, fontsize = 14]
+	33 -> 42 [label = "M:eps", fontsize = 14];
+34 [label = "34", shape = circle, style = solid, fontsize = 14]
+	34 -> 43 [label = "eps:(espacio)", fontsize = 14];
+35 [label = "35", shape = circle, style = solid, fontsize = 14]
+	35 -> 44 [label = "eps:r", fontsize = 14];
+36 [label = "36", shape = circle, style = solid, fontsize = 14]
+	36 -> 45 [label = "eps:r", fontsize = 14];
+37 [label = "37", shape = circle, style = solid, fontsize = 14]
+	37 -> 46 [label = "eps:l", fontsize = 14];
+38 [label = "38", shape = circle, style = solid, fontsize = 14]
+	38 -> 47 [label = "eps:t", fontsize = 14];
+39 [label = "39", shape = circle, style = solid, fontsize = 14]
+	39 -> 48 [label = "eps:u", fontsize = 14];
+40 [label = "40", shape = circle, style = solid, fontsize = 14]
+	40 -> 49 [label = "eps:A", fontsize = 14];
+41 [label = "41", shape = circle, style = solid, fontsize = 14]
+	41 -> 50 [label = "eps:e", fontsize = 14];
+42 [label = "42", shape = circle, style = solid, fontsize = 14]
+	42 -> 32 [label = "eps:(espacio)", fontsize = 14];
+43 [label = "43", shape = circle, style = solid, fontsize = 14]
+	43 -> 51 [label = "eps:c", fontsize = 14];
+44 [label = "44", shape = circle, style = solid, fontsize = 14]
+	44 -> 52 [label = "eps:r", fontsize = 14];
+45 [label = "45", shape = circle, style = solid, fontsize = 14]
+	45 -> 53 [label = "eps:r", fontsize = 14];
+46 [label = "46", shape = circle, style = solid, fontsize = 14]
+	46 -> 54 [label = "eps:m", fontsize = 14];
+47 [label = "47", shape = circle, style = solid, fontsize = 14]
+	47 -> 55 [label = "eps:r", fontsize = 14];
+48 [label = "48", shape = circle, style = solid, fontsize = 14]
+	48 -> 56 [label = "eps:(espacio)", fontsize = 14];
+49 [label = "49", shape = circle, style = solid, fontsize = 14]
+	49 -> 57 [label = "eps:S", fontsize = 14];
+50 [label = "50", shape = circle, style = solid, fontsize = 14]
+	50 -> 58 [label = "eps:(espacio)", fontsize = 14];
+51 [label = "51", shape = circle, style = solid, fontsize = 14]
+	51 -> 59 [label = "eps:e", fontsize = 14];
+52 [label = "52", shape = circle, style = solid, fontsize = 14]
+	52 -> 60 [label = "eps:e", fontsize = 14];
+53 [label = "53", shape = circle, style = solid, fontsize = 14]
+	53 -> 61 [label = "eps:e", fontsize = 14];
+54 [label = "54", shape = circle, style = solid, fontsize = 14]
+	54 -> 62 [label = "eps:e", fontsize = 14];
+55 [label = "55", shape = circle, style = solid, fontsize = 14]
+	55 -> 63 [label = "eps:o", fontsize = 14];
+56 [label = "56", shape = circle, style = solid, fontsize = 14]
+	56 -> 64 [label = "eps:b", fontsize = 14];
+57 [label = "57", shape = circle, style = solid, fontsize = 14]
+	57 -> 65 [label = "eps:Q", fontsize = 14];
+58 [label = "58", shape = circle, style = solid, fontsize = 14]
+	58 -> 66 [label = "eps:d", fontsize = 14];
+59 [label = "59", shape = circle, style = solid, fontsize = 14]
+	59 -> 67 [label = "eps:(espacio)", fontsize = 14];
+60 [label = "60", shape = circle, style = solid, fontsize = 14]
+	60 -> 68 [label = "eps:(espacio)", fontsize = 14];
+61 [label = "61", shape = circle, style = solid, fontsize = 14]
+	61 -> 69 [label = "eps:(espacio)", fontsize = 14];
+62 [label = "62", shape = circle, style = solid, fontsize = 14]
+	62 -> 70 [label = "eps:t", fontsize = 14];
+63 [label = "63", shape = circle, style = solid, fontsize = 14]
+	63 -> 71 [label = "eps:s", fontsize = 14];
+64 [label = "64", shape = circle, style = solid, fontsize = 14]
+	64 -> 72 [label = "eps:e", fontsize = 14];
+65 [label = "65", shape = circle, style = solid, fontsize = 14]
+	65 -> 73 [label = "eps:U", fontsize = 14];
+66 [label = "66", shape = circle, style = solid, fontsize = 14]
+	66 -> 74 [label = "eps:e", fontsize = 14];
+67 [label = "67", shape = circle, style = solid, fontsize = 14]
+	67 -> 75 [label = "eps:d", fontsize = 14];
+68 [label = "68", shape = circle, style = solid, fontsize = 14]
+	68 -> 76 [label = "eps:h", fontsize = 14];
+69 [label = "69", shape = circle, style = solid, fontsize = 14]
+	69 -> 77 [label = "eps:h", fontsize = 14];
+70 [label = "70", shape = circle, style = solid, fontsize = 14]
+	70 -> 78 [label = "eps:r", fontsize = 14];
+71 [label = "71", shape = circle, style = solid, fontsize = 14]
+	71 -> 79 [label = "eps:(espacio)", fontsize = 14];
+72 [label = "72", shape = circle, style = solid, fontsize = 14]
+	72 -> 80 [label = "eps:(espacio)", fontsize = 14];
+73 [label = "73", shape = circle, style = solid, fontsize = 14]
+	73 -> 147 [label = "eps:I", fontsize = 14];
+74 [label = "74", shape = circle, style = solid, fontsize = 14]
+	74 -> 81 [label = "eps:(espacio)", fontsize = 14];
+75 [label = "75", shape = circle, style = solid, fontsize = 14]
+	75 -> 82 [label = "eps:e", fontsize = 14];
+76 [label = "76", shape = circle, style = solid, fontsize = 14]
+	76 -> 83 [label = "eps:a", fontsize = 14];
+77 [label = "77", shape = circle, style = solid, fontsize = 14]
+	77 -> 84 [label = "eps:a", fontsize = 14];
+78 [label = "78", shape = circle, style = solid, fontsize = 14]
+	78 -> 85 [label = "eps:o", fontsize = 14];
+79 [label = "79", shape = circle, style = solid, fontsize = 14]
+	79 -> 86 [label = "eps:c", fontsize = 14];
+80 [label = "80", shape = circle, style = solid, fontsize = 14]
+	80 -> 87 [label = "eps:c", fontsize = 14];
+81 [label = "81", shape = circle, style = solid, fontsize = 14]
+	81 -> 88 [label = "eps:r", fontsize = 14];
+82 [label = "82", shape = circle, style = solid, fontsize = 14]
+	82 -> 89 [label = "eps:(espacio)", fontsize = 14];
+83 [label = "83", shape = circle, style = solid, fontsize = 14]
+	83 -> 90 [label = "eps:c", fontsize = 14];
+84 [label = "84", shape = circle, style = solid, fontsize = 14]
+	84 -> 91 [label = "eps:c", fontsize = 14];
+85 [label = "85", shape = circle, style = solid, fontsize = 14]
+	85 -> 92 [label = "eps:s", fontsize = 14];
+86 [label = "86", shape = circle, style = solid, fontsize = 14]
+	86 -> 93 [label = "eps:b", fontsize = 14];
+87 [label = "87", shape = circle, style = solid, fontsize = 14]
+	87 -> 94 [label = "eps:u", fontsize = 14];
+88 [label = "88", shape = circle, style = solid, fontsize = 14]
+	88 -> 95 [label = "eps:o", fontsize = 14];
+89 [label = "89", shape = circle, style = solid, fontsize = 14]
+	89 -> 96 [label = "eps:d", fontsize = 14];
+90 [label = "90", shape = circle, style = solid, fontsize = 14]
+	90 -> 97 [label = "eps:h", fontsize = 14];
+91 [label = "91", shape = circle, style = solid, fontsize = 14]
+	91 -> 98 [label = "eps:h", fontsize = 14];
+92 [label = "92", shape = circle, style = solid, fontsize = 14]
+	92 -> 99 [label = "eps:(espacio)", fontsize = 14];
+93 [label = "93", shape = circle, style = solid, fontsize = 14]
+	93 -> 100 [label = "eps:i", fontsize = 14];
+94 [label = "94", shape = circle, style = solid, fontsize = 14]
+	94 -> 101 [label = "eps:a", fontsize = 14];
+95 [label = "95", shape = circle, style = solid, fontsize = 14]
+	95 -> 146 [label = "eps:m", fontsize = 14];
+96 [label = "96", shape = circle, style = solid, fontsize = 14]
+	96 -> 102 [label = "eps:e", fontsize = 14];
+97 [label = "97", shape = circle, style = solid, fontsize = 14]
+	97 -> 103 [label = "eps:e", fontsize = 14];
+98 [label = "98", shape = circle, style = solid, fontsize = 14]
+	98 -> 104 [label = "eps:e", fontsize = 14];
+99 [label = "99", shape = circle, style = solid, fontsize = 14]
+	99 -> 105 [label = "eps:c", fontsize = 14];
+100 [label = "100", shape = circle, style = solid, fontsize = 14]
+	100 -> 106 [label = "eps:c", fontsize = 14];
+101 [label = "101", shape = circle, style = solid, fontsize = 14]
+	101 -> 107 [label = "eps:r", fontsize = 14];
+102 [label = "102", shape = circle, style = solid, fontsize = 14]
+	102 -> 108 [label = "eps:(espacio)", fontsize = 14];
+103 [label = "103", shape = circle, style = solid, fontsize = 14]
+	103 -> 109 [label = "eps:(espacio)", fontsize = 14];
+104 [label = "104", shape = circle, style = solid, fontsize = 14]
+	104 -> 110 [label = "eps:(espacio)", fontsize = 14];
+105 [label = "105", shape = circle, style = solid, fontsize = 14]
+	105 -> 111 [label = "eps:u", fontsize = 14];
+106 [label = "106", shape = circle, style = solid, fontsize = 14]
+	106 -> 112 [label = "eps:o", fontsize = 14];
+107 [label = "107", shape = circle, style = solid, fontsize = 14]
+	107 -> 113 [label = "eps:e", fontsize = 14];
+108 [label = "108", shape = circle, style = solid, fontsize = 14]
+	108 -> 114 [label = "eps:l", fontsize = 14];
+109 [label = "109", shape = circle, style = solid, fontsize = 14]
+	109 -> 115 [label = "eps:n", fontsize = 14];
+110 [label = "110", shape = circle, style = solid, fontsize = 14]
+	110 -> 116 [label = "eps:p", fontsize = 14];
+111 [label = "111", shape = circle, style = solid, fontsize = 14]
+	111 -> 117 [label = "eps:a", fontsize = 14];
+112 [label = "112", shape = circle, style = solid, fontsize = 14]
+	112 -> 147 [label = "eps:s", fontsize = 14];
+113 [label = "113", shape = circle, style = solid, fontsize = 14]
+	113 -> 118 [label = "eps:n", fontsize = 14];
+114 [label = "114", shape = circle, style = solid, fontsize = 14]
+	114 -> 119 [label = "eps:e", fontsize = 14];
+115 [label = "115", shape = circle, style = solid, fontsize = 14]
+	115 -> 120 [label = "eps:e", fontsize = 14];
+116 [label = "116", shape = circle, style = solid, fontsize = 14]
+	116 -> 121 [label = "eps:o", fontsize = 14];
+117 [label = "117", shape = circle, style = solid, fontsize = 14]
+	117 -> 122 [label = "eps:d", fontsize = 14];
+118 [label = "118", shape = circle, style = solid, fontsize = 14]
+	118 -> 123 [label = "eps:t", fontsize = 14];
+119 [label = "119", shape = circle, style = solid, fontsize = 14]
+	119 -> 124 [label = "eps:c", fontsize = 14];
+120 [label = "120", shape = circle, style = solid, fontsize = 14]
+	120 -> 125 [label = "eps:g", fontsize = 14];
+121 [label = "121", shape = circle, style = solid, fontsize = 14]
+	121 -> 126 [label = "eps:s", fontsize = 14];
+122 [label = "122", shape = circle, style = solid, fontsize = 14]
+	122 -> 127 [label = "eps:r", fontsize = 14];
+123 [label = "123", shape = circle, style = solid, fontsize = 14]
+	123 -> 147 [label = "eps:a", fontsize = 14];
+124 [label = "124", shape = circle, style = solid, fontsize = 14]
+	124 -> 128 [label = "eps:t", fontsize = 14];
+125 [label = "125", shape = circle, style = solid, fontsize = 14]
+	125 -> 129 [label = "eps:a", fontsize = 14];
+126 [label = "126", shape = circle, style = solid, fontsize = 14]
+	126 -> 129 [label = "eps:i", fontsize = 14];
+127 [label = "127", shape = circle, style = solid, fontsize = 14]
+	127 -> 130 [label = "eps:a", fontsize = 14];
+128 [label = "128", shape = circle, style = solid, fontsize = 14]
+	128 -> 131 [label = "eps:u", fontsize = 14];
+129 [label = "129", shape = circle, style = solid, fontsize = 14]
+	129 -> 132 [label = "eps:t", fontsize = 14];
+130 [label = "130", shape = circle, style = solid, fontsize = 14]
+	130 -> 133 [label = "eps:d", fontsize = 14];
+131 [label = "131", shape = circle, style = solid, fontsize = 14]
+	131 -> 134 [label = "eps:r", fontsize = 14];
+132 [label = "132", shape = circle, style = solid, fontsize = 14]
+	132 -> 135 [label = "eps:i", fontsize = 14];
+133 [label = "133", shape = circle, style = solid, fontsize = 14]
+	133 -> 147 [label = "eps:o", fontsize = 14];
+134 [label = "134", shape = circle, style = solid, fontsize = 14]
+	134 -> 136 [label = "eps:a", fontsize = 14];
+135 [label = "135", shape = circle, style = solid, fontsize = 14]
+	135 -> 133 [label = "eps:v", fontsize = 14];
+136 [label = "136", shape = circle, style = solid, fontsize = 14]
+	136 -> 137 [label = "eps:(espacio)", fontsize = 14];
+137 [label = "137", shape = circle, style = solid, fontsize = 14]
+	137 -> 138 [label = "eps:e", fontsize = 14];
+138 [label = "138", shape = circle, style = solid, fontsize = 14]
+	138 -> 139 [label = "eps:s", fontsize = 14];
+139 [label = "139", shape = circle, style = solid, fontsize = 14]
+	139 -> 140 [label = "eps:c", fontsize = 14];
+140 [label = "140", shape = circle, style = solid, fontsize = 14]
+	140 -> 141 [label = "eps:r", fontsize = 14];
+141 [label = "141", shape = circle, style = solid, fontsize = 14]
+	141 -> 142 [label = "eps:i", fontsize = 14];
+142 [label = "142", shape = circle, style = solid, fontsize = 14]
+	142 -> 143 [label = "eps:t", fontsize = 14];
+143 [label = "143", shape = circle, style = solid, fontsize = 14]
+	143 -> 144 [label = "eps:u", fontsize = 14];
+144 [label = "144", shape = circle, style = solid, fontsize = 14]
+	144 -> 145 [label = "eps:r", fontsize = 14];
+145 [label = "145", shape = circle, style = solid, fontsize = 14]
+	145 -> 146 [label = "eps:a", fontsize = 14];
+146 [label = "146", shape = circle, style = solid, fontsize = 14]
+	146 -> 147 [label = "eps:(espacio)", fontsize = 14];
+147 [label = "147", shape = doublecircle, style = solid, fontsize = 14]
+	147 -> 0 [label = "eps:eps", fontsize = 14];
+}

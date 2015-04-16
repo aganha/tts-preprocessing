@@ -10,34 +10,16 @@ print 'El output sera grabado en', TMP_DIR
 
 if len(sys.argv) == 1:
   print
-  print "Sistema de Síntesis del Habla"
+  print "Front-End de un Sistema de Síntesis del Habla"
   print "Departamento de Computación - Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires"
   print
   print "Se requiere la URL de la página de Wikipedia a sintetizar: "
   print
-  print "Sintaxis: ./TTS.py URL [voz] " 
+  print "Sintaxis: ./TTS.py URL" 
   print
-  print "Voces: "
-  print "		Festival_UBA   (selección de unidades, base SECYT)"
-  print "		Festival_el_diphone (español neutro)"
-  print "		MaryTTS_UBA1   (selección de unidades, base SECYT)"
-  print "		MaryTTS_UBA2   (HMM, base SECYT)" 
-  print
-  print "Ejemplo: ./TTS.py http://es.wikipedia.org/wiki/Universidad_de_Buenos_Aires Festival_UBA"
+  print "Ejemplo: ./TTS.py http://es.wikipedia.org/wiki/Universidad_de_Buenos_Aires"
   print
   sys.exit(1)
-
-# Leemos la voz elegida. Por defecto, es Festival HMM.
-voz_elegida = "uba_spanish_arg_secyt_cg"
-if len(sys.argv) >= 3:
-  if sys.argv[2] == "Festival_UBA":
-    voz_elegida = "uba_spanish_arg_secyt_cg"
-  elif sys.argv[2] == "Festival_el_diphone":
-    voz_elegida = "el_diphone"
-  elif sys.argv[2] == "MaryTTS_UBA1":
-    voz_elegida = "uba_secyt"
-  elif sys.argv[2] == "MaryTTS_UBA2":
-    voz_elegida = "uba_secyt-hsmm"
 
 # Preparamos la secuencia de comandos a ejecutar.
 cmd = ''
@@ -56,14 +38,7 @@ cmd += 'cd Traductor-0.3/; ./Traductor -i %s/TextoSeparado.txt -o %s/TextoTraduc
 # Normaliza el texto.
 cmd += 'cd Normalizador-0.3/; ./Normalizador -i %s/TextoTraducido.txt -o %s/SalidaNormalizador.txt  > /dev/null; cd ..;' % (TMP_DIR, TMP_DIR)
 
-# Para Festival hace falta hacer algunos cambios. Ejemplos: "á"-->"'a", "fin."-->"fin ."
-if voz_elegida=="uba_spanish_arg_secyt_cg" or voz_elegida=="el_diphone":
-  cmd += 'cd BackEndTransf-0.3/; ./BackEndTransf -i %s/SalidaNormalizador.txt -o %s/SalidaBackEndTransf.txt ; cd ..;' % (TMP_DIR, TMP_DIR)
-else:
-  cmd += 'cp %s/SalidaNormalizador.txt %s/SalidaBackEndTransf.txt;' % (TMP_DIR, TMP_DIR)
-
-# Síntesis propiamente dicha, con Festival o Mary TTS.
-cmd += 'cd BackEnd-0.3/; ./BackEnd -i %s/SalidaBackEndTransf.txt -o %s -v %s; cd ..;' % (TMP_DIR, TMP_DIR, voz_elegida)
+print 'Salida: %s/SalidaNormalizador.txt' % TMP_DIR
 
 # Ejecutamos los comandos.
 os.system(cmd)
